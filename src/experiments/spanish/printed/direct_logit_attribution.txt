@@ -1,0 +1,79 @@
+Kept verb forms:
+
+
+✅ Kept 186 out of 360 (51.67%)
+📎 results_yo = {'label': 'Format YO', 'accuracy': 0.7096773982048035, 'avg_gold_prob': 0.5881559252738953, 'avg_gold_rank': 9.768816947937012, 'num_total': 186, 'num_correct': 132}
+
+📊 Evaluation results for Format YO
+Top-1 Accuracy: 70.97% (132/186)
+Average P(gold): 58.82%
+Average Rank of Gold Token: 9.77
+
+📊 Evaluation results for Format TU
+Top-1 Accuracy: 80.65% (150/186)
+Average P(gold): 65.87%
+Average Rank of Gold Token: 43.34
+
+🔍 Direct Logit Attribution for Format YO
+Per-prompt DLA values (first 10): [10.13491439819336, 20.123729705810547, 20.90317726135254, 10.875347137451172, 18.538196563720703, 20.834457397460938, 9.530648231506348, 9.038633346557617, 16.764144897460938, 9.147476196289062]
+Average DLA: 16.916
+
+🔍 Direct Logit Attribution for Format TU
+Per-prompt DLA values (first 10): [9.142902374267578, 19.996044158935547, 19.630306243896484, 10.607532501220703, 18.541383743286133, 22.808462142944336, 8.468721389770508, 8.007750511169434, 16.261974334716797, 13.555314064025879]
+Average DLA: 17.284
+
+ 📈 Logit Lens (YO):
+Layer 0: 1.257
+Layer 1: 1.942
+Layer 2: 2.097
+Layer 3: 2.688
+Layer 4: 2.869
+Layer 5: 2.980
+Layer 6: 2.951
+Layer 7: 2.819
+Layer 8: 3.048
+Layer 9: 3.229
+Layer 10: 3.693
+Layer 11: 3.718
+Layer 12: 3.869
+Layer 13: 4.059
+Layer 14: 4.352
+Layer 15: 4.530
+Layer 16: 5.128
+Layer 17: 5.802
+Layer 18: 7.169
+Layer 19: 9.349
+Layer 20: 11.632
+Layer 21: 14.764
+Layer 22: 16.826
+Layer 23: 18.616
+
+ 📈 Logit Lens (TU):
+Layer 0: 0.880
+Layer 1: 1.381
+Layer 2: 1.685
+Layer 3: 2.237
+Layer 4: 2.517
+Layer 5: 2.964
+Layer 6: 2.666
+Layer 7: 2.740
+Layer 8: 2.997
+Layer 9: 2.946
+Layer 10: 3.420
+Layer 11: 3.314
+Layer 12: 3.395
+Layer 13: 3.387
+Layer 14: 3.790
+Layer 15: 4.121
+Layer 16: 4.528
+Layer 17: 5.161
+Layer 18: 6.234
+Layer 19: 8.626
+Layer 20: 11.465
+Layer 21: 14.191
+Layer 22: 16.965
+Layer 23: 19.231
+✅ Saved plot to logit_lens_yo.png
+✅ Saved plot to logit_lens_tu.png
+✅ Saved heatmap to logit_lens_heatmap_yo0.png
+✅ Saved heatmap to logit_lens_heatmap_tu0.png

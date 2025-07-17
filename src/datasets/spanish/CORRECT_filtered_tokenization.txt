@@ -1,0 +1,750 @@
+Kept verb forms:
+
+
+✅ Kept 186 out of 360 (51.67%)
+Kept verb forms:
+
+Infinitive: amar
+  Yo: amo -> ['Ġamo']
+  Tú: amas -> ['Ġamas']
+----------------------------------------
+Infinitive: viajar
+  Yo: viajo -> ['Ġvia', 'jo']
+  Tú: viajas -> ['Ġvia', 'jas']
+----------------------------------------
+Infinitive: cocinar
+  Yo: cocino -> ['Ġcoc', 'ino']
+  Tú: cocinas -> ['Ġcoc', 'inas']
+----------------------------------------
+Infinitive: comprar
+  Yo: compro -> ['Ġcompro']
+  Tú: compras -> ['Ġcompras']
+----------------------------------------
+Infinitive: nadar
+  Yo: nado -> ['Ġn', 'ado']
+  Tú: nadas -> ['Ġn', 'adas']
+----------------------------------------
+Infinitive: buscar
+  Yo: busco -> ['Ġbus', 'co']
+  Tú: buscas -> ['Ġbus', 'cas']
+----------------------------------------
+Infinitive: necesitar
+  Yo: necesito -> ['Ġnecesito']
+  Tú: necesitas -> ['Ġnecesitas']
+----------------------------------------
+Infinitive: preguntar
+  Yo: pregunto -> ['Ġpregunto']
+  Tú: preguntas -> ['Ġpreguntas']
+----------------------------------------
+Infinitive: contestar
+  Yo: contesto -> ['Ġcont', 'esto']
+  Tú: contestas -> ['Ġcont', 'estas']
+----------------------------------------
+Infinitive: lavar
+  Yo: lavo -> ['Ġla', 'vo']
+  Tú: lavas -> ['Ġla', 'vas']
+----------------------------------------
+Infinitive: mirar
+  Yo: miro -> ['Ġmiro']
+  Tú: miras -> ['Ġmiras']
+----------------------------------------
+Infinitive: reparar
+  Yo: reparo -> ['Ġrepar', 'o']
+  Tú: reparas -> ['Ġrepar', 'as']
+----------------------------------------
+Infinitive: preparar
+  Yo: preparo -> ['Ġprepar', 'o']
+  Tú: preparas -> ['Ġprepar', 'as']
+----------------------------------------
+Infinitive: cuidar
+  Yo: cuido -> ['Ġcu', 'ido']
+  Tú: cuidas -> ['Ġcu', 'idas']
+----------------------------------------
+Infinitive: ordenar
+  Yo: ordeno -> ['Ġord', 'eno']
+  Tú: ordenas -> ['Ġord', 'enas']
+----------------------------------------
+Infinitive: prestar
+  Yo: presto -> ['Ġprest', 'o']
+  Tú: prestas -> ['Ġprest', 'as']
+----------------------------------------
+Infinitive: tocar
+  Yo: toco -> ['Ġto', 'co']
+  Tú: tocas -> ['Ġto', 'cas']
+----------------------------------------
+Infinitive: respirar
+  Yo: respiro -> ['Ġresp', 'iro']
+  Tú: respiras -> ['Ġresp', 'iras']
+----------------------------------------
+Infinitive: expresar
+  Yo: expreso -> ['Ġexpres', 'o']
+  Tú: expresas -> ['Ġexpres', 'as']
+----------------------------------------
+Infinitive: invitar
+  Yo: invito -> ['Ġinv', 'ito']
+  Tú: invitas -> ['Ġinv', 'itas']
+----------------------------------------
+Infinitive: participar
+  Yo: participo -> ['Ġparticip', 'o']
+  Tú: participas -> ['Ġparticip', 'as']
+----------------------------------------
+Infinitive: presentar
+  Yo: presento -> ['Ġpresent', 'o']
+  Tú: presentas -> ['Ġpresent', 'as']
+----------------------------------------
+Infinitive: recomendar
+  Yo: recomiendo -> ['Ġrecom', 'iendo']
+  Tú: recomiendas -> ['Ġrecom', 'iendas']
+----------------------------------------
+Infinitive: relajar
+  Yo: relajo -> ['Ġrel', 'ajo']
+  Tú: relajas -> ['Ġrel', 'ajas']
+----------------------------------------
+Infinitive: seleccionar
+  Yo: selecciono -> ['Ġseleccion', 'o']
+  Tú: seleccionas -> ['Ġseleccion', 'as']
+----------------------------------------
+Infinitive: separar
+  Yo: separo -> ['Ġsepar', 'o']
+  Tú: separas -> ['Ġsepar', 'as']
+----------------------------------------
+Infinitive: solucionar
+  Yo: soluciono -> ['Ġsolucion', 'o']
+  Tú: solucionas -> ['Ġsolucion', 'as']
+----------------------------------------
+Infinitive: admirar
+  Yo: admiro -> ['Ġadm', 'iro']
+  Tú: admiras -> ['Ġadm', 'iras']
+----------------------------------------
+Infinitive: cancelar
+  Yo: cancelo -> ['Ġcanc', 'elo']
+  Tú: cancelas -> ['Ġcanc', 'elas']
+----------------------------------------
+Infinitive: celebrar
+  Yo: celebro -> ['Ġcele', 'bro']
+  Tú: celebras -> ['Ġcele', 'bras']
+----------------------------------------
+Infinitive: completar
+  Yo: completo -> ['Ġcompleto']
+  Tú: completas -> ['Ġcompletas']
+----------------------------------------
+Infinitive: disfrutar
+  Yo: disfruto -> ['Ġdisfr', 'uto']
+  Tú: disfrutas -> ['Ġdisfr', 'utas']
+----------------------------------------
+Infinitive: durar
+  Yo: duro -> ['Ġduro']
+  Tú: duras -> ['Ġduras']
+----------------------------------------
+Infinitive: educar
+  Yo: educo -> ['Ġeduc', 'o']
+  Tú: educas -> ['Ġeduc', 'as']
+----------------------------------------
+Infinitive: explorar
+  Yo: exploro -> ['Ġexpl', 'oro']
+  Tú: exploras -> ['Ġexpl', 'oras']
+----------------------------------------
+Infinitive: importar
+  Yo: importo -> ['Ġimport', 'o']
+  Tú: importas -> ['Ġimport', 'as']
+----------------------------------------
+Infinitive: indicar
+  Yo: indico -> ['Ġind', 'ico']
+  Tú: indicas -> ['Ġind', 'icas']
+----------------------------------------
+Infinitive: informar
+  Yo: informo -> ['Ġinform', 'o']
+  Tú: informas -> ['Ġinform', 'as']
+----------------------------------------
+Infinitive: mencionar
+  Yo: menciono -> ['Ġmencion', 'o']
+  Tú: mencionas -> ['Ġmencion', 'as']
+----------------------------------------
+Infinitive: ocupar
+  Yo: ocupo -> ['Ġocup', 'o']
+  Tú: ocupas -> ['Ġocup', 'as']
+----------------------------------------
+Infinitive: operar
+  Yo: opero -> ['Ġoper', 'o']
+  Tú: operas -> ['Ġoper', 'as']
+----------------------------------------
+Infinitive: reciclar
+  Yo: reciclo -> ['Ġrecic', 'lo']
+  Tú: reciclas -> ['Ġrecic', 'las']
+----------------------------------------
+Infinitive: resultar
+  Yo: resulto -> ['Ġresult', 'o']
+  Tú: resultas -> ['Ġresult', 'as']
+----------------------------------------
+Infinitive: revelar
+  Yo: revelo -> ['Ġrevel', 'o']
+  Tú: revelas -> ['Ġrevel', 'as']
+----------------------------------------
+Infinitive: significar
+  Yo: significo -> ['Ġsignific', 'o']
+  Tú: significas -> ['Ġsignific', 'as']
+----------------------------------------
+Infinitive: transportar
+  Yo: transporto -> ['Ġtransport', 'o']
+  Tú: transportas -> ['Ġtransport', 'as']
+----------------------------------------
+Infinitive: verificar
+  Yo: verifico -> ['Ġverific', 'o']
+  Tú: verificas -> ['Ġverific', 'as']
+----------------------------------------
+Infinitive: comer
+  Yo: como -> ['Ġcomo']
+  Tú: comes -> ['Ġcomes']
+----------------------------------------
+Infinitive: beber
+  Yo: bebo -> ['Ġbe', 'bo']
+  Tú: bebes -> ['Ġbe', 'bes']
+----------------------------------------
+Infinitive: correr
+  Yo: corro -> ['Ġcorro']
+  Tú: corres -> ['Ġcorres']
+----------------------------------------
+Infinitive: vender
+  Yo: vendo -> ['Ġvendo']
+  Tú: vendes -> ['Ġvendes']
+----------------------------------------
+Infinitive: creer
+  Yo: creo -> ['Ġcreo']
+  Tú: crees -> ['Ġcrees']
+----------------------------------------
+Infinitive: responder
+  Yo: respondo -> ['Ġrespond', 'o']
+  Tú: respondes -> ['Ġrespond', 'es']
+----------------------------------------
+Infinitive: esconder
+  Yo: escondo -> ['Ġescon', 'do']
+  Tú: escondes -> ['Ġescon', 'des']
+----------------------------------------
+Infinitive: temer
+  Yo: temo -> ['Ġtemo']
+  Tú: temes -> ['Ġtemes']
+----------------------------------------
+Infinitive: sorprender
+  Yo: sorprendo -> ['Ġsorpr', 'endo']
+  Tú: sorprendes -> ['Ġsorpr', 'endes']
+----------------------------------------
+Infinitive: meter
+  Yo: meto -> ['Ġmet', 'o']
+  Tú: metes -> ['Ġmet', 'es']
+----------------------------------------
+Infinitive: cometer
+  Yo: cometo -> ['Ġcom', 'eto']
+  Tú: cometes -> ['Ġcom', 'etes']
+----------------------------------------
+Infinitive: proceder
+  Yo: procedo -> ['Ġproced', 'o']
+  Tú: procedes -> ['Ġproced', 'es']
+----------------------------------------
+Infinitive: toser
+  Yo: toso -> ['Ġt', 'oso']
+  Tú: toses -> ['Ġt', 'oses']
+----------------------------------------
+Infinitive: barrer
+  Yo: barro -> ['Ġbarro']
+  Tú: barres -> ['Ġbarres']
+----------------------------------------
+Infinitive: acceder
+  Yo: accedo -> ['Ġacc', 'edo']
+  Tú: accedes -> ['Ġacc', 'edes']
+----------------------------------------
+Infinitive: deber
+  Yo: debo -> ['Ġdebo']
+  Tú: debes -> ['Ġdebes']
+----------------------------------------
+Infinitive: tejer
+  Yo: tejo -> ['Ġte', 'jo']
+  Tú: tejes -> ['Ġte', 'jes']
+----------------------------------------
+Infinitive: proteger
+  Yo: protejo -> ['Ġprote', 'jo']
+  Tú: proteges -> ['Ġprote', 'ges']
+----------------------------------------
+Infinitive: perder
+  Yo: pierdo -> ['Ġpier', 'do']
+  Tú: pierdes -> ['Ġpier', 'des']
+----------------------------------------
+Infinitive: permanecer
+  Yo: permanezco -> ['Ġperman', 'ezco']
+  Tú: permaneces -> ['Ġperman', 'eces']
+----------------------------------------
+Infinitive: favorecer
+  Yo: favorezco -> ['Ġfavor', 'ezco']
+  Tú: favoreces -> ['Ġfavor', 'eces']
+----------------------------------------
+Infinitive: obedecer
+  Yo: obedezco -> ['Ġobed', 'ezco']
+  Tú: obedeces -> ['Ġobed', 'eces']
+----------------------------------------
+Infinitive: aparecer
+  Yo: aparezco -> ['Ġapar', 'ezco']
+  Tú: apareces -> ['Ġapar', 'eces']
+----------------------------------------
+Infinitive: desaparecer
+  Yo: desaparezco -> ['Ġdesapar', 'ezco']
+  Tú: desapareces -> ['Ġdesapar', 'eces']
+----------------------------------------
+Infinitive: establecer
+  Yo: establezco -> ['Ġestable', 'zco']
+  Tú: estableces -> ['Ġestable', 'ces']
+----------------------------------------
+Infinitive: suceder
+  Yo: sucedo -> ['Ġsuc', 'edo']
+  Tú: sucedes -> ['Ġsuc', 'edes']
+----------------------------------------
+Infinitive: llover
+  Yo: lluevo -> ['Ġll', 'uevo']
+  Tú: llueves -> ['Ġll', 'ueves']
+----------------------------------------
+Infinitive: florecer
+  Yo: florezco -> ['Ġflor', 'ezco']
+  Tú: floreces -> ['Ġflor', 'eces']
+----------------------------------------
+Infinitive: pertenecer
+  Yo: pertenezco -> ['Ġperten', 'ezco']
+  Tú: perteneces -> ['Ġperten', 'eces']
+----------------------------------------
+Infinitive: agradecer
+  Yo: agradezco -> ['Ġagrad', 'ezco']
+  Tú: agradeces -> ['Ġagrad', 'eces']
+----------------------------------------
+Infinitive: crecer
+  Yo: crezco -> ['Ġcre', 'zco']
+  Tú: creces -> ['Ġcre', 'ces']
+----------------------------------------
+Infinitive: exceder
+  Yo: excedo -> ['Ġexc', 'edo']
+  Tú: excedes -> ['Ġexc', 'edes']
+----------------------------------------
+Infinitive: resolver
+  Yo: resuelvo -> ['Ġresuel', 'vo']
+  Tú: resuelves -> ['Ġresuel', 'ves']
+----------------------------------------
+Infinitive: devolver
+  Yo: devuelvo -> ['Ġdev', 'uel', 'vo']
+  Tú: devuelves -> ['Ġdev', 'uel', 'ves']
+----------------------------------------
+Infinitive: envolver
+  Yo: envuelvo -> ['Ġenv', 'uel', 'vo']
+  Tú: envuelves -> ['Ġenv', 'uel', 'ves']
+----------------------------------------
+Infinitive: absorber
+  Yo: absorbo -> ['Ġabsor', 'bo']
+  Tú: absorbes -> ['Ġabsor', 'bes']
+----------------------------------------
+Infinitive: torcer
+  Yo: tuerzo -> ['Ġtuer', 'zo']
+  Tú: tuerces -> ['Ġtuer', 'ces']
+----------------------------------------
+Infinitive: reprender
+  Yo: reprendo -> ['Ġrepr', 'endo']
+  Tú: reprendes -> ['Ġrepr', 'endes']
+----------------------------------------
+Infinitive: emprender
+  Yo: emprendo -> ['Ġempr', 'endo']
+  Tú: emprendes -> ['Ġempr', 'endes']
+----------------------------------------
+Infinitive: ascender
+  Yo: asciendo -> ['Ġasci', 'endo']
+  Tú: asciendes -> ['Ġasci', 'endes']
+----------------------------------------
+Infinitive: disolver
+  Yo: disuelvo -> ['Ġdis', 'uel', 'vo']
+  Tú: disuelves -> ['Ġdis', 'uel', 'ves']
+----------------------------------------
+Infinitive: exponer
+  Yo: expongo -> ['Ġexp', 'ongo']
+  Tú: expones -> ['Ġexp', 'ones']
+----------------------------------------
+Infinitive: imponer
+  Yo: impongo -> ['Ġimp', 'ongo']
+  Tú: impones -> ['Ġimp', 'ones']
+----------------------------------------
+Infinitive: suponer
+  Yo: supongo -> ['Ġsup', 'ongo']
+  Tú: supones -> ['Ġsup', 'ones']
+----------------------------------------
+Infinitive: oponer
+  Yo: opongo -> ['Ġop', 'ongo']
+  Tú: opones -> ['Ġop', 'ones']
+----------------------------------------
+Infinitive: componer
+  Yo: compongo -> ['Ġcomp', 'ongo']
+  Tú: compones -> ['Ġcomp', 'ones']
+----------------------------------------
+Infinitive: disponer
+  Yo: dispongo -> ['Ġdisp', 'ongo']
+  Tú: dispones -> ['Ġdisp', 'ones']
+----------------------------------------
+Infinitive: contener
+  Yo: contengo -> ['Ġcont', 'engo']
+  Tú: contienes -> ['Ġcont', 'ienes']
+----------------------------------------
+Infinitive: retener
+  Yo: retengo -> ['Ġret', 'engo']
+  Tú: retienes -> ['Ġret', 'ienes']
+----------------------------------------
+Infinitive: sostener
+  Yo: sostengo -> ['Ġsost', 'engo']
+  Tú: sostienes -> ['Ġsost', 'ienes']
+----------------------------------------
+Infinitive: mantener
+  Yo: mantengo -> ['Ġmant', 'engo']
+  Tú: mantienes -> ['Ġmant', 'ienes']
+----------------------------------------
+Infinitive: obtener
+  Yo: obtengo -> ['Ġobt', 'engo']
+  Tú: obtienes -> ['Ġobt', 'ienes']
+----------------------------------------
+Infinitive: detener
+  Yo: detengo -> ['Ġdet', 'engo']
+  Tú: detienes -> ['Ġdet', 'ienes']
+----------------------------------------
+Infinitive: valer
+  Yo: valgo -> ['Ġval', 'go']
+  Tú: vales -> ['Ġval', 'es']
+----------------------------------------
+Infinitive: ver
+  Yo: veo -> ['Ġveo']
+  Tú: ves -> ['Ġves']
+----------------------------------------
+Infinitive: haber
+  Yo: he -> ['Ġhe']
+  Tú: has -> ['Ġhas']
+----------------------------------------
+Infinitive: ser
+  Yo: soy -> ['Ġsoy']
+  Tú: eres -> ['Ġeres']
+----------------------------------------
+Infinitive: tender
+  Yo: tiendo -> ['Ġti', 'endo']
+  Tú: tiendes -> ['Ġti', 'endes']
+----------------------------------------
+Infinitive: desprender
+  Yo: desprendo -> ['Ġdespr', 'endo']
+  Tú: desprendes -> ['Ġdespr', 'endes']
+----------------------------------------
+Infinitive: moler
+  Yo: muelo -> ['Ġmu', 'elo']
+  Tú: mueles -> ['Ġmu', 'eles']
+----------------------------------------
+Infinitive: barrer
+  Yo: barro -> ['Ġbarro']
+  Tú: barres -> ['Ġbarres']
+----------------------------------------
+Infinitive: corromper
+  Yo: corrompo -> ['Ġcorrom', 'po']
+  Tú: corrompes -> ['Ġcorrom', 'pes']
+----------------------------------------
+Infinitive: temer
+  Yo: temo -> ['Ġtemo']
+  Tú: temes -> ['Ġtemes']
+----------------------------------------
+Infinitive: promover
+  Yo: promuevo -> ['Ġprom', 'uevo']
+  Tú: promueves -> ['Ġprom', 'ueves']
+----------------------------------------
+Infinitive: proceder
+  Yo: procedo -> ['Ġproced', 'o']
+  Tú: procedes -> ['Ġproced', 'es']
+----------------------------------------
+Infinitive: precaver
+  Yo: precavo -> ['Ġprec', 'avo']
+  Tú: precaves -> ['Ġprec', 'aves']
+----------------------------------------
+Infinitive: prevalecer
+  Yo: prevalezco -> ['Ġpreval', 'ezco']
+  Tú: prevaleces -> ['Ġpreval', 'eces']
+----------------------------------------
+Infinitive: comprometer
+  Yo: comprometo -> ['Ġcomprom', 'eto']
+  Tú: comprometes -> ['Ġcomprom', 'etes']
+----------------------------------------
+Infinitive: conceder
+  Yo: concedo -> ['Ġconc', 'edo']
+  Tú: concedes -> ['Ġconc', 'edes']
+----------------------------------------
+Infinitive: exceder
+  Yo: excedo -> ['Ġexc', 'edo']
+  Tú: excedes -> ['Ġexc', 'edes']
+----------------------------------------
+Infinitive: arremeter
+  Yo: arremeto -> ['Ġarrem', 'eto']
+  Tú: arremetes -> ['Ġarrem', 'etes']
+----------------------------------------
+Infinitive: adolecer
+  Yo: adolezco -> ['Ġad', 'ole', 'zco']
+  Tú: adoleces -> ['Ġad', 'ole', 'ces']
+----------------------------------------
+Infinitive: sobreponer
+  Yo: sobrepongo -> ['Ġsobrep', 'ongo']
+  Tú: sobrepones -> ['Ġsobrep', 'ones']
+----------------------------------------
+Infinitive: repeler
+  Yo: repelo -> ['Ġrep', 'elo']
+  Tú: repeles -> ['Ġrep', 'eles']
+----------------------------------------
+Infinitive: extender
+  Yo: extiendo -> ['Ġexti', 'endo']
+  Tú: extiendes -> ['Ġexti', 'endes']
+----------------------------------------
+Infinitive: carecer
+  Yo: carezco -> ['Ġcar', 'ezco']
+  Tú: careces -> ['Ġcar', 'eces']
+----------------------------------------
+Infinitive: vivir
+  Yo: vivo -> ['Ġvivo']
+  Tú: vives -> ['Ġvives']
+----------------------------------------
+Infinitive: escribir
+  Yo: escribo -> ['Ġescrib', 'o']
+  Tú: escribes -> ['Ġescrib', 'es']
+----------------------------------------
+Infinitive: abrir
+  Yo: abro -> ['Ġab', 'ro']
+  Tú: abres -> ['Ġab', 'res']
+----------------------------------------
+Infinitive: subir
+  Yo: subo -> ['Ġsub', 'o']
+  Tú: subes -> ['Ġsub', 'es']
+----------------------------------------
+Infinitive: permitir
+  Yo: permito -> ['Ġperm', 'ito']
+  Tú: permites -> ['Ġperm', 'ites']
+----------------------------------------
+Infinitive: admitir
+  Yo: admito -> ['Ġadm', 'ito']
+  Tú: admites -> ['Ġadm', 'ites']
+----------------------------------------
+Infinitive: asistir
+  Yo: asisto -> ['Ġas', 'isto']
+  Tú: asistes -> ['Ġas', 'istes']
+----------------------------------------
+Infinitive: discutir
+  Yo: discuto -> ['Ġdisc', 'uto']
+  Tú: discutes -> ['Ġdisc', 'utes']
+----------------------------------------
+Infinitive: cubrir
+  Yo: cubro -> ['Ġcub', 'ro']
+  Tú: cubres -> ['Ġcub', 'res']
+----------------------------------------
+Infinitive: compartir
+  Yo: comparto -> ['Ġcompart', 'o']
+  Tú: compartes -> ['Ġcompart', 'es']
+----------------------------------------
+Infinitive: imprimir
+  Yo: imprimo -> ['Ġimpr', 'imo']
+  Tú: imprimes -> ['Ġimpr', 'imes']
+----------------------------------------
+Infinitive: añadir
+  Yo: añado -> ['ĠaÃ±', 'ado']
+  Tú: añades -> ['ĠaÃ±', 'ades']
+----------------------------------------
+Infinitive: ocurrir
+  Yo: ocurro -> ['Ġoc', 'ur', 'ro']
+  Tú: ocurres -> ['Ġoc', 'ur', 'res']
+----------------------------------------
+Infinitive: insistir
+  Yo: insisto -> ['Ġins', 'isto']
+  Tú: insistes -> ['Ġins', 'istes']
+----------------------------------------
+Infinitive: partir
+  Yo: parto -> ['Ġparto']
+  Tú: partes -> ['Ġpartes']
+----------------------------------------
+Infinitive: sufrir
+  Yo: sufro -> ['Ġsuf', 'ro']
+  Tú: sufres -> ['Ġsuf', 'res']
+----------------------------------------
+Infinitive: medir
+  Yo: mido -> ['Ġm', 'ido']
+  Tú: mides -> ['Ġm', 'ides']
+----------------------------------------
+Infinitive: perseguir
+  Yo: persigo -> ['Ġpers', 'igo']
+  Tú: persigues -> ['Ġpers', 'igues']
+----------------------------------------
+Infinitive: extinguir
+  Yo: extingo -> ['Ġexting', 'o']
+  Tú: extingues -> ['Ġexting', 'ues']
+----------------------------------------
+Infinitive: vestir
+  Yo: visto -> ['Ġvisto']
+  Tú: vistes -> ['Ġvistes']
+----------------------------------------
+Infinitive: competir
+  Yo: compito -> ['Ġcomp', 'ito']
+  Tú: compites -> ['Ġcomp', 'ites']
+----------------------------------------
+Infinitive: impedir
+  Yo: impido -> ['Ġimp', 'ido']
+  Tú: impides -> ['Ġimp', 'ides']
+----------------------------------------
+Infinitive: servir
+  Yo: sirvo -> ['Ġsir', 'vo']
+  Tú: sirves -> ['Ġsir', 'ves']
+----------------------------------------
+Infinitive: repetir
+  Yo: repito -> ['Ġrep', 'ito']
+  Tú: repites -> ['Ġrep', 'ites']
+----------------------------------------
+Infinitive: convertir
+  Yo: convierto -> ['Ġconvi', 'erto']
+  Tú: conviertes -> ['Ġconvi', 'ertes']
+----------------------------------------
+Infinitive: mentir
+  Yo: miento -> ['Ġm', 'iento']
+  Tú: mientes -> ['Ġm', 'ientes']
+----------------------------------------
+Infinitive: preferir
+  Yo: prefiero -> ['Ġpref', 'iero']
+  Tú: prefieres -> ['Ġpref', 'ieres']
+----------------------------------------
+Infinitive: referir
+  Yo: refiero -> ['Ġref', 'iero']
+  Tú: refieres -> ['Ġref', 'ieres']
+----------------------------------------
+Infinitive: sugerir
+  Yo: sugiero -> ['Ġsug', 'iero']
+  Tú: sugieres -> ['Ġsug', 'ieres']
+----------------------------------------
+Infinitive: morir
+  Yo: muero -> ['Ġmu', 'ero']
+  Tú: mueres -> ['Ġmu', 'eres']
+----------------------------------------
+Infinitive: hervir
+  Yo: hiervo -> ['Ġhier', 'vo']
+  Tú: hierves -> ['Ġhier', 'ves']
+----------------------------------------
+Infinitive: advertir
+  Yo: advierto -> ['Ġad', 'vi', 'erto']
+  Tú: adviertes -> ['Ġad', 'vi', 'ertes']
+----------------------------------------
+Infinitive: intervenir
+  Yo: intervengo -> ['Ġinterv', 'engo']
+  Tú: intervienes -> ['Ġinterv', 'ienes']
+----------------------------------------
+Infinitive: prevenir
+  Yo: prevengo -> ['Ġprev', 'engo']
+  Tú: previenes -> ['Ġprev', 'ienes']
+----------------------------------------
+Infinitive: venir
+  Yo: vengo -> ['Ġv', 'engo']
+  Tú: vienes -> ['Ġv', 'ienes']
+----------------------------------------
+Infinitive: ocurrir
+  Yo: ocurro -> ['Ġoc', 'ur', 'ro']
+  Tú: ocurres -> ['Ġoc', 'ur', 'res']
+----------------------------------------
+Infinitive: existir
+  Yo: existo -> ['Ġexist', 'o']
+  Tú: existes -> ['Ġexist', 'es']
+----------------------------------------
+Infinitive: persistir
+  Yo: persisto -> ['Ġpers', 'isto']
+  Tú: persistes -> ['Ġpers', 'istes']
+----------------------------------------
+Infinitive: transmitir
+  Yo: transmito -> ['Ġtransm', 'ito']
+  Tú: transmites -> ['Ġtransm', 'ites']
+----------------------------------------
+Infinitive: emitir
+  Yo: emito -> ['Ġem', 'ito']
+  Tú: emites -> ['Ġem', 'ites']
+----------------------------------------
+Infinitive: unir
+  Yo: uno -> ['Ġuno']
+  Tú: unes -> ['Ġunes']
+----------------------------------------
+Infinitive: asumir
+  Yo: asumo -> ['Ġas', 'umo']
+  Tú: asumes -> ['Ġas', 'umes']
+----------------------------------------
+Infinitive: asistir
+  Yo: asisto -> ['Ġas', 'isto']
+  Tú: asistes -> ['Ġas', 'istes']
+----------------------------------------
+Infinitive: admitir
+  Yo: admito -> ['Ġadm', 'ito']
+  Tú: admites -> ['Ġadm', 'ites']
+----------------------------------------
+Infinitive: consentir
+  Yo: consiento -> ['Ġcons', 'iento']
+  Tú: consientes -> ['Ġcons', 'ientes']
+----------------------------------------
+Infinitive: persuadir
+  Yo: persuado -> ['Ġpersu', 'ado']
+  Tú: persuades -> ['Ġpersu', 'ades']
+----------------------------------------
+Infinitive: añadir
+  Yo: añado -> ['ĠaÃ±', 'ado']
+  Tú: añades -> ['ĠaÃ±', 'ades']
+----------------------------------------
+Infinitive: surgir
+  Yo: surjo -> ['Ġsur', 'jo']
+  Tú: surges -> ['Ġsur', 'ges']
+----------------------------------------
+Infinitive: pulir
+  Yo: pulo -> ['Ġp', 'ulo']
+  Tú: pules -> ['Ġp', 'ules']
+----------------------------------------
+Infinitive: esculpir
+  Yo: esculpo -> ['Ġes', 'cul', 'po']
+  Tú: esculpes -> ['Ġes', 'cul', 'pes']
+----------------------------------------
+Infinitive: presumir
+  Yo: presumo -> ['Ġpres', 'umo']
+  Tú: presumes -> ['Ġpres', 'umes']
+----------------------------------------
+Infinitive: resistir
+  Yo: resisto -> ['Ġres', 'isto']
+  Tú: resistes -> ['Ġres', 'istes']
+----------------------------------------
+Infinitive: revivir
+  Yo: revivo -> ['Ġrev', 'ivo']
+  Tú: revives -> ['Ġrev', 'ives']
+----------------------------------------
+Infinitive: sobrevivir
+  Yo: sobrevivo -> ['Ġsobrev', 'ivo']
+  Tú: sobrevives -> ['Ġsobrev', 'ives']
+----------------------------------------
+Infinitive: exprimir
+  Yo: exprimo -> ['Ġexpr', 'imo']
+  Tú: exprimes -> ['Ġexpr', 'imes']
+----------------------------------------
+Infinitive: reprimir
+  Yo: reprimo -> ['Ġrepr', 'imo']
+  Tú: reprimes -> ['Ġrepr', 'imes']
+----------------------------------------
+Infinitive: sacudir
+  Yo: sacudo -> ['Ġsac', 'udo']
+  Tú: sacudes -> ['Ġsac', 'udes']
+----------------------------------------
+Infinitive: escurrir
+  Yo: escurro -> ['Ġescur', 'ro']
+  Tú: escurres -> ['Ġescur', 'res']
+----------------------------------------
+Infinitive: acudir
+  Yo: acudo -> ['Ġac', 'udo']
+  Tú: acudes -> ['Ġac', 'udes']
+----------------------------------------
+Infinitive: zurcir
+  Yo: zurzo -> ['Ġzur', 'zo']
+  Tú: zurces -> ['Ġzur', 'ces']
+----------------------------------------
+Infinitive: esparcir
+  Yo: esparzo -> ['Ġespar', 'zo']
+  Tú: esparces -> ['Ġespar', 'ces']
+----------------------------------------
+Infinitive: gemir
+  Yo: gimo -> ['Ġg', 'imo']
+  Tú: gimes -> ['Ġg', 'imes']
+----------------------------------------
+Infinitive: coincidir
+  Yo: coincido -> ['Ġcoinc', 'ido']
+  Tú: coincides -> ['Ġcoinc', 'ides']
+----------------------------------------

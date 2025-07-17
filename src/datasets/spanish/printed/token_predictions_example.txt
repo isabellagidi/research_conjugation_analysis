@@ -1,0 +1,14 @@
+Prompt tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġhablar', 'Ġen', 'Ġpresente', ':', 'Ġyo']
+Answer tokens: ['odes']
+Performance on answer token:
+Rank: 197774	Prob: 0.00%	Token: |odes|
+Top 0 token. Prob: 66.33%	Token: | hablo|
+Top 1 token. Prob: 3.52%	Token: | hablar|
+Top 2 token. Prob: 2.97%	Token: | hab|
+Top 3 token. Prob: 2.66%	Token: |,|
+Top 4 token. Prob: 2.19%	Token: | le|
+Top 5 token. Prob: 1.45%	Token: | voy|
+Top 6 token. Prob: 1.39%	Token: | he|
+Top 7 token. Prob: 1.25%	Token: | me|
+Top 8 token. Prob: 0.97%	Token: | te|
+Top 9 token. Prob: 0.83%	Token: | digo|

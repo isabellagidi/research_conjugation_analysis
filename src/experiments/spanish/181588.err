@@ -1,0 +1,58 @@
+Traceback (most recent call last):
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/activation_patching.py", line 86, in <module>
+    recovery = run_head_patching(
+        model=model,
+    ...<3 lines>...
+        gold_token_ids=gold_token_ids_yo2tu,
+    )
+  File "/home/lis.isabella.gidi/jsalt2025/src/utils/head_activation_patching.py", line 96, in run_head_patching
+    clean_logits = model(**clean).logits
+                   ~~~~~^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/models/bloom/modeling_bloom.py", line 907, in forward
+    transformer_outputs = self.transformer(
+        input_ids,
+    ...<8 lines>...
+        cache_position=cache_position,
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/models/bloom/modeling_bloom.py", line 609, in forward
+    outputs = block(
+        hidden_states,
+    ...<6 lines>...
+        cache_position=cache_position,
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/modeling_layers.py", line 83, in __call__
+    return super().__call__(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/models/bloom/modeling_bloom.py", line 408, in forward
+    attn_outputs = self.self_attention(
+        layernorm_output,
+    ...<7 lines>...
+        cache_position=cache_position,
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1857, in _call_impl
+    return inner()
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1818, in inner
+    hook_result = hook(self, args, result)
+  File "/home/lis.isabella.gidi/jsalt2025/src/utils/head_activation_patching.py", line 80, in hook
+    attn_scores = torch.matmul(query, key.transpose(-2, -1)) / (d_head ** 0.5)
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: The size of tensor a (16) must match the size of tensor b (32) at non-singleton dimension 1
+srun: error: mim1: task 0: Exited with exit code 1

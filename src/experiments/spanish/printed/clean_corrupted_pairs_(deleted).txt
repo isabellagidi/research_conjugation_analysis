@@ -1,0 +1,24 @@
+Kept verb forms:
+
+
+✅ Kept 186 out of 360 (51.67%)
+Kept verb forms:
+
+Yo --> Tú | CLEAN:     Conjugación del verbo amar en presente: Yo
+Yo --> Tú | CORRUPTED: Conjugación del verbo amar en presente: Tú
+------------------------------------------------------------
+Yo via --> Tú | CLEAN:     Conjugación del verbo viajar en presente: Yo via
+Yo via --> Tú | CORRUPTED: Conjugación del verbo viajar en presente: Tú via
+------------------------------------------------------------
+Yo coc --> Tú | CLEAN:     Conjugación del verbo cocinar en presente: Yo coc
+Yo coc --> Tú | CORRUPTED: Conjugación del verbo cocinar en presente: Tú coc
+------------------------------------------------------------
+Tú --> Yo | CLEAN:     Conjugación del verbo amar en presente: Tú
+Tú --> Yo | CORRUPTED: Conjugación del verbo amar en presente: Yo
+------------------------------------------------------------
+Tú via --> Yo | CLEAN:     Conjugación del verbo viajar en presente: Tú via
+Tú via --> Yo | CORRUPTED: Conjugación del verbo viajar en presente: Yo via
+------------------------------------------------------------
+Tú coc --> Yo | CLEAN:     Conjugación del verbo cocinar en presente: Tú coc
+Tú coc --> Yo | CORRUPTED: Conjugación del verbo cocinar en presente: Yo coc
+------------------------------------------------------------

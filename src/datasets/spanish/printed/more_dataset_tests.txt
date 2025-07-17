@@ -1,0 +1,77 @@
+Kept verb forms:
+
+
+✅ Kept 223 out of 360 (61.94%)
+Kept verb forms:
+
+🔍 Loaded 4460 prompts for evaluation across all formats
+
+📝 Example for dataset A:
+Prompt: Conjugación del verbo hablar en presente: Yo
+Expected next token: ' hablo'
+📊 Results for format A:
+🎯 Accuracy: 72.65% (324/446)
+📈 Avg P(gold): 60.59%
+
+📝 Example for dataset B:
+Prompt: Conjugación del verbo hablar en presente en Español: Yo
+Expected next token: ' hablo'
+📊 Results for format B:
+🎯 Accuracy: 72.20% (322/446)
+📈 Avg P(gold): 60.77%
+
+📝 Example for dataset C:
+Prompt: Conjugación del verbo hablar en presente en Español: hablar: Yo
+Expected next token: ' hablo'
+📊 Results for format C:
+🎯 Accuracy: 69.28% (309/446)
+📈 Avg P(gold): 56.68%
+
+📝 Example for dataset D:
+Prompt: Conjugación del verbo en presente en Español: hablar: Yo hablo, Yo
+Expected next token: ' hablo'
+📊 Results for format D:
+🎯 Accuracy: 88.79% (396/446)
+📈 Avg P(gold): 74.20%
+
+📝 Example for dataset E:
+Prompt: Conjugación del verbo en presente en Español: hablar: Yo hablo, Tú hablas, Yo
+Expected next token: ' hablo'
+📊 Results for format E:
+🎯 Accuracy: 64.57% (288/446)
+📈 Avg P(gold): 49.99%
+
+📝 Example for dataset F:
+Prompt: Conjugación del verbo hablar en presente en Español: hablar: Tú hablas, Yo
+Expected next token: ' hablo'
+📊 Results for format F:
+🎯 Accuracy: 85.20% (380/446)
+📈 Avg P(gold): 76.51%
+
+📝 Example for dataset G:
+Prompt: Conjugación del verbo en presente en Español: hablar: Tú hablas, Yo
+Expected next token: ' hablo'
+📊 Results for format G:
+🎯 Accuracy: 86.55% (386/446)
+📈 Avg P(gold): 77.55%
+
+📝 Example for dataset H:
+Prompt: Conjugación del verbo hablar en presente: hablar: Yo siempre
+Expected next token: ' hablo'
+📊 Results for format H:
+🎯 Accuracy: 78.03% (348/446)
+📈 Avg P(gold): 64.49%
+
+📝 Example for dataset I:
+Prompt: Conjugación del verbo hablar en presente: Yo
+Expected next token: ' hablo'
+📊 Results for format I:
+🎯 Accuracy: 73.09% (326/446)
+📈 Avg P(gold): 60.57%
+
+📝 Example for dataset J:
+Prompt: Conjugación de hablar: Yo
+Expected next token: ' hablo'
+📊 Results for format J:
+🎯 Accuracy: 70.40% (314/446)
+📈 Avg P(gold): 60.30%

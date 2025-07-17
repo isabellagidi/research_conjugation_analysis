@@ -1,0 +1,1347 @@
+Kept verb forms:
+
+Infinitive: hablar
+  Yo: hablo -> ['hab', 'lo']
+  Tú: hablas -> ['hab', 'las']
+----------------------------------------
+Infinitive: amar
+  Yo: amo -> ['amo']
+  Tú: amas -> ['amas']
+----------------------------------------
+Infinitive: cantar
+  Yo: canto -> ['c', 'anto']
+  Tú: cantas -> ['c', 'antas']
+----------------------------------------
+Infinitive: bailar
+  Yo: bailo -> ['ba', 'ilo']
+  Tú: bailas -> ['ba', 'ilas']
+----------------------------------------
+Infinitive: viajar
+  Yo: viajo -> ['via', 'jo']
+  Tú: viajas -> ['via', 'jas']
+----------------------------------------
+Infinitive: cocinar
+  Yo: cocino -> ['c', 'oc', 'ino']
+  Tú: cocinas -> ['c', 'oc', 'inas']
+----------------------------------------
+Infinitive: nadar
+  Yo: nado -> ['n', 'ado']
+  Tú: nadas -> ['n', 'adas']
+----------------------------------------
+Infinitive: buscar
+  Yo: busco -> ['bus', 'co']
+  Tú: buscas -> ['bus', 'cas']
+----------------------------------------
+Infinitive: necesitar
+  Yo: necesito -> ['n', 'eces', 'ito']
+  Tú: necesitas -> ['n', 'eces', 'itas']
+----------------------------------------
+Infinitive: llevar
+  Yo: llevo -> ['lle', 'vo']
+  Tú: llevas -> ['lle', 'vas']
+----------------------------------------
+Infinitive: visitar
+  Yo: visito -> ['vis', 'ito']
+  Tú: visitas -> ['vis', 'itas']
+----------------------------------------
+Infinitive: olvidar
+  Yo: olvido -> ['ol', 'vido']
+  Tú: olvidas -> ['ol', 'vidas']
+----------------------------------------
+Infinitive: contestar
+  Yo: contesto -> ['cont', 'esto']
+  Tú: contestas -> ['cont', 'estas']
+----------------------------------------
+Infinitive: terminar
+  Yo: termino -> ['termin', 'o']
+  Tú: terminas -> ['termin', 'as']
+----------------------------------------
+Infinitive: esperar
+  Yo: espero -> ['esper', 'o']
+  Tú: esperas -> ['esper', 'as']
+----------------------------------------
+Infinitive: desayunar
+  Yo: desayuno -> ['des', 'ay', 'uno']
+  Tú: desayunas -> ['des', 'ay', 'unas']
+----------------------------------------
+Infinitive: cenar
+  Yo: ceno -> ['c', 'eno']
+  Tú: cenas -> ['c', 'enas']
+----------------------------------------
+Infinitive: descansar
+  Yo: descanso -> ['desc', 'anso']
+  Tú: descansas -> ['desc', 'ansas']
+----------------------------------------
+Infinitive: limpiar
+  Yo: limpio -> ['l', 'imp', 'io']
+  Tú: limpias -> ['l', 'imp', 'ias']
+----------------------------------------
+Infinitive: lavar
+  Yo: lavo -> ['l', 'avo']
+  Tú: lavas -> ['l', 'avas']
+----------------------------------------
+Infinitive: mirar
+  Yo: miro -> ['m', 'iro']
+  Tú: miras -> ['m', 'iras']
+----------------------------------------
+Infinitive: pagar
+  Yo: pago -> ['p', 'ago']
+  Tú: pagas -> ['p', 'agas']
+----------------------------------------
+Infinitive: llamar
+  Yo: llamo -> ['ll', 'amo']
+  Tú: llamas -> ['ll', 'amas']
+----------------------------------------
+Infinitive: reparar
+  Yo: reparo -> ['re', 'paro']
+  Tú: reparas -> ['re', 'paras']
+----------------------------------------
+Infinitive: saludar
+  Yo: saludo -> ['sal', 'udo']
+  Tú: saludas -> ['sal', 'udas']
+----------------------------------------
+Infinitive: preparar
+  Yo: preparo -> ['pre', 'paro']
+  Tú: preparas -> ['pre', 'paras']
+----------------------------------------
+Infinitive: cuidar
+  Yo: cuido -> ['cu', 'ido']
+  Tú: cuidas -> ['cu', 'idas']
+----------------------------------------
+Infinitive: pintar
+  Yo: pinto -> ['p', 'into']
+  Tú: pintas -> ['p', 'intas']
+----------------------------------------
+Infinitive: ordenar
+  Yo: ordeno -> ['ord', 'eno']
+  Tú: ordenas -> ['ord', 'enas']
+----------------------------------------
+Infinitive: organizar
+  Yo: organizo -> ['organ', 'izo']
+  Tú: organizas -> ['organ', 'izas']
+----------------------------------------
+Infinitive: usar
+  Yo: uso -> ['uso']
+  Tú: usas -> ['usas']
+----------------------------------------
+Infinitive: prestar
+  Yo: presto -> ['pr', 'esto']
+  Tú: prestas -> ['pr', 'estas']
+----------------------------------------
+Infinitive: tirar
+  Yo: tiro -> ['t', 'iro']
+  Tú: tiras -> ['t', 'iras']
+----------------------------------------
+Infinitive: tocar
+  Yo: toco -> ['t', 'oco']
+  Tú: tocas -> ['t', 'ocas']
+----------------------------------------
+Infinitive: arreglar
+  Yo: arreglo -> ['ar', 'reg', 'lo']
+  Tú: arreglas -> ['ar', 'reg', 'las']
+----------------------------------------
+Infinitive: gritar
+  Yo: grito -> ['gr', 'ito']
+  Tú: gritas -> ['gr', 'itas']
+----------------------------------------
+Infinitive: mejorar
+  Yo: mejoro -> ['me', 'j', 'oro']
+  Tú: mejoras -> ['me', 'j', 'oras']
+----------------------------------------
+Infinitive: respirar
+  Yo: respiro -> ['resp', 'iro']
+  Tú: respiras -> ['resp', 'iras']
+----------------------------------------
+Infinitive: invitar
+  Yo: invito -> ['inv', 'ito']
+  Tú: invitas -> ['inv', 'itas']
+----------------------------------------
+Infinitive: recomendar
+  Yo: recomiendo -> ['re', 'com', 'iendo']
+  Tú: recomiendas -> ['re', 'com', 'iendas']
+----------------------------------------
+Infinitive: relajar
+  Yo: relajo -> ['rel', 'ajo']
+  Tú: relajas -> ['rel', 'ajas']
+----------------------------------------
+Infinitive: sacar
+  Yo: saco -> ['s', 'aco']
+  Tú: sacas -> ['s', 'acas']
+----------------------------------------
+Infinitive: señalar
+  Yo: señalo -> ['se', 'Ã±', 'alo']
+  Tú: señalas -> ['se', 'Ã±', 'alas']
+----------------------------------------
+Infinitive: seleccionar
+  Yo: selecciono -> ['sele', 'ccion', 'o']
+  Tú: seleccionas -> ['sele', 'ccion', 'as']
+----------------------------------------
+Infinitive: solucionar
+  Yo: soluciono -> ['sol', 'ucion', 'o']
+  Tú: solucionas -> ['sol', 'ucion', 'as']
+----------------------------------------
+Infinitive: tratar
+  Yo: trato -> ['tr', 'ato']
+  Tú: tratas -> ['tr', 'atas']
+----------------------------------------
+Infinitive: votar
+  Yo: voto -> ['v', 'oto']
+  Tú: votas -> ['v', 'otas']
+----------------------------------------
+Infinitive: admirar
+  Yo: admiro -> ['adm', 'iro']
+  Tú: admiras -> ['adm', 'iras']
+----------------------------------------
+Infinitive: cancelar
+  Yo: cancelo -> ['c', 'anc', 'elo']
+  Tú: cancelas -> ['c', 'anc', 'elas']
+----------------------------------------
+Infinitive: celebrar
+  Yo: celebro -> ['cele', 'bro']
+  Tú: celebras -> ['cele', 'bras']
+----------------------------------------
+Infinitive: comentar
+  Yo: comento -> ['com', 'ento']
+  Tú: comentas -> ['com', 'entas']
+----------------------------------------
+Infinitive: completar
+  Yo: completo -> ['comp', 'leto']
+  Tú: completas -> ['comp', 'letas']
+----------------------------------------
+Infinitive: cultivar
+  Yo: cultivo -> ['cult', 'ivo']
+  Tú: cultivas -> ['cult', 'ivas']
+----------------------------------------
+Infinitive: disfrutar
+  Yo: disfruto -> ['dis', 'fr', 'uto']
+  Tú: disfrutas -> ['dis', 'fr', 'utas']
+----------------------------------------
+Infinitive: durar
+  Yo: duro -> ['d', 'uro']
+  Tú: duras -> ['d', 'uras']
+----------------------------------------
+Infinitive: educar
+  Yo: educo -> ['educ', 'o']
+  Tú: educas -> ['educ', 'as']
+----------------------------------------
+Infinitive: encantar
+  Yo: encanto -> ['enc', 'anto']
+  Tú: encantas -> ['enc', 'antas']
+----------------------------------------
+Infinitive: explorar
+  Yo: exploro -> ['expl', 'oro']
+  Tú: exploras -> ['expl', 'oras']
+----------------------------------------
+Infinitive: generar
+  Yo: genero -> ['gener', 'o']
+  Tú: generas -> ['gener', 'as']
+----------------------------------------
+Infinitive: imaginar
+  Yo: imagino -> ['imag', 'ino']
+  Tú: imaginas -> ['imag', 'inas']
+----------------------------------------
+Infinitive: importar
+  Yo: importo -> ['import', 'o']
+  Tú: importas -> ['import', 'as']
+----------------------------------------
+Infinitive: indicar
+  Yo: indico -> ['ind', 'ico']
+  Tú: indicas -> ['ind', 'icas']
+----------------------------------------
+Infinitive: informar
+  Yo: informo -> ['inform', 'o']
+  Tú: informas -> ['inform', 'as']
+----------------------------------------
+Infinitive: interesar
+  Yo: intereso -> ['inter', 'eso']
+  Tú: interesas -> ['inter', 'esas']
+----------------------------------------
+Infinitive: ocupar
+  Yo: ocupo -> ['ocup', 'o']
+  Tú: ocupas -> ['ocup', 'as']
+----------------------------------------
+Infinitive: practicar
+  Yo: practico -> ['pr', 'ac', 'tico']
+  Tú: practicas -> ['pr', 'ac', 'ticas']
+----------------------------------------
+Infinitive: provocar
+  Yo: provoco -> ['prov', 'oco']
+  Tú: provocas -> ['prov', 'ocas']
+----------------------------------------
+Infinitive: publicar
+  Yo: publico -> ['public', 'o']
+  Tú: publicas -> ['public', 'as']
+----------------------------------------
+Infinitive: resultar
+  Yo: resulto -> ['result', 'o']
+  Tú: resultas -> ['result', 'as']
+----------------------------------------
+Infinitive: revelar
+  Yo: revelo -> ['re', 'vel', 'o']
+  Tú: revelas -> ['re', 'vel', 'as']
+----------------------------------------
+Infinitive: significar
+  Yo: significo -> ['sign', 'ific', 'o']
+  Tú: significas -> ['sign', 'ific', 'as']
+----------------------------------------
+Infinitive: sumar
+  Yo: sumo -> ['sum', 'o']
+  Tú: sumas -> ['sum', 'as']
+----------------------------------------
+Infinitive: transportar
+  Yo: transporto -> ['transport', 'o']
+  Tú: transportas -> ['transport', 'as']
+----------------------------------------
+Infinitive: verificar
+  Yo: verifico -> ['ver', 'ific', 'o']
+  Tú: verificas -> ['ver', 'ific', 'as']
+----------------------------------------
+Infinitive: comer
+  Yo: como -> ['como']
+  Tú: comes -> ['comes']
+----------------------------------------
+Infinitive: aprender
+  Yo: aprendo -> ['apr', 'endo']
+  Tú: aprendes -> ['apr', 'endes']
+----------------------------------------
+Infinitive: comprender
+  Yo: comprendo -> ['compr', 'endo']
+  Tú: comprendes -> ['compr', 'endes']
+----------------------------------------
+Infinitive: creer
+  Yo: creo -> ['cre', 'o']
+  Tú: crees -> ['cre', 'es']
+----------------------------------------
+Infinitive: responder
+  Yo: respondo -> ['respond', 'o']
+  Tú: respondes -> ['respond', 'es']
+----------------------------------------
+Infinitive: romper
+  Yo: rompo -> ['rom', 'po']
+  Tú: rompes -> ['rom', 'pes']
+----------------------------------------
+Infinitive: esconder
+  Yo: escondo -> ['es', 'con', 'do']
+  Tú: escondes -> ['es', 'con', 'des']
+----------------------------------------
+Infinitive: temer
+  Yo: temo -> ['t', 'emo']
+  Tú: temes -> ['t', 'emes']
+----------------------------------------
+Infinitive: sorprender
+  Yo: sorprendo -> ['sor', 'pr', 'endo']
+  Tú: sorprendes -> ['sor', 'pr', 'endes']
+----------------------------------------
+Infinitive: meter
+  Yo: meto -> ['met', 'o']
+  Tú: metes -> ['met', 'es']
+----------------------------------------
+Infinitive: cometer
+  Yo: cometo -> ['com', 'eto']
+  Tú: cometes -> ['com', 'etes']
+----------------------------------------
+Infinitive: prender
+  Yo: prendo -> ['pr', 'endo']
+  Tú: prendes -> ['pr', 'endes']
+----------------------------------------
+Infinitive: prometer
+  Yo: prometo -> ['pr', 'omet', 'o']
+  Tú: prometes -> ['pr', 'omet', 'es']
+----------------------------------------
+Infinitive: toser
+  Yo: toso -> ['t', 'oso']
+  Tú: toses -> ['t', 'oses']
+----------------------------------------
+Infinitive: coser
+  Yo: coso -> ['c', 'oso']
+  Tú: coses -> ['c', 'oses']
+----------------------------------------
+Infinitive: barrer
+  Yo: barro -> ['bar', 'ro']
+  Tú: barres -> ['bar', 'res']
+----------------------------------------
+Infinitive: acceder
+  Yo: accedo -> ['acc', 'edo']
+  Tú: accedes -> ['acc', 'edes']
+----------------------------------------
+Infinitive: tejer
+  Yo: tejo -> ['te', 'jo']
+  Tú: tejes -> ['te', 'jes']
+----------------------------------------
+Infinitive: proteger
+  Yo: protejo -> ['pro', 'te', 'jo']
+  Tú: proteges -> ['pro', 'te', 'ges']
+----------------------------------------
+Infinitive: encender
+  Yo: enciendo -> ['enci', 'endo']
+  Tú: enciendes -> ['enci', 'endes']
+----------------------------------------
+Infinitive: perder
+  Yo: pierdo -> ['p', 'ier', 'do']
+  Tú: pierdes -> ['p', 'ier', 'des']
+----------------------------------------
+Infinitive: permanecer
+  Yo: permanezco -> ['per', 'man', 'ezco']
+  Tú: permaneces -> ['per', 'man', 'eces']
+----------------------------------------
+Infinitive: favorecer
+  Yo: favorezco -> ['favor', 'ezco']
+  Tú: favoreces -> ['favor', 'eces']
+----------------------------------------
+Infinitive: obedecer
+  Yo: obedezco -> ['obed', 'ezco']
+  Tú: obedeces -> ['obed', 'eces']
+----------------------------------------
+Infinitive: aparecer
+  Yo: aparezco -> ['apar', 'ezco']
+  Tú: apareces -> ['apar', 'eces']
+----------------------------------------
+Infinitive: desaparecer
+  Yo: desaparezco -> ['des', 'apar', 'ezco']
+  Tú: desapareces -> ['des', 'apar', 'eces']
+----------------------------------------
+Infinitive: establecer
+  Yo: establezco -> ['estable', 'zco']
+  Tú: estableces -> ['estable', 'ces']
+----------------------------------------
+Infinitive: suceder
+  Yo: sucedo -> ['suc', 'edo']
+  Tú: sucedes -> ['suc', 'edes']
+----------------------------------------
+Infinitive: pretender
+  Yo: pretendo -> ['pret', 'endo']
+  Tú: pretendes -> ['pret', 'endes']
+----------------------------------------
+Infinitive: llover
+  Yo: lluevo -> ['ll', 'uevo']
+  Tú: llueves -> ['ll', 'ueves']
+----------------------------------------
+Infinitive: florecer
+  Yo: florezco -> ['flor', 'ezco']
+  Tú: floreces -> ['flor', 'eces']
+----------------------------------------
+Infinitive: agradecer
+  Yo: agradezco -> ['agrad', 'ezco']
+  Tú: agradeces -> ['agrad', 'eces']
+----------------------------------------
+Infinitive: crecer
+  Yo: crezco -> ['cre', 'zco']
+  Tú: creces -> ['cre', 'ces']
+----------------------------------------
+Infinitive: resolver
+  Yo: resuelvo -> ['res', 'uel', 'vo']
+  Tú: resuelves -> ['res', 'uel', 'ves']
+----------------------------------------
+Infinitive: devolver
+  Yo: devuelvo -> ['dev', 'uel', 'vo']
+  Tú: devuelves -> ['dev', 'uel', 'ves']
+----------------------------------------
+Infinitive: envolver
+  Yo: envuelvo -> ['env', 'uel', 'vo']
+  Tú: envuelves -> ['env', 'uel', 'ves']
+----------------------------------------
+Infinitive: absorber
+  Yo: absorbo -> ['abs', 'or', 'bo']
+  Tú: absorbes -> ['abs', 'or', 'bes']
+----------------------------------------
+Infinitive: converger
+  Yo: converjo -> ['con', 'ver', 'jo']
+  Tú: converges -> ['con', 'ver', 'ges']
+----------------------------------------
+Infinitive: arder
+  Yo: ardo -> ['ardo']
+  Tú: ardes -> ['ardes']
+----------------------------------------
+Infinitive: reprender
+  Yo: reprendo -> ['repr', 'endo']
+  Tú: reprendes -> ['repr', 'endes']
+----------------------------------------
+Infinitive: emprender
+  Yo: emprendo -> ['emp', 'r', 'endo']
+  Tú: emprendes -> ['emp', 'r', 'endes']
+----------------------------------------
+Infinitive: doler
+  Yo: duelo -> ['du', 'elo']
+  Tú: dueles -> ['du', 'eles']
+----------------------------------------
+Infinitive: disolver
+  Yo: disuelvo -> ['dis', 'uel', 'vo']
+  Tú: disuelves -> ['dis', 'uel', 'ves']
+----------------------------------------
+Infinitive: exponer
+  Yo: expongo -> ['exp', 'ongo']
+  Tú: expones -> ['exp', 'ones']
+----------------------------------------
+Infinitive: imponer
+  Yo: impongo -> ['imp', 'ongo']
+  Tú: impones -> ['imp', 'ones']
+----------------------------------------
+Infinitive: suponer
+  Yo: supongo -> ['sup', 'ongo']
+  Tú: supones -> ['sup', 'ones']
+----------------------------------------
+Infinitive: oponer
+  Yo: opongo -> ['op', 'ongo']
+  Tú: opones -> ['op', 'ones']
+----------------------------------------
+Infinitive: componer
+  Yo: compongo -> ['comp', 'ongo']
+  Tú: compones -> ['comp', 'ones']
+----------------------------------------
+Infinitive: disponer
+  Yo: dispongo -> ['disp', 'ongo']
+  Tú: dispones -> ['disp', 'ones']
+----------------------------------------
+Infinitive: entretener
+  Yo: entretengo -> ['ent', 'ret', 'engo']
+  Tú: entretienes -> ['ent', 'ret', 'ienes']
+----------------------------------------
+Infinitive: contener
+  Yo: contengo -> ['cont', 'engo']
+  Tú: contienes -> ['cont', 'ienes']
+----------------------------------------
+Infinitive: retener
+  Yo: retengo -> ['ret', 'engo']
+  Tú: retienes -> ['ret', 'ienes']
+----------------------------------------
+Infinitive: sostener
+  Yo: sostengo -> ['s', 'ost', 'engo']
+  Tú: sostienes -> ['s', 'ost', 'ienes']
+----------------------------------------
+Infinitive: mantener
+  Yo: mantengo -> ['mant', 'engo']
+  Tú: mantienes -> ['mant', 'ienes']
+----------------------------------------
+Infinitive: detener
+  Yo: detengo -> ['det', 'engo']
+  Tú: detienes -> ['det', 'ienes']
+----------------------------------------
+Infinitive: valer
+  Yo: valgo -> ['val', 'go']
+  Tú: vales -> ['val', 'es']
+----------------------------------------
+Infinitive: haber
+  Yo: he -> ['he']
+  Tú: has -> ['has']
+----------------------------------------
+Infinitive: desprender
+  Yo: desprendo -> ['des', 'pr', 'endo']
+  Tú: desprendes -> ['des', 'pr', 'endes']
+----------------------------------------
+Infinitive: barrer
+  Yo: barro -> ['bar', 'ro']
+  Tú: barres -> ['bar', 'res']
+----------------------------------------
+Infinitive: corromper
+  Yo: corrompo -> ['cor', 'rom', 'po']
+  Tú: corrompes -> ['cor', 'rom', 'pes']
+----------------------------------------
+Infinitive: temer
+  Yo: temo -> ['t', 'emo']
+  Tú: temes -> ['t', 'emes']
+----------------------------------------
+Infinitive: promover
+  Yo: promuevo -> ['prom', 'uevo']
+  Tú: promueves -> ['prom', 'ueves']
+----------------------------------------
+Infinitive: recaer
+  Yo: recaigo -> ['re', 'ca', 'igo']
+  Tú: recaes -> ['re', 'ca', 'es']
+----------------------------------------
+Infinitive: precaver
+  Yo: precavo -> ['prec', 'avo']
+  Tú: precaves -> ['prec', 'aves']
+----------------------------------------
+Infinitive: prevalecer
+  Yo: prevalezco -> ['pre', 'val', 'ezco']
+  Tú: prevaleces -> ['pre', 'val', 'eces']
+----------------------------------------
+Infinitive: comprometer
+  Yo: comprometo -> ['compr', 'omet', 'o']
+  Tú: comprometes -> ['compr', 'omet', 'es']
+----------------------------------------
+Infinitive: arremeter
+  Yo: arremeto -> ['ar', 'rem', 'eto']
+  Tú: arremetes -> ['ar', 'rem', 'etes']
+----------------------------------------
+Infinitive: sobreponer
+  Yo: sobrepongo -> ['sobre', 'p', 'ongo']
+  Tú: sobrepones -> ['sobre', 'p', 'ones']
+----------------------------------------
+Infinitive: repeler
+  Yo: repelo -> ['rep', 'elo']
+  Tú: repeles -> ['rep', 'eles']
+----------------------------------------
+Infinitive: carecer
+  Yo: carezco -> ['car', 'ezco']
+  Tú: careces -> ['car', 'eces']
+----------------------------------------
+Infinitive: vivir
+  Yo: vivo -> ['v', 'ivo']
+  Tú: vives -> ['v', 'ives']
+----------------------------------------
+Infinitive: abrir
+  Yo: abro -> ['ab', 'ro']
+  Tú: abres -> ['ab', 'res']
+----------------------------------------
+Infinitive: decidir
+  Yo: decido -> ['dec', 'ido']
+  Tú: decides -> ['dec', 'ides']
+----------------------------------------
+Infinitive: recibir
+  Yo: recibo -> ['rec', 'ibo']
+  Tú: recibes -> ['rec', 'ibes']
+----------------------------------------
+Infinitive: subir
+  Yo: subo -> ['sub', 'o']
+  Tú: subes -> ['sub', 'es']
+----------------------------------------
+Infinitive: permitir
+  Yo: permito -> ['perm', 'ito']
+  Tú: permites -> ['perm', 'ites']
+----------------------------------------
+Infinitive: admitir
+  Yo: admito -> ['adm', 'ito']
+  Tú: admites -> ['adm', 'ites']
+----------------------------------------
+Infinitive: asistir
+  Yo: asisto -> ['as', 'isto']
+  Tú: asistes -> ['as', 'istes']
+----------------------------------------
+Infinitive: discutir
+  Yo: discuto -> ['disc', 'uto']
+  Tú: discutes -> ['disc', 'utes']
+----------------------------------------
+Infinitive: compartir
+  Yo: comparto -> ['com', 'part', 'o']
+  Tú: compartes -> ['com', 'part', 'es']
+----------------------------------------
+Infinitive: imprimir
+  Yo: imprimo -> ['imp', 'r', 'imo']
+  Tú: imprimes -> ['imp', 'r', 'imes']
+----------------------------------------
+Infinitive: añadir
+  Yo: añado -> ['aÃ±', 'ado']
+  Tú: añades -> ['aÃ±', 'ades']
+----------------------------------------
+Infinitive: ocurrir
+  Yo: ocurro -> ['oc', 'ur', 'ro']
+  Tú: ocurres -> ['oc', 'ur', 'res']
+----------------------------------------
+Infinitive: insistir
+  Yo: insisto -> ['ins', 'isto']
+  Tú: insistes -> ['ins', 'istes']
+----------------------------------------
+Infinitive: partir
+  Yo: parto -> ['part', 'o']
+  Tú: partes -> ['part', 'es']
+----------------------------------------
+Infinitive: sufrir
+  Yo: sufro -> ['s', 'uf', 'ro']
+  Tú: sufres -> ['s', 'uf', 'res']
+----------------------------------------
+Infinitive: cumplir
+  Yo: cumplo -> ['cum', 'plo']
+  Tú: cumples -> ['cum', 'ples']
+----------------------------------------
+Infinitive: exigir
+  Yo: exijo -> ['ex', 'ijo']
+  Tú: exiges -> ['ex', 'iges']
+----------------------------------------
+Infinitive: medir
+  Yo: mido -> ['m', 'ido']
+  Tú: mides -> ['m', 'ides']
+----------------------------------------
+Infinitive: pedir
+  Yo: pido -> ['p', 'ido']
+  Tú: pides -> ['p', 'ides']
+----------------------------------------
+Infinitive: seguir
+  Yo: sigo -> ['s', 'igo']
+  Tú: sigues -> ['s', 'igues']
+----------------------------------------
+Infinitive: conseguir
+  Yo: consigo -> ['cons', 'igo']
+  Tú: consigues -> ['cons', 'igues']
+----------------------------------------
+Infinitive: perseguir
+  Yo: persigo -> ['pers', 'igo']
+  Tú: persigues -> ['pers', 'igues']
+----------------------------------------
+Infinitive: consumir
+  Yo: consumo -> ['cons', 'umo']
+  Tú: consumes -> ['cons', 'umes']
+----------------------------------------
+Infinitive: resumir
+  Yo: resumo -> ['res', 'umo']
+  Tú: resumes -> ['res', 'umes']
+----------------------------------------
+Infinitive: vestir
+  Yo: visto -> ['v', 'isto']
+  Tú: vistes -> ['v', 'istes']
+----------------------------------------
+Infinitive: competir
+  Yo: compito -> ['comp', 'ito']
+  Tú: compites -> ['comp', 'ites']
+----------------------------------------
+Infinitive: impedir
+  Yo: impido -> ['imp', 'ido']
+  Tú: impides -> ['imp', 'ides']
+----------------------------------------
+Infinitive: despedir
+  Yo: despido -> ['des', 'p', 'ido']
+  Tú: despides -> ['des', 'p', 'ides']
+----------------------------------------
+Infinitive: freír
+  Yo: frío -> ['fr', 'ÃŃo']
+  Tú: fríes -> ['fr', 'ÃŃes']
+----------------------------------------
+Infinitive: servir
+  Yo: sirvo -> ['sir', 'vo']
+  Tú: sirves -> ['sir', 'ves']
+----------------------------------------
+Infinitive: repetir
+  Yo: repito -> ['rep', 'ito']
+  Tú: repites -> ['rep', 'ites']
+----------------------------------------
+Infinitive: convertir
+  Yo: convierto -> ['con', 'vi', 'erto']
+  Tú: conviertes -> ['con', 'vi', 'ertes']
+----------------------------------------
+Infinitive: sentir
+  Yo: siento -> ['s', 'iento']
+  Tú: sientes -> ['s', 'ientes']
+----------------------------------------
+Infinitive: mentir
+  Yo: miento -> ['m', 'iento']
+  Tú: mientes -> ['m', 'ientes']
+----------------------------------------
+Infinitive: preferir
+  Yo: prefiero -> ['pref', 'iero']
+  Tú: prefieres -> ['pref', 'ieres']
+----------------------------------------
+Infinitive: referir
+  Yo: refiero -> ['ref', 'iero']
+  Tú: refieres -> ['ref', 'ieres']
+----------------------------------------
+Infinitive: sugerir
+  Yo: sugiero -> ['s', 'ug', 'iero']
+  Tú: sugieres -> ['s', 'ug', 'ieres']
+----------------------------------------
+Infinitive: hervir
+  Yo: hiervo -> ['hier', 'vo']
+  Tú: hierves -> ['hier', 'ves']
+----------------------------------------
+Infinitive: advertir
+  Yo: advierto -> ['ad', 'vi', 'erto']
+  Tú: adviertes -> ['ad', 'vi', 'ertes']
+----------------------------------------
+Infinitive: invertir
+  Yo: invierto -> ['in', 'vi', 'erto']
+  Tú: inviertes -> ['in', 'vi', 'ertes']
+----------------------------------------
+Infinitive: intervenir
+  Yo: intervengo -> ['inter', 'v', 'engo']
+  Tú: intervienes -> ['inter', 'v', 'ienes']
+----------------------------------------
+Infinitive: prevenir
+  Yo: prevengo -> ['prev', 'engo']
+  Tú: previenes -> ['prev', 'ienes']
+----------------------------------------
+Infinitive: venir
+  Yo: vengo -> ['v', 'engo']
+  Tú: vienes -> ['v', 'ienes']
+----------------------------------------
+Infinitive: ocurrir
+  Yo: ocurro -> ['oc', 'ur', 'ro']
+  Tú: ocurres -> ['oc', 'ur', 'res']
+----------------------------------------
+Infinitive: existir
+  Yo: existo -> ['ex', 'isto']
+  Tú: existes -> ['ex', 'istes']
+----------------------------------------
+Infinitive: persistir
+  Yo: persisto -> ['pers', 'isto']
+  Tú: persistes -> ['pers', 'istes']
+----------------------------------------
+Infinitive: transmitir
+  Yo: transmito -> ['trans', 'm', 'ito']
+  Tú: transmites -> ['trans', 'm', 'ites']
+----------------------------------------
+Infinitive: emitir
+  Yo: emito -> ['em', 'ito']
+  Tú: emites -> ['em', 'ites']
+----------------------------------------
+Infinitive: definir
+  Yo: defino -> ['defin', 'o']
+  Tú: defines -> ['defin', 'es']
+----------------------------------------
+Infinitive: unir
+  Yo: uno -> ['uno']
+  Tú: unes -> ['unes']
+----------------------------------------
+Infinitive: asumir
+  Yo: asumo -> ['as', 'umo']
+  Tú: asumes -> ['as', 'umes']
+----------------------------------------
+Infinitive: asistir
+  Yo: asisto -> ['as', 'isto']
+  Tú: asistes -> ['as', 'istes']
+----------------------------------------
+Infinitive: admitir
+  Yo: admito -> ['adm', 'ito']
+  Tú: admites -> ['adm', 'ites']
+----------------------------------------
+Infinitive: consentir
+  Yo: consiento -> ['cons', 'iento']
+  Tú: consientes -> ['cons', 'ientes']
+----------------------------------------
+Infinitive: percibir
+  Yo: percibo -> ['perc', 'ibo']
+  Tú: percibes -> ['perc', 'ibes']
+----------------------------------------
+Infinitive: batir
+  Yo: bato -> ['b', 'ato']
+  Tú: bates -> ['b', 'ates']
+----------------------------------------
+Infinitive: debatir
+  Yo: debato -> ['deb', 'ato']
+  Tú: debates -> ['deb', 'ates']
+----------------------------------------
+Infinitive: cumplir
+  Yo: cumplo -> ['cum', 'plo']
+  Tú: cumples -> ['cum', 'ples']
+----------------------------------------
+Infinitive: añadir
+  Yo: añado -> ['aÃ±', 'ado']
+  Tú: añades -> ['aÃ±', 'ades']
+----------------------------------------
+Infinitive: surgir
+  Yo: surjo -> ['sur', 'jo']
+  Tú: surges -> ['sur', 'ges']
+----------------------------------------
+Infinitive: pulir
+  Yo: pulo -> ['p', 'ulo']
+  Tú: pules -> ['p', 'ules']
+----------------------------------------
+Infinitive: exigir
+  Yo: exijo -> ['ex', 'ijo']
+  Tú: exiges -> ['ex', 'iges']
+----------------------------------------
+Infinitive: esculpir
+  Yo: esculpo -> ['es', 'cul', 'po']
+  Tú: esculpes -> ['es', 'cul', 'pes']
+----------------------------------------
+Infinitive: presumir
+  Yo: presumo -> ['pres', 'umo']
+  Tú: presumes -> ['pres', 'umes']
+----------------------------------------
+Infinitive: resistir
+  Yo: resisto -> ['res', 'isto']
+  Tú: resistes -> ['res', 'istes']
+----------------------------------------
+Infinitive: revivir
+  Yo: revivo -> ['rev', 'ivo']
+  Tú: revives -> ['rev', 'ives']
+----------------------------------------
+Infinitive: sobrevivir
+  Yo: sobrevivo -> ['sobre', 'v', 'ivo']
+  Tú: sobrevives -> ['sobre', 'v', 'ives']
+----------------------------------------
+Infinitive: repartir
+  Yo: reparto -> ['re', 'part', 'o']
+  Tú: repartes -> ['re', 'part', 'es']
+----------------------------------------
+Infinitive: exprimir
+  Yo: exprimo -> ['expr', 'imo']
+  Tú: exprimes -> ['expr', 'imes']
+----------------------------------------
+Infinitive: reprimir
+  Yo: reprimo -> ['repr', 'imo']
+  Tú: reprimes -> ['repr', 'imes']
+----------------------------------------
+Infinitive: sacudir
+  Yo: sacudo -> ['sac', 'udo']
+  Tú: sacudes -> ['sac', 'udes']
+----------------------------------------
+Infinitive: escurrir
+  Yo: escurro -> ['esc', 'ur', 'ro']
+  Tú: escurres -> ['esc', 'ur', 'res']
+----------------------------------------
+Infinitive: acudir
+  Yo: acudo -> ['ac', 'udo']
+  Tú: acudes -> ['ac', 'udes']
+----------------------------------------
+Infinitive: zurcir
+  Yo: zurzo -> ['zur', 'zo']
+  Tú: zurces -> ['zur', 'ces']
+----------------------------------------
+Infinitive: combatir
+  Yo: combato -> ['comb', 'ato']
+  Tú: combates -> ['comb', 'ates']
+----------------------------------------
+Infinitive: esparcir
+  Yo: esparzo -> ['es', 'par', 'zo']
+  Tú: esparces -> ['es', 'par', 'ces']
+----------------------------------------
+Infinitive: gemir
+  Yo: gimo -> ['g', 'imo']
+  Tú: gimes -> ['g', 'imes']
+----------------------------------------
+Infinitive: coincidir
+  Yo: coincido -> ['co', 'inc', 'ido']
+  Tú: coincides -> ['co', 'inc', 'ides']
+----------------------------------------
+
+✅ Kept 223 out of 360 (61.94%)
+spanish_yo = [
+    "Conjugación del verbo hablar en presente: Yo hablo",
+    "Conjugación del verbo amar en presente: Yo amo",
+    "Conjugación del verbo cantar en presente: Yo canto",
+    "Conjugación del verbo bailar en presente: Yo bailo",
+    "Conjugación del verbo viajar en presente: Yo viajo",
+    "Conjugación del verbo cocinar en presente: Yo cocino",
+    "Conjugación del verbo nadar en presente: Yo nado",
+    "Conjugación del verbo buscar en presente: Yo busco",
+    "Conjugación del verbo necesitar en presente: Yo necesito",
+    "Conjugación del verbo llevar en presente: Yo llevo",
+    "Conjugación del verbo visitar en presente: Yo visito",
+    "Conjugación del verbo olvidar en presente: Yo olvido",
+    "Conjugación del verbo contestar en presente: Yo contesto",
+    "Conjugación del verbo terminar en presente: Yo termino",
+    "Conjugación del verbo esperar en presente: Yo espero",
+    "Conjugación del verbo desayunar en presente: Yo desayuno",
+    "Conjugación del verbo cenar en presente: Yo ceno",
+    "Conjugación del verbo descansar en presente: Yo descanso",
+    "Conjugación del verbo limpiar en presente: Yo limpio",
+    "Conjugación del verbo lavar en presente: Yo lavo",
+    "Conjugación del verbo mirar en presente: Yo miro",
+    "Conjugación del verbo pagar en presente: Yo pago",
+    "Conjugación del verbo llamar en presente: Yo llamo",
+    "Conjugación del verbo reparar en presente: Yo reparo",
+    "Conjugación del verbo saludar en presente: Yo saludo",
+    "Conjugación del verbo preparar en presente: Yo preparo",
+    "Conjugación del verbo cuidar en presente: Yo cuido",
+    "Conjugación del verbo pintar en presente: Yo pinto",
+    "Conjugación del verbo ordenar en presente: Yo ordeno",
+    "Conjugación del verbo organizar en presente: Yo organizo",
+    "Conjugación del verbo usar en presente: Yo uso",
+    "Conjugación del verbo prestar en presente: Yo presto",
+    "Conjugación del verbo tirar en presente: Yo tiro",
+    "Conjugación del verbo tocar en presente: Yo toco",
+    "Conjugación del verbo arreglar en presente: Yo arreglo",
+    "Conjugación del verbo gritar en presente: Yo grito",
+    "Conjugación del verbo mejorar en presente: Yo mejoro",
+    "Conjugación del verbo respirar en presente: Yo respiro",
+    "Conjugación del verbo invitar en presente: Yo invito",
+    "Conjugación del verbo recomendar en presente: Yo recomiendo",
+    "Conjugación del verbo relajar en presente: Yo relajo",
+    "Conjugación del verbo sacar en presente: Yo saco",
+    "Conjugación del verbo señalar en presente: Yo señalo",
+    "Conjugación del verbo seleccionar en presente: Yo selecciono",
+    "Conjugación del verbo solucionar en presente: Yo soluciono",
+    "Conjugación del verbo tratar en presente: Yo trato",
+    "Conjugación del verbo votar en presente: Yo voto",
+    "Conjugación del verbo admirar en presente: Yo admiro",
+    "Conjugación del verbo cancelar en presente: Yo cancelo",
+    "Conjugación del verbo celebrar en presente: Yo celebro",
+    "Conjugación del verbo comentar en presente: Yo comento",
+    "Conjugación del verbo completar en presente: Yo completo",
+    "Conjugación del verbo cultivar en presente: Yo cultivo",
+    "Conjugación del verbo disfrutar en presente: Yo disfruto",
+    "Conjugación del verbo durar en presente: Yo duro",
+    "Conjugación del verbo educar en presente: Yo educo",
+    "Conjugación del verbo encantar en presente: Yo encanto",
+    "Conjugación del verbo explorar en presente: Yo exploro",
+    "Conjugación del verbo generar en presente: Yo genero",
+    "Conjugación del verbo imaginar en presente: Yo imagino",
+    "Conjugación del verbo importar en presente: Yo importo",
+    "Conjugación del verbo indicar en presente: Yo indico",
+    "Conjugación del verbo informar en presente: Yo informo",
+    "Conjugación del verbo interesar en presente: Yo intereso",
+    "Conjugación del verbo ocupar en presente: Yo ocupo",
+    "Conjugación del verbo practicar en presente: Yo practico",
+    "Conjugación del verbo provocar en presente: Yo provoco",
+    "Conjugación del verbo publicar en presente: Yo publico",
+    "Conjugación del verbo resultar en presente: Yo resulto",
+    "Conjugación del verbo revelar en presente: Yo revelo",
+    "Conjugación del verbo significar en presente: Yo significo",
+    "Conjugación del verbo sumar en presente: Yo sumo",
+    "Conjugación del verbo transportar en presente: Yo transporto",
+    "Conjugación del verbo verificar en presente: Yo verifico",
+    "Conjugación del verbo comer en presente: Yo como",
+    "Conjugación del verbo aprender en presente: Yo aprendo",
+    "Conjugación del verbo comprender en presente: Yo comprendo",
+    "Conjugación del verbo creer en presente: Yo creo",
+    "Conjugación del verbo responder en presente: Yo respondo",
+    "Conjugación del verbo romper en presente: Yo rompo",
+    "Conjugación del verbo esconder en presente: Yo escondo",
+    "Conjugación del verbo temer en presente: Yo temo",
+    "Conjugación del verbo sorprender en presente: Yo sorprendo",
+    "Conjugación del verbo meter en presente: Yo meto",
+    "Conjugación del verbo cometer en presente: Yo cometo",
+    "Conjugación del verbo prender en presente: Yo prendo",
+    "Conjugación del verbo prometer en presente: Yo prometo",
+    "Conjugación del verbo toser en presente: Yo toso",
+    "Conjugación del verbo coser en presente: Yo coso",
+    "Conjugación del verbo barrer en presente: Yo barro",
+    "Conjugación del verbo acceder en presente: Yo accedo",
+    "Conjugación del verbo tejer en presente: Yo tejo",
+    "Conjugación del verbo proteger en presente: Yo protejo",
+    "Conjugación del verbo encender en presente: Yo enciendo",
+    "Conjugación del verbo perder en presente: Yo pierdo",
+    "Conjugación del verbo permanecer en presente: Yo permanezco",
+    "Conjugación del verbo favorecer en presente: Yo favorezco",
+    "Conjugación del verbo obedecer en presente: Yo obedezco",
+    "Conjugación del verbo aparecer en presente: Yo aparezco",
+    "Conjugación del verbo desaparecer en presente: Yo desaparezco",
+    "Conjugación del verbo establecer en presente: Yo establezco",
+    "Conjugación del verbo suceder en presente: Yo sucedo",
+    "Conjugación del verbo pretender en presente: Yo pretendo",
+    "Conjugación del verbo llover en presente: Yo lluevo",
+    "Conjugación del verbo florecer en presente: Yo florezco",
+    "Conjugación del verbo agradecer en presente: Yo agradezco",
+    "Conjugación del verbo crecer en presente: Yo crezco",
+    "Conjugación del verbo resolver en presente: Yo resuelvo",
+    "Conjugación del verbo devolver en presente: Yo devuelvo",
+    "Conjugación del verbo envolver en presente: Yo envuelvo",
+    "Conjugación del verbo absorber en presente: Yo absorbo",
+    "Conjugación del verbo converger en presente: Yo converjo",
+    "Conjugación del verbo arder en presente: Yo ardo",
+    "Conjugación del verbo reprender en presente: Yo reprendo",
+    "Conjugación del verbo emprender en presente: Yo emprendo",
+    "Conjugación del verbo doler en presente: Yo duelo",
+    "Conjugación del verbo disolver en presente: Yo disuelvo",
+    "Conjugación del verbo exponer en presente: Yo expongo",
+    "Conjugación del verbo imponer en presente: Yo impongo",
+    "Conjugación del verbo suponer en presente: Yo supongo",
+    "Conjugación del verbo oponer en presente: Yo opongo",
+    "Conjugación del verbo componer en presente: Yo compongo",
+    "Conjugación del verbo disponer en presente: Yo dispongo",
+    "Conjugación del verbo entretener en presente: Yo entretengo",
+    "Conjugación del verbo contener en presente: Yo contengo",
+    "Conjugación del verbo retener en presente: Yo retengo",
+    "Conjugación del verbo sostener en presente: Yo sostengo",
+    "Conjugación del verbo mantener en presente: Yo mantengo",
+    "Conjugación del verbo detener en presente: Yo detengo",
+    "Conjugación del verbo valer en presente: Yo valgo",
+    "Conjugación del verbo haber en presente: Yo he",
+    "Conjugación del verbo desprender en presente: Yo desprendo",
+    "Conjugación del verbo barrer en presente: Yo barro",
+    "Conjugación del verbo corromper en presente: Yo corrompo",
+    "Conjugación del verbo temer en presente: Yo temo",
+    "Conjugación del verbo promover en presente: Yo promuevo",
+    "Conjugación del verbo recaer en presente: Yo recaigo",
+    "Conjugación del verbo precaver en presente: Yo precavo",
+    "Conjugación del verbo prevalecer en presente: Yo prevalezco",
+    "Conjugación del verbo comprometer en presente: Yo comprometo",
+    "Conjugación del verbo arremeter en presente: Yo arremeto",
+    "Conjugación del verbo sobreponer en presente: Yo sobrepongo",
+    "Conjugación del verbo repeler en presente: Yo repelo",
+    "Conjugación del verbo carecer en presente: Yo carezco",
+    "Conjugación del verbo vivir en presente: Yo vivo",
+    "Conjugación del verbo abrir en presente: Yo abro",
+    "Conjugación del verbo decidir en presente: Yo decido",
+    "Conjugación del verbo recibir en presente: Yo recibo",
+    "Conjugación del verbo subir en presente: Yo subo",
+    "Conjugación del verbo permitir en presente: Yo permito",
+    "Conjugación del verbo admitir en presente: Yo admito",
+    "Conjugación del verbo asistir en presente: Yo asisto",
+    "Conjugación del verbo discutir en presente: Yo discuto",
+    "Conjugación del verbo compartir en presente: Yo comparto",
+    "Conjugación del verbo imprimir en presente: Yo imprimo",
+    "Conjugación del verbo añadir en presente: Yo añado",
+    "Conjugación del verbo ocurrir en presente: Yo ocurro",
+    "Conjugación del verbo insistir en presente: Yo insisto",
+    "Conjugación del verbo partir en presente: Yo parto",
+    "Conjugación del verbo sufrir en presente: Yo sufro",
+    "Conjugación del verbo cumplir en presente: Yo cumplo",
+    "Conjugación del verbo exigir en presente: Yo exijo",
+    "Conjugación del verbo medir en presente: Yo mido",
+    "Conjugación del verbo pedir en presente: Yo pido",
+    "Conjugación del verbo seguir en presente: Yo sigo",
+    "Conjugación del verbo conseguir en presente: Yo consigo",
+    "Conjugación del verbo perseguir en presente: Yo persigo",
+    "Conjugación del verbo consumir en presente: Yo consumo",
+    "Conjugación del verbo resumir en presente: Yo resumo",
+    "Conjugación del verbo vestir en presente: Yo visto",
+    "Conjugación del verbo competir en presente: Yo compito",
+    "Conjugación del verbo impedir en presente: Yo impido",
+    "Conjugación del verbo despedir en presente: Yo despido",
+    "Conjugación del verbo freír en presente: Yo frío",
+    "Conjugación del verbo servir en presente: Yo sirvo",
+    "Conjugación del verbo repetir en presente: Yo repito",
+    "Conjugación del verbo convertir en presente: Yo convierto",
+    "Conjugación del verbo sentir en presente: Yo siento",
+    "Conjugación del verbo mentir en presente: Yo miento",
+    "Conjugación del verbo preferir en presente: Yo prefiero",
+    "Conjugación del verbo referir en presente: Yo refiero",
+    "Conjugación del verbo sugerir en presente: Yo sugiero",
+    "Conjugación del verbo hervir en presente: Yo hiervo",
+    "Conjugación del verbo advertir en presente: Yo advierto",
+    "Conjugación del verbo invertir en presente: Yo invierto",
+    "Conjugación del verbo intervenir en presente: Yo intervengo",
+    "Conjugación del verbo prevenir en presente: Yo prevengo",
+    "Conjugación del verbo venir en presente: Yo vengo",
+    "Conjugación del verbo ocurrir en presente: Yo ocurro",
+    "Conjugación del verbo existir en presente: Yo existo",
+    "Conjugación del verbo persistir en presente: Yo persisto",
+    "Conjugación del verbo transmitir en presente: Yo transmito",
+    "Conjugación del verbo emitir en presente: Yo emito",
+    "Conjugación del verbo definir en presente: Yo defino",
+    "Conjugación del verbo unir en presente: Yo uno",
+    "Conjugación del verbo asumir en presente: Yo asumo",
+    "Conjugación del verbo asistir en presente: Yo asisto",
+    "Conjugación del verbo admitir en presente: Yo admito",
+    "Conjugación del verbo consentir en presente: Yo consiento",
+    "Conjugación del verbo percibir en presente: Yo percibo",
+    "Conjugación del verbo batir en presente: Yo bato",
+    "Conjugación del verbo debatir en presente: Yo debato",
+    "Conjugación del verbo cumplir en presente: Yo cumplo",
+    "Conjugación del verbo añadir en presente: Yo añado",
+    "Conjugación del verbo surgir en presente: Yo surjo",
+    "Conjugación del verbo pulir en presente: Yo pulo",
+    "Conjugación del verbo exigir en presente: Yo exijo",
+    "Conjugación del verbo esculpir en presente: Yo esculpo",
+    "Conjugación del verbo presumir en presente: Yo presumo",
+    "Conjugación del verbo resistir en presente: Yo resisto",
+    "Conjugación del verbo revivir en presente: Yo revivo",
+    "Conjugación del verbo sobrevivir en presente: Yo sobrevivo",
+    "Conjugación del verbo repartir en presente: Yo reparto",
+    "Conjugación del verbo exprimir en presente: Yo exprimo",
+    "Conjugación del verbo reprimir en presente: Yo reprimo",
+    "Conjugación del verbo sacudir en presente: Yo sacudo",
+    "Conjugación del verbo escurrir en presente: Yo escurro",
+    "Conjugación del verbo acudir en presente: Yo acudo",
+    "Conjugación del verbo zurcir en presente: Yo zurzo",
+    "Conjugación del verbo combatir en presente: Yo combato",
+    "Conjugación del verbo esparcir en presente: Yo esparzo",
+    "Conjugación del verbo gemir en presente: Yo gimo",
+    "Conjugación del verbo coincidir en presente: Yo coincido",
+]
+
+spanish_tu = [
+    "Conjugación del verbo hablar en presente: Tú hablas",
+    "Conjugación del verbo amar en presente: Tú amas",
+    "Conjugación del verbo cantar en presente: Tú cantas",
+    "Conjugación del verbo bailar en presente: Tú bailas",
+    "Conjugación del verbo viajar en presente: Tú viajas",
+    "Conjugación del verbo cocinar en presente: Tú cocinas",
+    "Conjugación del verbo nadar en presente: Tú nadas",
+    "Conjugación del verbo buscar en presente: Tú buscas",
+    "Conjugación del verbo necesitar en presente: Tú necesitas",
+    "Conjugación del verbo llevar en presente: Tú llevas",
+    "Conjugación del verbo visitar en presente: Tú visitas",
+    "Conjugación del verbo olvidar en presente: Tú olvidas",
+    "Conjugación del verbo contestar en presente: Tú contestas",
+    "Conjugación del verbo terminar en presente: Tú terminas",
+    "Conjugación del verbo esperar en presente: Tú esperas",
+    "Conjugación del verbo desayunar en presente: Tú desayunas",
+    "Conjugación del verbo cenar en presente: Tú cenas",
+    "Conjugación del verbo descansar en presente: Tú descansas",
+    "Conjugación del verbo limpiar en presente: Tú limpias",
+    "Conjugación del verbo lavar en presente: Tú lavas",
+    "Conjugación del verbo mirar en presente: Tú miras",
+    "Conjugación del verbo pagar en presente: Tú pagas",
+    "Conjugación del verbo llamar en presente: Tú llamas",
+    "Conjugación del verbo reparar en presente: Tú reparas",
+    "Conjugación del verbo saludar en presente: Tú saludas",
+    "Conjugación del verbo preparar en presente: Tú preparas",
+    "Conjugación del verbo cuidar en presente: Tú cuidas",
+    "Conjugación del verbo pintar en presente: Tú pintas",
+    "Conjugación del verbo ordenar en presente: Tú ordenas",
+    "Conjugación del verbo organizar en presente: Tú organizas",
+    "Conjugación del verbo usar en presente: Tú usas",
+    "Conjugación del verbo prestar en presente: Tú prestas",
+    "Conjugación del verbo tirar en presente: Tú tiras",
+    "Conjugación del verbo tocar en presente: Tú tocas",
+    "Conjugación del verbo arreglar en presente: Tú arreglas",
+    "Conjugación del verbo gritar en presente: Tú gritas",
+    "Conjugación del verbo mejorar en presente: Tú mejoras",
+    "Conjugación del verbo respirar en presente: Tú respiras",
+    "Conjugación del verbo invitar en presente: Tú invitas",
+    "Conjugación del verbo recomendar en presente: Tú recomiendas",
+    "Conjugación del verbo relajar en presente: Tú relajas",
+    "Conjugación del verbo sacar en presente: Tú sacas",
+    "Conjugación del verbo señalar en presente: Tú señalas",
+    "Conjugación del verbo seleccionar en presente: Tú seleccionas",
+    "Conjugación del verbo solucionar en presente: Tú solucionas",
+    "Conjugación del verbo tratar en presente: Tú tratas",
+    "Conjugación del verbo votar en presente: Tú votas",
+    "Conjugación del verbo admirar en presente: Tú admiras",
+    "Conjugación del verbo cancelar en presente: Tú cancelas",
+    "Conjugación del verbo celebrar en presente: Tú celebras",
+    "Conjugación del verbo comentar en presente: Tú comentas",
+    "Conjugación del verbo completar en presente: Tú completas",
+    "Conjugación del verbo cultivar en presente: Tú cultivas",
+    "Conjugación del verbo disfrutar en presente: Tú disfrutas",
+    "Conjugación del verbo durar en presente: Tú duras",
+    "Conjugación del verbo educar en presente: Tú educas",
+    "Conjugación del verbo encantar en presente: Tú encantas",
+    "Conjugación del verbo explorar en presente: Tú exploras",
+    "Conjugación del verbo generar en presente: Tú generas",
+    "Conjugación del verbo imaginar en presente: Tú imaginas",
+    "Conjugación del verbo importar en presente: Tú importas",
+    "Conjugación del verbo indicar en presente: Tú indicas",
+    "Conjugación del verbo informar en presente: Tú informas",
+    "Conjugación del verbo interesar en presente: Tú interesas",
+    "Conjugación del verbo ocupar en presente: Tú ocupas",
+    "Conjugación del verbo practicar en presente: Tú practicas",
+    "Conjugación del verbo provocar en presente: Tú provocas",
+    "Conjugación del verbo publicar en presente: Tú publicas",
+    "Conjugación del verbo resultar en presente: Tú resultas",
+    "Conjugación del verbo revelar en presente: Tú revelas",
+    "Conjugación del verbo significar en presente: Tú significas",
+    "Conjugación del verbo sumar en presente: Tú sumas",
+    "Conjugación del verbo transportar en presente: Tú transportas",
+    "Conjugación del verbo verificar en presente: Tú verificas",
+    "Conjugación del verbo comer en presente: Tú comes",
+    "Conjugación del verbo aprender en presente: Tú aprendes",
+    "Conjugación del verbo comprender en presente: Tú comprendes",
+    "Conjugación del verbo creer en presente: Tú crees",
+    "Conjugación del verbo responder en presente: Tú respondes",
+    "Conjugación del verbo romper en presente: Tú rompes",
+    "Conjugación del verbo esconder en presente: Tú escondes",
+    "Conjugación del verbo temer en presente: Tú temes",
+    "Conjugación del verbo sorprender en presente: Tú sorprendes",
+    "Conjugación del verbo meter en presente: Tú metes",
+    "Conjugación del verbo cometer en presente: Tú cometes",
+    "Conjugación del verbo prender en presente: Tú prendes",
+    "Conjugación del verbo prometer en presente: Tú prometes",
+    "Conjugación del verbo toser en presente: Tú toses",
+    "Conjugación del verbo coser en presente: Tú coses",
+    "Conjugación del verbo barrer en presente: Tú barres",
+    "Conjugación del verbo acceder en presente: Tú accedes",
+    "Conjugación del verbo tejer en presente: Tú tejes",
+    "Conjugación del verbo proteger en presente: Tú proteges",
+    "Conjugación del verbo encender en presente: Tú enciendes",
+    "Conjugación del verbo perder en presente: Tú pierdes",
+    "Conjugación del verbo permanecer en presente: Tú permaneces",
+    "Conjugación del verbo favorecer en presente: Tú favoreces",
+    "Conjugación del verbo obedecer en presente: Tú obedeces",
+    "Conjugación del verbo aparecer en presente: Tú apareces",
+    "Conjugación del verbo desaparecer en presente: Tú desapareces",
+    "Conjugación del verbo establecer en presente: Tú estableces",
+    "Conjugación del verbo suceder en presente: Tú sucedes",
+    "Conjugación del verbo pretender en presente: Tú pretendes",
+    "Conjugación del verbo llover en presente: Tú llueves",
+    "Conjugación del verbo florecer en presente: Tú floreces",
+    "Conjugación del verbo agradecer en presente: Tú agradeces",
+    "Conjugación del verbo crecer en presente: Tú creces",
+    "Conjugación del verbo resolver en presente: Tú resuelves",
+    "Conjugación del verbo devolver en presente: Tú devuelves",
+    "Conjugación del verbo envolver en presente: Tú envuelves",
+    "Conjugación del verbo absorber en presente: Tú absorbes",
+    "Conjugación del verbo converger en presente: Tú converges",
+    "Conjugación del verbo arder en presente: Tú ardes",
+    "Conjugación del verbo reprender en presente: Tú reprendes",
+    "Conjugación del verbo emprender en presente: Tú emprendes",
+    "Conjugación del verbo doler en presente: Tú dueles",
+    "Conjugación del verbo disolver en presente: Tú disuelves",
+    "Conjugación del verbo exponer en presente: Tú expones",
+    "Conjugación del verbo imponer en presente: Tú impones",
+    "Conjugación del verbo suponer en presente: Tú supones",
+    "Conjugación del verbo oponer en presente: Tú opones",
+    "Conjugación del verbo componer en presente: Tú compones",
+    "Conjugación del verbo disponer en presente: Tú dispones",
+    "Conjugación del verbo entretener en presente: Tú entretienes",
+    "Conjugación del verbo contener en presente: Tú contienes",
+    "Conjugación del verbo retener en presente: Tú retienes",
+    "Conjugación del verbo sostener en presente: Tú sostienes",
+    "Conjugación del verbo mantener en presente: Tú mantienes",
+    "Conjugación del verbo detener en presente: Tú detienes",
+    "Conjugación del verbo valer en presente: Tú vales",
+    "Conjugación del verbo haber en presente: Tú has",
+    "Conjugación del verbo desprender en presente: Tú desprendes",
+    "Conjugación del verbo barrer en presente: Tú barres",
+    "Conjugación del verbo corromper en presente: Tú corrompes",
+    "Conjugación del verbo temer en presente: Tú temes",
+    "Conjugación del verbo promover en presente: Tú promueves",
+    "Conjugación del verbo recaer en presente: Tú recaes",
+    "Conjugación del verbo precaver en presente: Tú precaves",
+    "Conjugación del verbo prevalecer en presente: Tú prevaleces",
+    "Conjugación del verbo comprometer en presente: Tú comprometes",
+    "Conjugación del verbo arremeter en presente: Tú arremetes",
+    "Conjugación del verbo sobreponer en presente: Tú sobrepones",
+    "Conjugación del verbo repeler en presente: Tú repeles",
+    "Conjugación del verbo carecer en presente: Tú careces",
+    "Conjugación del verbo vivir en presente: Tú vives",
+    "Conjugación del verbo abrir en presente: Tú abres",
+    "Conjugación del verbo decidir en presente: Tú decides",
+    "Conjugación del verbo recibir en presente: Tú recibes",
+    "Conjugación del verbo subir en presente: Tú subes",
+    "Conjugación del verbo permitir en presente: Tú permites",
+    "Conjugación del verbo admitir en presente: Tú admites",
+    "Conjugación del verbo asistir en presente: Tú asistes",
+    "Conjugación del verbo discutir en presente: Tú discutes",
+    "Conjugación del verbo compartir en presente: Tú compartes",
+    "Conjugación del verbo imprimir en presente: Tú imprimes",
+    "Conjugación del verbo añadir en presente: Tú añades",
+    "Conjugación del verbo ocurrir en presente: Tú ocurres",
+    "Conjugación del verbo insistir en presente: Tú insistes",
+    "Conjugación del verbo partir en presente: Tú partes",
+    "Conjugación del verbo sufrir en presente: Tú sufres",
+    "Conjugación del verbo cumplir en presente: Tú cumples",
+    "Conjugación del verbo exigir en presente: Tú exiges",
+    "Conjugación del verbo medir en presente: Tú mides",
+    "Conjugación del verbo pedir en presente: Tú pides",
+    "Conjugación del verbo seguir en presente: Tú sigues",
+    "Conjugación del verbo conseguir en presente: Tú consigues",
+    "Conjugación del verbo perseguir en presente: Tú persigues",
+    "Conjugación del verbo consumir en presente: Tú consumes",
+    "Conjugación del verbo resumir en presente: Tú resumes",
+    "Conjugación del verbo vestir en presente: Tú vistes",
+    "Conjugación del verbo competir en presente: Tú compites",
+    "Conjugación del verbo impedir en presente: Tú impides",
+    "Conjugación del verbo despedir en presente: Tú despides",
+    "Conjugación del verbo freír en presente: Tú fríes",
+    "Conjugación del verbo servir en presente: Tú sirves",
+    "Conjugación del verbo repetir en presente: Tú repites",
+    "Conjugación del verbo convertir en presente: Tú conviertes",
+    "Conjugación del verbo sentir en presente: Tú sientes",
+    "Conjugación del verbo mentir en presente: Tú mientes",
+    "Conjugación del verbo preferir en presente: Tú prefieres",
+    "Conjugación del verbo referir en presente: Tú refieres",
+    "Conjugación del verbo sugerir en presente: Tú sugieres",
+    "Conjugación del verbo hervir en presente: Tú hierves",
+    "Conjugación del verbo advertir en presente: Tú adviertes",
+    "Conjugación del verbo invertir en presente: Tú inviertes",
+    "Conjugación del verbo intervenir en presente: Tú intervienes",
+    "Conjugación del verbo prevenir en presente: Tú previenes",
+    "Conjugación del verbo venir en presente: Tú vienes",
+    "Conjugación del verbo ocurrir en presente: Tú ocurres",
+    "Conjugación del verbo existir en presente: Tú existes",
+    "Conjugación del verbo persistir en presente: Tú persistes",
+    "Conjugación del verbo transmitir en presente: Tú transmites",
+    "Conjugación del verbo emitir en presente: Tú emites",
+    "Conjugación del verbo definir en presente: Tú defines",
+    "Conjugación del verbo unir en presente: Tú unes",
+    "Conjugación del verbo asumir en presente: Tú asumes",
+    "Conjugación del verbo asistir en presente: Tú asistes",
+    "Conjugación del verbo admitir en presente: Tú admites",
+    "Conjugación del verbo consentir en presente: Tú consientes",
+    "Conjugación del verbo percibir en presente: Tú percibes",
+    "Conjugación del verbo batir en presente: Tú bates",
+    "Conjugación del verbo debatir en presente: Tú debates",
+    "Conjugación del verbo cumplir en presente: Tú cumples",
+    "Conjugación del verbo añadir en presente: Tú añades",
+    "Conjugación del verbo surgir en presente: Tú surges",
+    "Conjugación del verbo pulir en presente: Tú pules",
+    "Conjugación del verbo exigir en presente: Tú exiges",
+    "Conjugación del verbo esculpir en presente: Tú esculpes",
+    "Conjugación del verbo presumir en presente: Tú presumes",
+    "Conjugación del verbo resistir en presente: Tú resistes",
+    "Conjugación del verbo revivir en presente: Tú revives",
+    "Conjugación del verbo sobrevivir en presente: Tú sobrevives",
+    "Conjugación del verbo repartir en presente: Tú repartes",
+    "Conjugación del verbo exprimir en presente: Tú exprimes",
+    "Conjugación del verbo reprimir en presente: Tú reprimes",
+    "Conjugación del verbo sacudir en presente: Tú sacudes",
+    "Conjugación del verbo escurrir en presente: Tú escurres",
+    "Conjugación del verbo acudir en presente: Tú acudes",
+    "Conjugación del verbo zurcir en presente: Tú zurces",
+    "Conjugación del verbo combatir en presente: Tú combates",
+    "Conjugación del verbo esparcir en presente: Tú esparces",
+    "Conjugación del verbo gemir en presente: Tú gimes",
+    "Conjugación del verbo coincidir en presente: Tú coincides",
+]

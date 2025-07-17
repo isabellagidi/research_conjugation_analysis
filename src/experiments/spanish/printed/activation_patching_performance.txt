@@ -1,0 +1,11 @@
+Kept verb forms:
+
+
+✅ Kept 186 out of 360 (51.67%)
+Starting activation patching…
+Kept verb forms:
+
+Clean P(gold)   = 0.5882
+Corrupt P(gold) = 0.0116
+✅ Saved patching_YO→TÚ.png
+Done.

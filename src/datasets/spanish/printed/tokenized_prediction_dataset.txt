@@ -1,0 +1,1787 @@
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġhablar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 29778, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġamar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 31288, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcantar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 63942, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbailar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġba']
+Token IDs: [148352, 1180, 627, 16086, 93037, 413, 14204, 29, 22245, 2431]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġviajar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġvia']
+Token IDs: [148352, 1180, 627, 16086, 51065, 413, 14204, 29, 22245, 6290]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcocinar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcoc']
+Token IDs: [148352, 1180, 627, 16086, 210807, 413, 14204, 29, 22245, 23195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġnadar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġn']
+Token IDs: [148352, 1180, 627, 16086, 190613, 413, 14204, 29, 22245, 294]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbuscar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġbus']
+Token IDs: [148352, 1180, 627, 16086, 23740, 413, 14204, 29, 22245, 4889]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġnecesitar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 114803, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllevar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 19586, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvisitar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġvis']
+Token IDs: [148352, 1180, 627, 16086, 35014, 413, 14204, 29, 22245, 3293]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġolvidar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 105133, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcontestar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcont']
+Token IDs: [148352, 1180, 627, 16086, 155559, 413, 14204, 29, 22245, 1305]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġterminar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 46581, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesperar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 30442, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdesay', 'unar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 148094, 131838, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġc', 'enar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġc']
+Token IDs: [148352, 1180, 627, 16086, 268, 6003, 413, 14204, 29, 22245, 268]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdescansar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 124422, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġlimpiar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 149875, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġlavar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġla']
+Token IDs: [148352, 1180, 627, 16086, 113255, 413, 14204, 29, 22245, 366]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmirar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 62032, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpagar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 20888, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllamar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġll']
+Token IDs: [148352, 1180, 627, 16086, 70210, 413, 14204, 29, 22245, 2697]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreparar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrepar']
+Token IDs: [148352, 1180, 627, 16086, 129265, 413, 14204, 29, 22245, 33381]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsaludar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 225509, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreparar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprepar']
+Token IDs: [148352, 1180, 627, 16086, 50328, 413, 14204, 29, 22245, 8910]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcuidar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcu']
+Token IDs: [148352, 1180, 627, 16086, 65482, 413, 14204, 29, 22245, 1767]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpintar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġp']
+Token IDs: [148352, 1180, 627, 16086, 64518, 413, 14204, 29, 22245, 269]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġordenar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġord']
+Token IDs: [148352, 1180, 627, 16086, 103078, 413, 14204, 29, 22245, 5200]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġorganizar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġorgan']
+Token IDs: [148352, 1180, 627, 16086, 73735, 413, 14204, 29, 22245, 3539]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġusar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 20659, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprestar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprest']
+Token IDs: [148352, 1180, 627, 16086, 63998, 413, 14204, 29, 22245, 10188]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtirar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 42939, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtocar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġto']
+Token IDs: [148352, 1180, 627, 16086, 43544, 413, 14204, 29, 22245, 427]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġarreglar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 149449, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgritar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 143349, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmejorar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġmej']
+Token IDs: [148352, 1180, 627, 16086, 32012, 413, 14204, 29, 22245, 6972]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrespirar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġresp']
+Token IDs: [148352, 1180, 627, 16086, 123348, 413, 14204, 29, 22245, 2195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinvitar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġinv']
+Token IDs: [148352, 1180, 627, 16086, 178638, 413, 14204, 29, 22245, 2598]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrecom', 'endar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrecom']
+Token IDs: [148352, 1180, 627, 16086, 16070, 16930, 413, 14204, 29, 22245, 16070]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrel', 'ajar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrel']
+Token IDs: [148352, 1180, 627, 16086, 2032, 13206, 413, 14204, 29, 22245, 2032]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsacar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 50014, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠseÃ±alar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'ĠseÃ±']
+Token IDs: [148352, 1180, 627, 16086, 107622, 413, 14204, 29, 22245, 9351]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġseleccionar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġseleccion']
+Token IDs: [148352, 1180, 627, 16086, 129338, 413, 14204, 29, 22245, 60384]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsolucionar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsolucion']
+Token IDs: [148352, 1180, 627, 16086, 84374, 413, 14204, 29, 22245, 139257]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtratar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 24472, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvotar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 41321, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmirar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 224554, 413, 14204, 29, 22245, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcancelar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcanc']
+Token IDs: [148352, 1180, 627, 16086, 146313, 413, 14204, 29, 22245, 10765]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcelebrar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcele']
+Token IDs: [148352, 1180, 627, 16086, 44731, 413, 14204, 29, 22245, 8858]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomentar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcom']
+Token IDs: [148352, 1180, 627, 16086, 96970, 413, 14204, 29, 22245, 495]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompletar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 70963, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcultivar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 156805, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdisfrutar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdisfr']
+Token IDs: [148352, 1180, 627, 16086, 59261, 413, 14204, 29, 22245, 34224]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdurar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 114622, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġeducar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġeduc']
+Token IDs: [148352, 1180, 627, 16086, 174468, 413, 14204, 29, 22245, 7491]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenc', 'antar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 2681, 22390, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexplorar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġexpl']
+Token IDs: [148352, 1180, 627, 16086, 92561, 413, 14204, 29, 22245, 4826]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgenerar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 39224, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimaginar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 67162, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimportar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġimport']
+Token IDs: [148352, 1180, 627, 16086, 109924, 413, 14204, 29, 22245, 2854]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġindicar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġind']
+Token IDs: [148352, 1180, 627, 16086, 76739, 413, 14204, 29, 22245, 1801]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinformar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġinform']
+Token IDs: [148352, 1180, 627, 16086, 58998, 413, 14204, 29, 22245, 2663]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinteresar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġinter']
+Token IDs: [148352, 1180, 627, 16086, 133645, 413, 14204, 29, 22245, 1365]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocupar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġocup']
+Token IDs: [148352, 1180, 627, 16086, 67207, 413, 14204, 29, 22245, 14249]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpracticar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprac']
+Token IDs: [148352, 1180, 627, 16086, 123757, 413, 14204, 29, 22245, 13118]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprovocar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprov']
+Token IDs: [148352, 1180, 627, 16086, 63204, 413, 14204, 29, 22245, 3002]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpublicar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 52539, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresultar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġresult']
+Token IDs: [148352, 1180, 627, 16086, 82241, 413, 14204, 29, 22245, 2600]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrevelar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrevel']
+Token IDs: [148352, 1180, 627, 16086, 108544, 413, 14204, 29, 22245, 17102]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsignificar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsignific']
+Token IDs: [148352, 1180, 627, 16086, 141079, 413, 14204, 29, 22245, 8697]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsumar', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 67332, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtransportar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġtransport']
+Token IDs: [148352, 1180, 627, 16086, 139989, 413, 14204, 29, 22245, 9783]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġverificar', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġverific']
+Token IDs: [148352, 1180, 627, 16086, 63916, 413, 14204, 29, 22245, 93335]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomer', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 25086, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġaprender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġapr']
+Token IDs: [148352, 1180, 627, 16086, 41390, 413, 14204, 29, 22245, 6622]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomprender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcompr']
+Token IDs: [148352, 1180, 627, 16086, 115613, 413, 14204, 29, 22245, 6541]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcreer', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 83029, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresponder', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrespond']
+Token IDs: [148352, 1180, 627, 16086, 40347, 413, 14204, 29, 22245, 13906]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġromper', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrom']
+Token IDs: [148352, 1180, 627, 16086, 81594, 413, 14204, 29, 22245, 11733]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesconder', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġescon']
+Token IDs: [148352, 1180, 627, 16086, 100990, 413, 14204, 29, 22245, 55732]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtemer', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 105012, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsorprender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsorpr']
+Token IDs: [148352, 1180, 627, 16086, 204330, 413, 14204, 29, 22245, 32443]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmeter', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġmet']
+Token IDs: [148352, 1180, 627, 16086, 29618, 413, 14204, 29, 22245, 3298]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcometer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcom']
+Token IDs: [148352, 1180, 627, 16086, 103776, 413, 14204, 29, 22245, 495]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpr']
+Token IDs: [148352, 1180, 627, 16086, 153400, 413, 14204, 29, 22245, 643]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprom', 'eter', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 4344, 3871, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġt', 'oser', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġt']
+Token IDs: [148352, 1180, 627, 16086, 261, 69067, 413, 14204, 29, 22245, 261]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcos', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcos']
+Token IDs: [148352, 1180, 627, 16086, 6075, 259, 413, 14204, 29, 22245, 6075]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbarr', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 8717, 259, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġacceder', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġacc']
+Token IDs: [148352, 1180, 627, 16086, 53498, 413, 14204, 29, 22245, 2995]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġte', 'jer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġte']
+Token IDs: [148352, 1180, 627, 16086, 2640, 7585, 413, 14204, 29, 22245, 2640]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġproteger', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprote']
+Token IDs: [148352, 1180, 627, 16086, 37421, 413, 14204, 29, 22245, 9013]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenc', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġenc']
+Token IDs: [148352, 1180, 627, 16086, 2681, 3489, 413, 14204, 29, 22245, 2681]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġperder', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpier']
+Token IDs: [148352, 1180, 627, 16086, 26809, 413, 14204, 29, 22245, 29829]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpermanecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġperman']
+Token IDs: [148352, 1180, 627, 16086, 62464, 413, 14204, 29, 22245, 11091]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġfavorecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġfavor']
+Token IDs: [148352, 1180, 627, 16086, 114522, 413, 14204, 29, 22245, 6962]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġobedecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġobed']
+Token IDs: [148352, 1180, 627, 16086, 201524, 413, 14204, 29, 22245, 56522]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġaparecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġapar']
+Token IDs: [148352, 1180, 627, 16086, 64381, 413, 14204, 29, 22245, 9190]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdesaparecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdesapar']
+Token IDs: [148352, 1180, 627, 16086, 98175, 413, 14204, 29, 22245, 20195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġestablecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġestable']
+Token IDs: [148352, 1180, 627, 16086, 55825, 413, 14204, 29, 22245, 11689]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsuceder', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsuc']
+Token IDs: [148352, 1180, 627, 16086, 118384, 413, 14204, 29, 22245, 7182]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpretender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpret']
+Token IDs: [148352, 1180, 627, 16086, 222334, 413, 14204, 29, 22245, 9185]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllo', 'ver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġll']
+Token IDs: [148352, 1180, 627, 16086, 88109, 762, 413, 14204, 29, 22245, 2697]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġflor', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġflor']
+Token IDs: [148352, 1180, 627, 16086, 26744, 7284, 413, 14204, 29, 22245, 26744]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġagradecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġagrad']
+Token IDs: [148352, 1180, 627, 16086, 65218, 413, 14204, 29, 22245, 21021]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcrecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcre']
+Token IDs: [148352, 1180, 627, 16086, 77458, 413, 14204, 29, 22245, 2214]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresolver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġresuel']
+Token IDs: [148352, 1180, 627, 16086, 32888, 413, 14204, 29, 22245, 82890]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdevolver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdev', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 95949, 413, 14204, 29, 22245, 3264, 3318]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenvolver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġenv', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 153792, 413, 14204, 29, 22245, 12672, 3318]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġabsorber', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġabsor']
+Token IDs: [148352, 1180, 627, 16086, 226439, 413, 14204, 29, 22245, 41896]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconver', 'ger', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġconver']
+Token IDs: [148352, 1180, 627, 16086, 20800, 3514, 413, 14204, 29, 22245, 20800]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġar', 'der', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 819, 1827, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepr', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrepr']
+Token IDs: [148352, 1180, 627, 16086, 9090, 3489, 413, 14204, 29, 22245, 9090]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġemprender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġempr']
+Token IDs: [148352, 1180, 627, 16086, 176256, 413, 14204, 29, 22245, 20376]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdol', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 13578, 259, 413, 14204, 29, 22245]
+---
+Prompt length: 12
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdis', 'olver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdis', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 1006, 45890, 413, 14204, 29, 22245, 1006, 3318]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexponer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġexp']
+Token IDs: [148352, 1180, 627, 16086, 202185, 413, 14204, 29, 22245, 5853]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimponer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġimp']
+Token IDs: [148352, 1180, 627, 16086, 122537, 413, 14204, 29, 22245, 1272]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsuponer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsup']
+Token IDs: [148352, 1180, 627, 16086, 171512, 413, 14204, 29, 22245, 1922]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġop', 'oner', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġop']
+Token IDs: [148352, 1180, 627, 16086, 2773, 34809, 413, 14204, 29, 22245, 2773]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompon', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcomp']
+Token IDs: [148352, 1180, 627, 16086, 10724, 259, 413, 14204, 29, 22245, 1000]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdisponer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdisp']
+Token IDs: [148352, 1180, 627, 16086, 146407, 413, 14204, 29, 22245, 11423]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġentret', 'ener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġentret']
+Token IDs: [148352, 1180, 627, 16086, 28353, 1449, 413, 14204, 29, 22245, 28353]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcontener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcont']
+Token IDs: [148352, 1180, 627, 16086, 108152, 413, 14204, 29, 22245, 1305]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġret', 'ener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġret']
+Token IDs: [148352, 1180, 627, 16086, 1615, 1449, 413, 14204, 29, 22245, 1615]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsostener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsost']
+Token IDs: [148352, 1180, 627, 16086, 156423, 413, 14204, 29, 22245, 13870]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmantener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġmant']
+Token IDs: [148352, 1180, 627, 16086, 30162, 413, 14204, 29, 22245, 5609]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdetener', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdet']
+Token IDs: [148352, 1180, 627, 16086, 99947, 413, 14204, 29, 22245, 5387]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvaler', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġval']
+Token IDs: [148352, 1180, 627, 16086, 114723, 413, 14204, 29, 22245, 1770]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġhaber', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 15374, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdespr', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdespr']
+Token IDs: [148352, 1180, 627, 16086, 63388, 3489, 413, 14204, 29, 22245, 63388]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbarr', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 8717, 259, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcorrom', 'per', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcorrom']
+Token IDs: [148352, 1180, 627, 16086, 116181, 1297, 413, 14204, 29, 22245, 116181]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtemer', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 105012, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpromover', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprom']
+Token IDs: [148352, 1180, 627, 16086, 41817, 413, 14204, 29, 22245, 4344]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreca', 'er', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġreca']
+Token IDs: [148352, 1180, 627, 16086, 100473, 259, 413, 14204, 29, 22245, 100473]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprec', 'aver', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprec']
+Token IDs: [148352, 1180, 627, 16086, 4586, 18459, 413, 14204, 29, 22245, 4586]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreval', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpreval']
+Token IDs: [148352, 1180, 627, 16086, 50408, 7284, 413, 14204, 29, 22245, 50408]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomprometer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcomprom']
+Token IDs: [148352, 1180, 627, 16086, 176881, 413, 14204, 29, 22245, 11437]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġarrem', 'eter', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġarrem']
+Token IDs: [148352, 1180, 627, 16086, 101734, 3871, 413, 14204, 29, 22245, 101734]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsobre', 'poner', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsobrep']
+Token IDs: [148352, 1180, 627, 16086, 2273, 130253, 413, 14204, 29, 22245, 134983]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrep', 'eler', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrep']
+Token IDs: [148352, 1180, 627, 16086, 6589, 12422, 413, 14204, 29, 22245, 6589]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcar', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcar']
+Token IDs: [148352, 1180, 627, 16086, 2307, 7284, 413, 14204, 29, 22245, 2307]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvivir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 42379, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġabrir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġab']
+Token IDs: [148352, 1180, 627, 16086, 30564, 413, 14204, 29, 22245, 1101]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdecidir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdec']
+Token IDs: [148352, 1180, 627, 16086, 31501, 413, 14204, 29, 22245, 2866]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrecibir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 33101, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsubir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsub']
+Token IDs: [148352, 1180, 627, 16086, 43840, 413, 14204, 29, 22245, 1956]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpermitir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġperm']
+Token IDs: [148352, 1180, 627, 16086, 34799, 413, 14204, 29, 22245, 3436]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmitir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 128977, 413, 14204, 29, 22245, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasistir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 111908, 413, 14204, 29, 22245, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdiscutir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdisc']
+Token IDs: [148352, 1180, 627, 16086, 62728, 413, 14204, 29, 22245, 4431]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompartir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcompart']
+Token IDs: [148352, 1180, 627, 16086, 46408, 413, 14204, 29, 22245, 16019]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimprimir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġimpr']
+Token IDs: [148352, 1180, 627, 16086, 115584, 413, 14204, 29, 22245, 31158]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠaÃ±adir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'ĠaÃ±']
+Token IDs: [148352, 1180, 627, 16086, 132249, 413, 14204, 29, 22245, 3076]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocurrir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġoc', 'ur']
+Token IDs: [148352, 1180, 627, 16086, 151702, 413, 14204, 29, 22245, 4939, 323]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinsistir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġins']
+Token IDs: [148352, 1180, 627, 16086, 125671, 413, 14204, 29, 22245, 3131]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpartir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 7158, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsufrir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsuf']
+Token IDs: [148352, 1180, 627, 16086, 92832, 413, 14204, 29, 22245, 100387]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcumplir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcumpl']
+Token IDs: [148352, 1180, 627, 16086, 37498, 413, 14204, 29, 22245, 15871]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexigir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġex']
+Token IDs: [148352, 1180, 627, 16086, 61551, 413, 14204, 29, 22245, 683]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmedir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġm']
+Token IDs: [148352, 1180, 627, 16086, 98196, 413, 14204, 29, 22245, 279]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpedir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 30254, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġseguir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 12176, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconseguir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 26600, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġperseguir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpers']
+Token IDs: [148352, 1180, 627, 16086, 127609, 413, 14204, 29, 22245, 1354]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconsumir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 105531, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresum', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 54723, 396, 413, 14204, 29, 22245]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvestir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 117573, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompetir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcomp']
+Token IDs: [148352, 1180, 627, 16086, 75698, 413, 14204, 29, 22245, 1000]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimpedir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġimp']
+Token IDs: [148352, 1180, 627, 16086, 51751, 413, 14204, 29, 22245, 1272]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdespedir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 143086, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġfre', 'ÃŃr', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 7720, 10469, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġservir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsir']
+Token IDs: [148352, 1180, 627, 16086, 19348, 413, 14204, 29, 22245, 19573]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepetir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrep']
+Token IDs: [148352, 1180, 627, 16086, 71366, 413, 14204, 29, 22245, 6589]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconvertir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġconvi']
+Token IDs: [148352, 1180, 627, 16086, 42818, 413, 14204, 29, 22245, 81407]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsentir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 24611, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmentir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġm']
+Token IDs: [148352, 1180, 627, 16086, 83039, 413, 14204, 29, 22245, 279]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreferir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpref']
+Token IDs: [148352, 1180, 627, 16086, 221055, 413, 14204, 29, 22245, 45325]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreferir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġref']
+Token IDs: [148352, 1180, 627, 16086, 107184, 413, 14204, 29, 22245, 4460]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsugerir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsug']
+Token IDs: [148352, 1180, 627, 16086, 200288, 413, 14204, 29, 22245, 27130]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġherv', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġhier']
+Token IDs: [148352, 1180, 627, 16086, 171007, 396, 413, 14204, 29, 22245, 24788]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadvertir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġad', 'vi']
+Token IDs: [148352, 1180, 627, 16086, 159378, 413, 14204, 29, 22245, 856, 4112]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinvertir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġinv']
+Token IDs: [148352, 1180, 627, 16086, 79392, 413, 14204, 29, 22245, 2598]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġintervenir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġinterv']
+Token IDs: [148352, 1180, 627, 16086, 59082, 413, 14204, 29, 22245, 19988]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprevenir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġprev']
+Token IDs: [148352, 1180, 627, 16086, 59596, 413, 14204, 29, 22245, 6629]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvenir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġv']
+Token IDs: [148352, 1180, 627, 16086, 25162, 413, 14204, 29, 22245, 337]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocurrir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġoc', 'ur']
+Token IDs: [148352, 1180, 627, 16086, 151702, 413, 14204, 29, 22245, 4939, 323]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexistir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġexist']
+Token IDs: [148352, 1180, 627, 16086, 65853, 413, 14204, 29, 22245, 5069]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpersist', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpers']
+Token IDs: [148352, 1180, 627, 16086, 33645, 396, 413, 14204, 29, 22245, 1354]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtransmitir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġtransm']
+Token IDs: [148352, 1180, 627, 16086, 96776, 413, 14204, 29, 22245, 22813]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġemitir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġem']
+Token IDs: [148352, 1180, 627, 16086, 107481, 413, 14204, 29, 22245, 766]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdefinir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdefin']
+Token IDs: [148352, 1180, 627, 16086, 43032, 413, 14204, 29, 22245, 4948]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġunir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 82761, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasumir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 88648, 413, 14204, 29, 22245, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasistir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 111908, 413, 14204, 29, 22245, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmitir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 128977, 413, 14204, 29, 22245, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconsentir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcons']
+Token IDs: [148352, 1180, 627, 16086, 209858, 413, 14204, 29, 22245, 1214]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpercibir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġperc']
+Token IDs: [148352, 1180, 627, 16086, 245051, 413, 14204, 29, 22245, 16213]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbat', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 2112, 396, 413, 14204, 29, 22245]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdebatir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġdeb']
+Token IDs: [148352, 1180, 627, 16086, 190002, 413, 14204, 29, 22245, 4205]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcumplir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcumpl']
+Token IDs: [148352, 1180, 627, 16086, 37498, 413, 14204, 29, 22245, 15871]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠaÃ±adir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'ĠaÃ±']
+Token IDs: [148352, 1180, 627, 16086, 132249, 413, 14204, 29, 22245, 3076]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsurgir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsur']
+Token IDs: [148352, 1180, 627, 16086, 129748, 413, 14204, 29, 22245, 1394]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpul', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġp']
+Token IDs: [148352, 1180, 627, 16086, 10655, 396, 413, 14204, 29, 22245, 269]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexigir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġex']
+Token IDs: [148352, 1180, 627, 16086, 61551, 413, 14204, 29, 22245, 683]
+---
+Prompt length: 13
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġes', 'cul', 'pir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġes', 'cul']
+Token IDs: [148352, 1180, 627, 16086, 616, 2464, 13028, 413, 14204, 29, 22245, 616, 2464]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpresum', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġpres']
+Token IDs: [148352, 1180, 627, 16086, 55227, 396, 413, 14204, 29, 22245, 1371]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresistir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġres']
+Token IDs: [148352, 1180, 627, 16086, 114188, 413, 14204, 29, 22245, 961]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrev', 'ivir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrev']
+Token IDs: [148352, 1180, 627, 16086, 8521, 109075, 413, 14204, 29, 22245, 8521]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsobrevivir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsobrev']
+Token IDs: [148352, 1180, 627, 16086, 145048, 413, 14204, 29, 22245, 75105]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepartir', 'Ġen', 'Ġpresente', ':', 'ĠYo']
+Token IDs: [148352, 1180, 627, 16086, 121087, 413, 14204, 29, 22245]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexprim', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġexpr']
+Token IDs: [148352, 1180, 627, 16086, 46212, 396, 413, 14204, 29, 22245, 87494]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepr', 'imir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġrepr']
+Token IDs: [148352, 1180, 627, 16086, 9090, 41222, 413, 14204, 29, 22245, 9090]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsac', 'udir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġsac']
+Token IDs: [148352, 1180, 627, 16086, 9678, 61401, 413, 14204, 29, 22245, 9678]
+---
+Prompt length: 12
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesc', 'urr', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġescur']
+Token IDs: [148352, 1180, 627, 16086, 3746, 2387, 396, 413, 14204, 29, 22245, 138328]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġacudir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġac']
+Token IDs: [148352, 1180, 627, 16086, 82227, 413, 14204, 29, 22245, 997]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġzur', 'cir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġzur']
+Token IDs: [148352, 1180, 627, 16086, 44538, 34683, 413, 14204, 29, 22245, 44538]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcombatir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcomb']
+Token IDs: [148352, 1180, 627, 16086, 71692, 413, 14204, 29, 22245, 5724]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġespar', 'cir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġespar']
+Token IDs: [148352, 1180, 627, 16086, 133633, 34683, 413, 14204, 29, 22245, 133633]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgem', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġg']
+Token IDs: [148352, 1180, 627, 16086, 39299, 396, 413, 14204, 29, 22245, 380]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcoincidir', 'Ġen', 'Ġpresente', ':', 'ĠYo', 'Ġcoinc']
+Token IDs: [148352, 1180, 627, 16086, 174832, 413, 14204, 29, 22245, 24105]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġhablar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġhab']
+Token IDs: [148352, 1180, 627, 16086, 29778, 413, 14204, 29, 59943, 2534]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġamar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 31288, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcantar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcant']
+Token IDs: [148352, 1180, 627, 16086, 63942, 413, 14204, 29, 59943, 8290]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbailar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġbail']
+Token IDs: [148352, 1180, 627, 16086, 93037, 413, 14204, 29, 59943, 50058]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġviajar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġvia']
+Token IDs: [148352, 1180, 627, 16086, 51065, 413, 14204, 29, 59943, 6290]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcocinar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcoc']
+Token IDs: [148352, 1180, 627, 16086, 210807, 413, 14204, 29, 59943, 23195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġnadar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġn']
+Token IDs: [148352, 1180, 627, 16086, 190613, 413, 14204, 29, 59943, 294]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbuscar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġbus']
+Token IDs: [148352, 1180, 627, 16086, 23740, 413, 14204, 29, 59943, 4889]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġnecesitar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 114803, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllevar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġlle']
+Token IDs: [148352, 1180, 627, 16086, 19586, 413, 14204, 29, 59943, 4938]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvisitar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 35014, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġolvidar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġolv']
+Token IDs: [148352, 1180, 627, 16086, 105133, 413, 14204, 29, 59943, 58028]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcontestar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcont']
+Token IDs: [148352, 1180, 627, 16086, 155559, 413, 14204, 29, 59943, 1305]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġterminar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġtermin']
+Token IDs: [148352, 1180, 627, 16086, 46581, 413, 14204, 29, 59943, 7381]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesperar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġesper']
+Token IDs: [148352, 1180, 627, 16086, 30442, 413, 14204, 29, 59943, 7301]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdesay', 'unar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdesay']
+Token IDs: [148352, 1180, 627, 16086, 148094, 131838, 413, 14204, 29, 59943, 148094]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġc', 'enar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 268, 6003, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdescansar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdescans']
+Token IDs: [148352, 1180, 627, 16086, 124422, 413, 14204, 29, 59943, 42078]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġlimpiar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġlimp']
+Token IDs: [148352, 1180, 627, 16086, 149875, 413, 14204, 29, 59943, 25724]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġlavar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġla']
+Token IDs: [148352, 1180, 627, 16086, 113255, 413, 14204, 29, 59943, 366]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmirar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 62032, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpagar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpag']
+Token IDs: [148352, 1180, 627, 16086, 20888, 413, 14204, 29, 59943, 8414]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllamar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 70210, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreparar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrepar']
+Token IDs: [148352, 1180, 627, 16086, 129265, 413, 14204, 29, 59943, 33381]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsaludar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsalud']
+Token IDs: [148352, 1180, 627, 16086, 225509, 413, 14204, 29, 59943, 14429]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreparar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprepar']
+Token IDs: [148352, 1180, 627, 16086, 50328, 413, 14204, 29, 59943, 8910]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcuidar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcu']
+Token IDs: [148352, 1180, 627, 16086, 65482, 413, 14204, 29, 59943, 1767]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpintar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpint']
+Token IDs: [148352, 1180, 627, 16086, 64518, 413, 14204, 29, 59943, 13986]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġordenar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġord']
+Token IDs: [148352, 1180, 627, 16086, 103078, 413, 14204, 29, 59943, 5200]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġorganizar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġorganiz']
+Token IDs: [148352, 1180, 627, 16086, 73735, 413, 14204, 29, 59943, 13155]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġusar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġus']
+Token IDs: [148352, 1180, 627, 16086, 20659, 413, 14204, 29, 59943, 975]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprestar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprest']
+Token IDs: [148352, 1180, 627, 16086, 63998, 413, 14204, 29, 59943, 10188]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtirar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġtir']
+Token IDs: [148352, 1180, 627, 16086, 42939, 413, 14204, 29, 59943, 11639]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtocar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġto']
+Token IDs: [148352, 1180, 627, 16086, 43544, 413, 14204, 29, 59943, 427]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġarreglar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġarreg']
+Token IDs: [148352, 1180, 627, 16086, 149449, 413, 14204, 29, 59943, 59756]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgritar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġgr']
+Token IDs: [148352, 1180, 627, 16086, 143349, 413, 14204, 29, 59943, 1186]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmejorar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 32012, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrespirar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġresp']
+Token IDs: [148352, 1180, 627, 16086, 123348, 413, 14204, 29, 59943, 2195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinvitar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġinv']
+Token IDs: [148352, 1180, 627, 16086, 178638, 413, 14204, 29, 59943, 2598]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrecom', 'endar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrecom']
+Token IDs: [148352, 1180, 627, 16086, 16070, 16930, 413, 14204, 29, 59943, 16070]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrel', 'ajar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrel']
+Token IDs: [148352, 1180, 627, 16086, 2032, 13206, 413, 14204, 29, 59943, 2032]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsacar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsac']
+Token IDs: [148352, 1180, 627, 16086, 50014, 413, 14204, 29, 59943, 9678]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠseÃ±alar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'ĠseÃ±al']
+Token IDs: [148352, 1180, 627, 16086, 107622, 413, 14204, 29, 59943, 15261]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġseleccionar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġseleccion']
+Token IDs: [148352, 1180, 627, 16086, 129338, 413, 14204, 29, 59943, 60384]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsolucionar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsolucion']
+Token IDs: [148352, 1180, 627, 16086, 84374, 413, 14204, 29, 59943, 139257]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtratar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġtrat']
+Token IDs: [148352, 1180, 627, 16086, 24472, 413, 14204, 29, 59943, 11391]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvotar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġvot']
+Token IDs: [148352, 1180, 627, 16086, 41321, 413, 14204, 29, 59943, 5393]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmirar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 224554, 413, 14204, 29, 59943, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcancelar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcanc']
+Token IDs: [148352, 1180, 627, 16086, 146313, 413, 14204, 29, 59943, 10765]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcelebrar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcele']
+Token IDs: [148352, 1180, 627, 16086, 44731, 413, 14204, 29, 59943, 8858]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomentar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcoment']
+Token IDs: [148352, 1180, 627, 16086, 96970, 413, 14204, 29, 59943, 19396]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompletar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 70963, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcultivar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcult']
+Token IDs: [148352, 1180, 627, 16086, 156805, 413, 14204, 29, 59943, 5390]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdisfrutar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdisfr']
+Token IDs: [148352, 1180, 627, 16086, 59261, 413, 14204, 29, 59943, 34224]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdurar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 114622, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġeducar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġeduc']
+Token IDs: [148352, 1180, 627, 16086, 174468, 413, 14204, 29, 59943, 7491]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenc', 'antar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġenc']
+Token IDs: [148352, 1180, 627, 16086, 2681, 22390, 413, 14204, 29, 59943, 2681]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexplorar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexpl']
+Token IDs: [148352, 1180, 627, 16086, 92561, 413, 14204, 29, 59943, 4826]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgenerar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġgener']
+Token IDs: [148352, 1180, 627, 16086, 39224, 413, 14204, 29, 59943, 2834]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimaginar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġimag']
+Token IDs: [148352, 1180, 627, 16086, 67162, 413, 14204, 29, 59943, 8628]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimportar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġimport']
+Token IDs: [148352, 1180, 627, 16086, 109924, 413, 14204, 29, 59943, 2854]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġindicar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġind']
+Token IDs: [148352, 1180, 627, 16086, 76739, 413, 14204, 29, 59943, 1801]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinformar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġinform']
+Token IDs: [148352, 1180, 627, 16086, 58998, 413, 14204, 29, 59943, 2663]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinteresar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġinteres']
+Token IDs: [148352, 1180, 627, 16086, 133645, 413, 14204, 29, 59943, 19101]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocupar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġocup']
+Token IDs: [148352, 1180, 627, 16086, 67207, 413, 14204, 29, 59943, 14249]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpracticar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpractic']
+Token IDs: [148352, 1180, 627, 16086, 123757, 413, 14204, 29, 59943, 26238]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprovocar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprovoc']
+Token IDs: [148352, 1180, 627, 16086, 63204, 413, 14204, 29, 59943, 22285]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpublicar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpublic']
+Token IDs: [148352, 1180, 627, 16086, 52539, 413, 14204, 29, 59943, 2470]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresultar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġresult']
+Token IDs: [148352, 1180, 627, 16086, 82241, 413, 14204, 29, 59943, 2600]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrevelar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrevel']
+Token IDs: [148352, 1180, 627, 16086, 108544, 413, 14204, 29, 59943, 17102]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsignificar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsignific']
+Token IDs: [148352, 1180, 627, 16086, 141079, 413, 14204, 29, 59943, 8697]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsumar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsum']
+Token IDs: [148352, 1180, 627, 16086, 67332, 413, 14204, 29, 59943, 6129]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtransportar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġtransport']
+Token IDs: [148352, 1180, 627, 16086, 139989, 413, 14204, 29, 59943, 9783]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġverificar', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġverific']
+Token IDs: [148352, 1180, 627, 16086, 63916, 413, 14204, 29, 59943, 93335]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 25086, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġaprender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġaprend']
+Token IDs: [148352, 1180, 627, 16086, 41390, 413, 14204, 29, 59943, 25960]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomprender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcomprend']
+Token IDs: [148352, 1180, 627, 16086, 115613, 413, 14204, 29, 59943, 43189]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcreer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 83029, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresponder', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrespond']
+Token IDs: [148352, 1180, 627, 16086, 40347, 413, 14204, 29, 59943, 13906]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġromper', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġromp']
+Token IDs: [148352, 1180, 627, 16086, 81594, 413, 14204, 29, 59943, 45101]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesconder', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġescon']
+Token IDs: [148352, 1180, 627, 16086, 100990, 413, 14204, 29, 59943, 55732]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtemer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 105012, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsorprender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsorpr']
+Token IDs: [148352, 1180, 627, 16086, 204330, 413, 14204, 29, 59943, 32443]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmeter', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġmet']
+Token IDs: [148352, 1180, 627, 16086, 29618, 413, 14204, 29, 59943, 3298]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcometer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcom']
+Token IDs: [148352, 1180, 627, 16086, 103776, 413, 14204, 29, 59943, 495]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprend']
+Token IDs: [148352, 1180, 627, 16086, 153400, 413, 14204, 29, 59943, 26278]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprom', 'eter', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprom']
+Token IDs: [148352, 1180, 627, 16086, 4344, 3871, 413, 14204, 29, 59943, 4344]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġt', 'oser', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġt']
+Token IDs: [148352, 1180, 627, 16086, 261, 69067, 413, 14204, 29, 59943, 261]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcos', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 6075, 259, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbarr', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 8717, 259, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġacceder', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġacc']
+Token IDs: [148352, 1180, 627, 16086, 53498, 413, 14204, 29, 59943, 2995]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġte', 'jer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġte']
+Token IDs: [148352, 1180, 627, 16086, 2640, 7585, 413, 14204, 29, 59943, 2640]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġproteger', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprote']
+Token IDs: [148352, 1180, 627, 16086, 37421, 413, 14204, 29, 59943, 9013]
+---
+Prompt length: 12
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenc', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġenc', 'i']
+Token IDs: [148352, 1180, 627, 16086, 2681, 3489, 413, 14204, 29, 59943, 2681, 76]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġperder', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpier']
+Token IDs: [148352, 1180, 627, 16086, 26809, 413, 14204, 29, 59943, 29829]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpermanecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġperman']
+Token IDs: [148352, 1180, 627, 16086, 62464, 413, 14204, 29, 59943, 11091]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġfavorecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġfavor']
+Token IDs: [148352, 1180, 627, 16086, 114522, 413, 14204, 29, 59943, 6962]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġobedecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġobed']
+Token IDs: [148352, 1180, 627, 16086, 201524, 413, 14204, 29, 59943, 56522]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġaparecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġapar']
+Token IDs: [148352, 1180, 627, 16086, 64381, 413, 14204, 29, 59943, 9190]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdesaparecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdesapar']
+Token IDs: [148352, 1180, 627, 16086, 98175, 413, 14204, 29, 59943, 20195]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġestablecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġestable']
+Token IDs: [148352, 1180, 627, 16086, 55825, 413, 14204, 29, 59943, 11689]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsuceder', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsuc']
+Token IDs: [148352, 1180, 627, 16086, 118384, 413, 14204, 29, 59943, 7182]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpretender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpretend']
+Token IDs: [148352, 1180, 627, 16086, 222334, 413, 14204, 29, 59943, 55495]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġllo', 'ver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġll']
+Token IDs: [148352, 1180, 627, 16086, 88109, 762, 413, 14204, 29, 59943, 2697]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġflor', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġflor']
+Token IDs: [148352, 1180, 627, 16086, 26744, 7284, 413, 14204, 29, 59943, 26744]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġagradecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġagrad']
+Token IDs: [148352, 1180, 627, 16086, 65218, 413, 14204, 29, 59943, 21021]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcrecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcre']
+Token IDs: [148352, 1180, 627, 16086, 77458, 413, 14204, 29, 59943, 2214]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresolver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġresuel']
+Token IDs: [148352, 1180, 627, 16086, 32888, 413, 14204, 29, 59943, 82890]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdevolver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdev', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 95949, 413, 14204, 29, 59943, 3264, 3318]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġenvolver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġenv', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 153792, 413, 14204, 29, 59943, 12672, 3318]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġabsorber', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġabsor']
+Token IDs: [148352, 1180, 627, 16086, 226439, 413, 14204, 29, 59943, 41896]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconver', 'ger', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 20800, 3514, 413, 14204, 29, 59943]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġar', 'der', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġar']
+Token IDs: [148352, 1180, 627, 16086, 819, 1827, 413, 14204, 29, 59943, 819]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepr', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrepr']
+Token IDs: [148352, 1180, 627, 16086, 9090, 3489, 413, 14204, 29, 59943, 9090]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġemprender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġempr']
+Token IDs: [148352, 1180, 627, 16086, 176256, 413, 14204, 29, 59943, 20376]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdol', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdu']
+Token IDs: [148352, 1180, 627, 16086, 13578, 259, 413, 14204, 29, 59943, 808]
+---
+Prompt length: 12
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdis', 'olver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdis', 'uel']
+Token IDs: [148352, 1180, 627, 16086, 1006, 45890, 413, 14204, 29, 59943, 1006, 3318]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexponer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexp']
+Token IDs: [148352, 1180, 627, 16086, 202185, 413, 14204, 29, 59943, 5853]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimponer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġimp']
+Token IDs: [148352, 1180, 627, 16086, 122537, 413, 14204, 29, 59943, 1272]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsuponer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsup']
+Token IDs: [148352, 1180, 627, 16086, 171512, 413, 14204, 29, 59943, 1922]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġop', 'oner', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġop']
+Token IDs: [148352, 1180, 627, 16086, 2773, 34809, 413, 14204, 29, 59943, 2773]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompon', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcomp']
+Token IDs: [148352, 1180, 627, 16086, 10724, 259, 413, 14204, 29, 59943, 1000]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdisponer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdisp']
+Token IDs: [148352, 1180, 627, 16086, 146407, 413, 14204, 29, 59943, 11423]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġentret', 'ener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġentretien']
+Token IDs: [148352, 1180, 627, 16086, 28353, 1449, 413, 14204, 29, 59943, 80398]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcontener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcont']
+Token IDs: [148352, 1180, 627, 16086, 108152, 413, 14204, 29, 59943, 1305]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġret', 'ener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġret']
+Token IDs: [148352, 1180, 627, 16086, 1615, 1449, 413, 14204, 29, 59943, 1615]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsostener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsost']
+Token IDs: [148352, 1180, 627, 16086, 156423, 413, 14204, 29, 59943, 13870]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmantener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġmant']
+Token IDs: [148352, 1180, 627, 16086, 30162, 413, 14204, 29, 59943, 5609]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdetener', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdet']
+Token IDs: [148352, 1180, 627, 16086, 99947, 413, 14204, 29, 59943, 5387]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvaler', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġval']
+Token IDs: [148352, 1180, 627, 16086, 114723, 413, 14204, 29, 59943, 1770]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġhaber', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 15374, 413, 14204, 29, 59943]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdespr', 'ender', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdespr']
+Token IDs: [148352, 1180, 627, 16086, 63388, 3489, 413, 14204, 29, 59943, 63388]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbarr', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 8717, 259, 413, 14204, 29, 59943]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcorrom', 'per', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcorrom']
+Token IDs: [148352, 1180, 627, 16086, 116181, 1297, 413, 14204, 29, 59943, 116181]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtemer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 105012, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpromover', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprom']
+Token IDs: [148352, 1180, 627, 16086, 41817, 413, 14204, 29, 59943, 4344]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreca', 'er', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrec']
+Token IDs: [148352, 1180, 627, 16086, 100473, 259, 413, 14204, 29, 59943, 1682]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprec', 'aver', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprec']
+Token IDs: [148352, 1180, 627, 16086, 4586, 18459, 413, 14204, 29, 59943, 4586]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreval', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpreval']
+Token IDs: [148352, 1180, 627, 16086, 50408, 7284, 413, 14204, 29, 59943, 50408]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcomprometer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcomprom']
+Token IDs: [148352, 1180, 627, 16086, 176881, 413, 14204, 29, 59943, 11437]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġarrem', 'eter', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġarrem']
+Token IDs: [148352, 1180, 627, 16086, 101734, 3871, 413, 14204, 29, 59943, 101734]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsobre', 'poner', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsobrep']
+Token IDs: [148352, 1180, 627, 16086, 2273, 130253, 413, 14204, 29, 59943, 134983]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrep', 'eler', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrep']
+Token IDs: [148352, 1180, 627, 16086, 6589, 12422, 413, 14204, 29, 59943, 6589]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcar', 'ecer', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcar']
+Token IDs: [148352, 1180, 627, 16086, 2307, 7284, 413, 14204, 29, 59943, 2307]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvivir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 42379, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġabrir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġab']
+Token IDs: [148352, 1180, 627, 16086, 30564, 413, 14204, 29, 59943, 1101]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdecidir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 31501, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrecibir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrecib']
+Token IDs: [148352, 1180, 627, 16086, 33101, 413, 14204, 29, 59943, 10851]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsubir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsub']
+Token IDs: [148352, 1180, 627, 16086, 43840, 413, 14204, 29, 59943, 1956]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpermitir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġperm']
+Token IDs: [148352, 1180, 627, 16086, 34799, 413, 14204, 29, 59943, 3436]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmitir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 128977, 413, 14204, 29, 59943, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasistir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 111908, 413, 14204, 29, 59943, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdiscutir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdisc']
+Token IDs: [148352, 1180, 627, 16086, 62728, 413, 14204, 29, 59943, 4431]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompartir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcompart']
+Token IDs: [148352, 1180, 627, 16086, 46408, 413, 14204, 29, 59943, 16019]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimprimir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġimpr']
+Token IDs: [148352, 1180, 627, 16086, 115584, 413, 14204, 29, 59943, 31158]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠaÃ±adir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'ĠaÃ±']
+Token IDs: [148352, 1180, 627, 16086, 132249, 413, 14204, 29, 59943, 3076]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocurrir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġoc', 'ur']
+Token IDs: [148352, 1180, 627, 16086, 151702, 413, 14204, 29, 59943, 4939, 323]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinsistir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġins']
+Token IDs: [148352, 1180, 627, 16086, 125671, 413, 14204, 29, 59943, 3131]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpartir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 7158, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsufrir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsuf']
+Token IDs: [148352, 1180, 627, 16086, 92832, 413, 14204, 29, 59943, 100387]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcumplir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcum']
+Token IDs: [148352, 1180, 627, 16086, 37498, 413, 14204, 29, 59943, 11504]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexigir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexig']
+Token IDs: [148352, 1180, 627, 16086, 61551, 413, 14204, 29, 59943, 12087]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmedir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġm']
+Token IDs: [148352, 1180, 627, 16086, 98196, 413, 14204, 29, 59943, 279]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpedir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġp']
+Token IDs: [148352, 1180, 627, 16086, 30254, 413, 14204, 29, 59943, 269]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġseguir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsig']
+Token IDs: [148352, 1180, 627, 16086, 12176, 413, 14204, 29, 59943, 5544]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconseguir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcons']
+Token IDs: [148352, 1180, 627, 16086, 26600, 413, 14204, 29, 59943, 1214]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġperseguir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpers']
+Token IDs: [148352, 1180, 627, 16086, 127609, 413, 14204, 29, 59943, 1354]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconsumir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġconsum']
+Token IDs: [148352, 1180, 627, 16086, 105531, 413, 14204, 29, 59943, 8915]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresum', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġres']
+Token IDs: [148352, 1180, 627, 16086, 54723, 396, 413, 14204, 29, 59943, 961]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvestir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 117573, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcompetir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcomp']
+Token IDs: [148352, 1180, 627, 16086, 75698, 413, 14204, 29, 59943, 1000]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġimpedir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġimp']
+Token IDs: [148352, 1180, 627, 16086, 51751, 413, 14204, 29, 59943, 1272]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdespedir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġdesp']
+Token IDs: [148352, 1180, 627, 16086, 143086, 413, 14204, 29, 59943, 5522]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġfre', 'ÃŃr', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġfr']
+Token IDs: [148352, 1180, 627, 16086, 7720, 10469, 413, 14204, 29, 59943, 988]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġservir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsir']
+Token IDs: [148352, 1180, 627, 16086, 19348, 413, 14204, 29, 59943, 19573]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepetir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrep']
+Token IDs: [148352, 1180, 627, 16086, 71366, 413, 14204, 29, 59943, 6589]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconvertir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġconvi']
+Token IDs: [148352, 1180, 627, 16086, 42818, 413, 14204, 29, 59943, 81407]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsentir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġs']
+Token IDs: [148352, 1180, 627, 16086, 24611, 413, 14204, 29, 59943, 272]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġmentir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġm']
+Token IDs: [148352, 1180, 627, 16086, 83039, 413, 14204, 29, 59943, 279]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpreferir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpref']
+Token IDs: [148352, 1180, 627, 16086, 221055, 413, 14204, 29, 59943, 45325]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġreferir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġref']
+Token IDs: [148352, 1180, 627, 16086, 107184, 413, 14204, 29, 59943, 4460]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsugerir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsug']
+Token IDs: [148352, 1180, 627, 16086, 200288, 413, 14204, 29, 59943, 27130]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġherv', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġhier']
+Token IDs: [148352, 1180, 627, 16086, 171007, 396, 413, 14204, 29, 59943, 24788]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadvertir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġad', 'vi']
+Token IDs: [148352, 1180, 627, 16086, 159378, 413, 14204, 29, 59943, 856, 4112]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġinvertir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġinvi']
+Token IDs: [148352, 1180, 627, 16086, 79392, 413, 14204, 29, 59943, 239629]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġintervenir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġinterv']
+Token IDs: [148352, 1180, 627, 16086, 59082, 413, 14204, 29, 59943, 19988]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġprevenir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġprev']
+Token IDs: [148352, 1180, 627, 16086, 59596, 413, 14204, 29, 59943, 6629]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġvenir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġv']
+Token IDs: [148352, 1180, 627, 16086, 25162, 413, 14204, 29, 59943, 337]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġocurrir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġoc', 'ur']
+Token IDs: [148352, 1180, 627, 16086, 151702, 413, 14204, 29, 59943, 4939, 323]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexistir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexist']
+Token IDs: [148352, 1180, 627, 16086, 65853, 413, 14204, 29, 59943, 5069]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpersist', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpers']
+Token IDs: [148352, 1180, 627, 16086, 33645, 396, 413, 14204, 29, 59943, 1354]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġtransmitir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġtransm']
+Token IDs: [148352, 1180, 627, 16086, 96776, 413, 14204, 29, 59943, 22813]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġemitir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġem']
+Token IDs: [148352, 1180, 627, 16086, 107481, 413, 14204, 29, 59943, 766]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdefinir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 43032, 413, 14204, 29, 59943]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġunir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 82761, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasumir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 88648, 413, 14204, 29, 59943, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġasistir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġas']
+Token IDs: [148352, 1180, 627, 16086, 111908, 413, 14204, 29, 59943, 661]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġadmitir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġadm']
+Token IDs: [148352, 1180, 627, 16086, 128977, 413, 14204, 29, 59943, 15990]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġconsentir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcons']
+Token IDs: [148352, 1180, 627, 16086, 209858, 413, 14204, 29, 59943, 1214]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpercibir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpercib']
+Token IDs: [148352, 1180, 627, 16086, 245051, 413, 14204, 29, 59943, 113655]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġbat', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġbat']
+Token IDs: [148352, 1180, 627, 16086, 2112, 396, 413, 14204, 29, 59943, 2112]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġdebatir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 190002, 413, 14204, 29, 59943]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcumplir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcum']
+Token IDs: [148352, 1180, 627, 16086, 37498, 413, 14204, 29, 59943, 11504]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'ĠaÃ±adir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'ĠaÃ±']
+Token IDs: [148352, 1180, 627, 16086, 132249, 413, 14204, 29, 59943, 3076]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsurgir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsur']
+Token IDs: [148352, 1180, 627, 16086, 129748, 413, 14204, 29, 59943, 1394]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpul', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġp']
+Token IDs: [148352, 1180, 627, 16086, 10655, 396, 413, 14204, 29, 59943, 269]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexigir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexig']
+Token IDs: [148352, 1180, 627, 16086, 61551, 413, 14204, 29, 59943, 12087]
+---
+Prompt length: 13
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġes', 'cul', 'pir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġes', 'cul']
+Token IDs: [148352, 1180, 627, 16086, 616, 2464, 13028, 413, 14204, 29, 59943, 616, 2464]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġpresum', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġpres']
+Token IDs: [148352, 1180, 627, 16086, 55227, 396, 413, 14204, 29, 59943, 1371]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġresistir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġres']
+Token IDs: [148352, 1180, 627, 16086, 114188, 413, 14204, 29, 59943, 961]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrev', 'ivir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrev']
+Token IDs: [148352, 1180, 627, 16086, 8521, 109075, 413, 14204, 29, 59943, 8521]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsobrevivir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsobrev']
+Token IDs: [148352, 1180, 627, 16086, 145048, 413, 14204, 29, 59943, 75105]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepartir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrepart']
+Token IDs: [148352, 1180, 627, 16086, 121087, 413, 14204, 29, 59943, 29918]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġexprim', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġexpr']
+Token IDs: [148352, 1180, 627, 16086, 46212, 396, 413, 14204, 29, 59943, 87494]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġrepr', 'imir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġrepr']
+Token IDs: [148352, 1180, 627, 16086, 9090, 41222, 413, 14204, 29, 59943, 9090]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġsac', 'udir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġsac']
+Token IDs: [148352, 1180, 627, 16086, 9678, 61401, 413, 14204, 29, 59943, 9678]
+---
+Prompt length: 12
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġesc', 'urr', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġescur']
+Token IDs: [148352, 1180, 627, 16086, 3746, 2387, 396, 413, 14204, 29, 59943, 138328]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġacudir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġac']
+Token IDs: [148352, 1180, 627, 16086, 82227, 413, 14204, 29, 59943, 997]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġzur', 'cir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġzur']
+Token IDs: [148352, 1180, 627, 16086, 44538, 34683, 413, 14204, 29, 59943, 44538]
+---
+Prompt length: 9
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcombatir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº']
+Token IDs: [148352, 1180, 627, 16086, 71692, 413, 14204, 29, 59943]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġespar', 'cir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġespar']
+Token IDs: [148352, 1180, 627, 16086, 133633, 34683, 413, 14204, 29, 59943, 133633]
+---
+Prompt length: 11
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġgem', 'ir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġg']
+Token IDs: [148352, 1180, 627, 16086, 39299, 396, 413, 14204, 29, 59943, 380]
+---
+Prompt length: 10
+Prompt as tokens: ['Conjug', 'aciÃ³n', 'Ġdel', 'Ġverbo', 'Ġcoincidir', 'Ġen', 'Ġpresente', ':', 'ĠTÃº', 'Ġcoinc']
+Token IDs: [148352, 1180, 627, 16086, 174832, 413, 14204, 29, 59943, 24105]
+---
+
+🎯 Top-1 accuracy: 72.65% (324/446)
+📊 Average probability assigned to the gold token: 60.59%
