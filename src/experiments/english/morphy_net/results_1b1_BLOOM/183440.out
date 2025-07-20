@@ -1,0 +1,136 @@
+bigscience/bloom-1b1
+Kept verb forms for language: spa
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Conjugation of the verb mandonear in present tense: I mandoneo
+Type: <class 'str'>
+Example prompt input: Conjugation of the verb mandonear in present tense: You mandoneas
+Type: <class 'str'>
+✅ Correct prompts:
+Conjugation of the verb automatizar in present tense: I automat
+Conjugation of the verb desclasificar in present tense: I desclasific
+Conjugation of the verb perpetuar in present tense: I perpetú
+
+❌ Incorrect prompts:
+Conjugation of the verb mandonear in present tense: I mandone
+Conjugation of the verb contratacar in present tense: I contrat
+Conjugation of the verb abetunar in present tense: I abet
+✅ Saved heatmap to logit_lens_heatmap_first_sing_english0.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_english0.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_english1.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_english1.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_first_sing_english.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_second_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.075
+Head H1: 0.280
+Head H2: 0.076
+Head H3: 0.116
+Head H4: 0.055
+Head H5: 0.055
+Head H6: -0.006
+Head H7: 0.055
+Head H8: 0.052
+Head H9: 0.039
+Head H10: 0.078
+Head H11: 0.003
+Head H12: 0.065
+Head H13: 0.059
+Head H14: -1.080
+Head H15: 0.052
+
+🔥 Top 3 most involved heads:
+L23H14 → 4.145
+L23H1 → 2.067
+L14H14 → -1.615
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.035
+Head H1: 0.214
+Head H2: 0.078
+Head H3: 0.054
+Head H4: 0.114
+Head H5: 0.060
+Head H6: 0.062
+Head H7: 0.054
+Head H8: 0.013
+Head H9: 0.044
+Head H10: 0.039
+Head H11: 0.038
+Head H12: 0.062
+Head H13: 0.084
+Head H14: -1.098
+Head H15: 0.029
+
+🔥 Top 3 most involved heads:
+L23H14 → 2.245
+L11H14 → -1.532
+L9H14 → -1.509
+225
+Layer 10: 6.500
+Layer 11: 6.599
+Layer 12: 7.309
+Layer 13: 7.012
+Layer 14: 6.864
+Layer 15: 6.955
+Layer 16: 6.883
+Layer 17: 7.724
+Layer 18: 7.653
+Layer 19: 9.560
+Layer 20: 10.653
+Layer 21: 12.784
+Layer 22: 15.152
+Layer 23: 17.110
+✅ Saved plot to logit_lens_first sing.png
+✅ Saved plot to logit_lens_second sing.png
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.075
+Head H1: 0.280
+Head H2: 0.076
+Head H3: 0.116
+Head H4: 0.055
+Head H5: 0.055
+Head H6: -0.006
+Head H7: 0.055
+Head H8: 0.052
+Head H9: 0.039
+Head H10: 0.078
+Head H11: 0.003
+Head H12: 0.065
+Head H13: 0.059
+Head H14: -1.080
+Head H15: 0.052
+
+🔥 Top 3 most involved heads:
+L23H14 → 4.145
+L23H1 → 2.067
+L14H14 → -1.615
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.035
+Head H1: 0.214
+Head H2: 0.078
+Head H3: 0.054
+Head H4: 0.114
+Head H5: 0.060
+Head H6: 0.062
+Head H7: 0.054
+Head H8: 0.013
+Head H9: 0.044
+Head H10: 0.039
+Head H11: 0.038
+Head H12: 0.062
+Head H13: 0.084
+Head H14: -1.098
+Head H15: 0.029
+
+🔥 Top 3 most involved heads:
+L23H14 → 2.245
+L11H14 → -1.532
+L9H14 → -1.509
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_english.png
