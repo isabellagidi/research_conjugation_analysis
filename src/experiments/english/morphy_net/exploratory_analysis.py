@@ -44,7 +44,7 @@ file_path = "/home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet
 all_verbs = load_json_data(file_path)
 # Prompt sets
 
-english_conjugations = filter_conjugations(all_verbs, tokenizer, "spa")
+english_conjugations = filter_conjugations(all_verbs, tokenizer, "eng")
 
 #DOING THIS TO SAVE RAM!!!!!!!
 english_conjugations = english_conjugations[:500]
@@ -80,8 +80,8 @@ correct_prompt_texts_first_sing_english, correct_answers_ids_first_sing_english,
 #correct_answers_ids_first_sing_english = correct_answers_ids_first_sing_english[:100]
 
 
-#print(f"Correct: {len(correct_prompt_texts_first_sing_english)} / {len(verb_entries_first_sing_english)}")
-#print(f"Incorrect: {len(incorrect_prompt_texts_first_sing_english)}")
+print(f"Correct: {len(correct_prompt_texts_first_sing_english)} / {len(verb_entries_first_sing_english)}")
+print(f"Incorrect: {len(incorrect_prompt_texts_first_sing_english)}")
 
 print("✅ Correct prompts:")
 for prompt in correct_prompt_texts_first_sing_english[:3]:
@@ -102,8 +102,8 @@ correct_prompt_texts_second_sing_english, correct_answers_ids_second_sing_englis
 #correct_prompt_texts_second_sing_english = correct_prompt_texts_second_sing_english[:200]
 #correct_answers_ids_second_sing_english = correct_answers_ids_second_sing_english[:200]
 
-#print(f"Correct: {len(correct_prompt_texts_second_sing_english)} / {len(verb_entries_second_sing_english)}")
-#print(f"Incorrect: {len(incorrect_prompt_texts_second_sing_english)}")
+print(f"Correct: {len(correct_prompt_texts_second_sing_english)} / {len(verb_entries_second_sing_english)}")
+print(f"Incorrect: {len(incorrect_prompt_texts_second_sing_english)}")
 
 print("✅ Correct prompts:")
 for prompt in correct_prompt_texts_second_sing_english[:3]:
