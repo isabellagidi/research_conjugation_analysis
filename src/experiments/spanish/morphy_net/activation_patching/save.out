@@ -1,0 +1,94 @@
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+Kept verb forms for language: spa
+
+length of dataset (usually 500 but in this case): 100
+Infinitive tokens: 1, Conjugated tokens: 2 --> 7 examples
+Infinitive tokens: 2, Conjugated tokens: 1 --> 1 examples
+Infinitive tokens: 2, Conjugated tokens: 2 --> 43 examples
+Infinitive tokens: 2, Conjugated tokens: 3 --> 3 examples
+Infinitive tokens: 3, Conjugated tokens: 2 --> 4 examples
+Infinitive tokens: 3, Conjugated tokens: 3 --> 32 examples
+Infinitive tokens: 3, Conjugated tokens: 4 --> 3 examples
+Infinitive tokens: 4, Conjugated tokens: 3 --> 1 examples
+Infinitive tokens: 4, Conjugated tokens: 4 --> 5 examples
+Infinitive tokens: 4, Conjugated tokens: 5 --> 1 examples
+
+🔢 Top 5 tokenization groups by frequency for second sing Spanish:
+ - (inf=2, conj=2): 43 examples
+ - (inf=3, conj=3): 32 examples
+ - (inf=1, conj=2): 7 examples
+ - (inf=4, conj=4): 5 examples
+ - (inf=3, conj=2): 4 examples
+Infinitive tokens: 1, Conjugated tokens: 2 --> 7 examples
+Infinitive tokens: 2, Conjugated tokens: 1 --> 1 examples
+Infinitive tokens: 2, Conjugated tokens: 2 --> 43 examples
+Infinitive tokens: 2, Conjugated tokens: 3 --> 3 examples
+Infinitive tokens: 3, Conjugated tokens: 2 --> 4 examples
+Infinitive tokens: 3, Conjugated tokens: 3 --> 32 examples
+Infinitive tokens: 3, Conjugated tokens: 4 --> 3 examples
+Infinitive tokens: 4, Conjugated tokens: 3 --> 1 examples
+Infinitive tokens: 4, Conjugated tokens: 4 --> 5 examples
+Infinitive tokens: 4, Conjugated tokens: 5 --> 1 examples
+
+🔢 Top 5 tokenization groups by frequency for first sing Spanish:
+ - (inf=2, conj=2): 43 examples
+ - (inf=3, conj=3): 32 examples
+ - (inf=1, conj=2): 7 examples
+ - (inf=4, conj=4): 5 examples
+ - (inf=3, conj=2): 4 examples
+✅ Saved: resid_pre_activation_patching_inf2_conj2.png
+✅ Saved: resid_pre_activation_patching_inf3_conj3.png
+✅ Saved: resid_pre_activation_patching_inf1_conj2.png
+✅ Saved: resid_pre_activation_patching_inf4_conj4.png
+✅ Saved: resid_pre_activation_patching_inf3_conj2.png

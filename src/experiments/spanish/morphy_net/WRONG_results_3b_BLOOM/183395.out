@@ -1,0 +1,197 @@
+bigscience/bloom-3b
+Kept verb forms for language: spa
+
+Example prompt input: Conjugación del verbo mandonear en presente: Yo mandoneo
+Type: <class 'str'>
+Example prompt input: Conjugación del verbo mandonear en presente: Tú mandoneas
+Type: <class 'str'>
+✅ Correct prompts:
+Conjugación del verbo mandonear en presente: Tú mandone
+Conjugación del verbo contratacar en presente: Tú contrat
+Conjugación del verbo abetunar en presente: Tú abet
+
+❌ Incorrect prompts:
+Conjugación del verbo desleír en presente: Tú desl
+Conjugación del verbo disparatar en presente: Tú dispar
+Conjugación del verbo reencuadernar en presente: T�
+🔍 Direc
+ 📈 Logit Lens (YO):
+Layer 0: 2.503
+Layer 1: 2.665
+Layer 2: 2.520
+Layer 3: 2.801
+Layer 4: 2.946
+Layer 5: 3.033
+Layer 6: 3.048
+Layer 7: 3.026
+Layer 8: 2.979
+Layer 9: 2.975
+Layer 10: 3.118
+Layer 11: 3.023
+Layer 12: 3.371
+Layer 13: 4.070
+Layer 14: 4.331
+Layer 15: 4.416
+Layer 16: 4.769
+Layer 17: 5.078
+Layer 18: 5.730
+Layer 19: 6.650
+Layer 20: 7.389
+Layer 21: 8.483
+Layer 22: 9.940
+Layer 23: 11.703
+Layer 24: 13.093
+Layer 25: 15.668
+Layer 26: 17.675
+Layer 27: 21.248
+Layer 28: 22.270
+Layer 29: 23.161
+
+ 📈 Logit Lens (TU):
+Layer 0: 2.224
+Layer 1: 1.956
+Layer 2: 1.756
+Layer 3: 1.730
+Layer 4: 1.894
+Layer 5: 1.863
+Layer 6: 2.008
+Layer 7: 2.107
+Layer 8: 2.237
+Layer 9: 2.226
+Layer 10: 2.490
+Layer 11: 2.523
+Layer 12: 2.594
+Layer 13: 3.265
+Layer 14: 3.556
+Layer 15: 3.587
+Layer 16: 3.533
+Layer 17: 4.177
+Layer 18: 4.597
+Layer 19: 5.105
+Layer 20: 5.638
+Layer 21: 6.645
+Layer 22: 8.114
+Layer 23: 9.549
+Layer 24: 11.575
+Layer 25: 15.063
+Layer 26: 17.104
+Layer 27: 21.445
+Layer 28: 22.013
+Layer 29: 22.960
+✅ Saved plot to logit_lens_first sing.png
+✅ Saved plot to logit_lens_second sing.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_first_sing_spanish.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.198
+H✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_spanish.png
+ 0.113
+Head H8: 0.133
+Head H9: 0.074
+Head H10: 0.082
+Head H11: -1.847
+Head H12: 0.110
+Head H13: 0.059
+Head H14: 0.068
+Head H15: 0.070
+Head H16: 0.048
+Head H17: 0.132
+Head H18: 0.110
+Head H19: 0.083
+Head H20: 0.132
+Head H21: 0.062
+Head H22: 0.087
+Head H23: 0.100
+Head H24: 0.098
+Head H25: 0.065
+Head H26: 0.073
+Head H27: 0.070
+Head H28: 0.990
+Head H29: 0.208
+Head H30: 0.055
+Head H31: 0.029
+
+🔥 Top 3 most involved heads:
+L15H11 → -2.557
+L13H11 → -2.555
+L12H11 → -2.547
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.136
+Head H1: 0.064
+Head H2: 0.066
+Head H3: 0.181
+Head H4: 0.069
+Head H5: 0.040
+Head H6: 0.082
+Head H7: 0.050
+Head H8: 0.144
+Head H9: 0.012
+Head H10: 0.183
+Head H11: -1.926
+Head H12: 0.030
+Head H13: 0.034
+Head H14: 0.082
+Head H15: 0.076
+Head H16: 0.045
+Head H17: 0.156
+Head H18: 0.074
+Head H19: 0.059
+Head H20: 0.092
+Head H21: 0.090
+Head H22: 0.061
+Head H23: 0.101
+Head H24: 0.102
+Head H25: 0.029
+Head H26: 0.092
+Head H27: 0.037
+Head H28: 1.149
+Head H29: 0.232
+Head H30: 0.041
+Head H31: 0.045
+
+🔥 Top 3 most involved heads:
+L15H11 → -2.662
+L14H11 → -2.659
+L16H11 → -2.646
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_spanish.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.198
+Head H1: 0.094
+Head H2: 0.011
+Head H3: 0.072
+Head H4: 0.105
+Head H5: 0.088
+Head H6: 0.065
+Head H7: 0.113
+Head H8: 0.133
+Head H9: 0.074
+Head H10: 0.082
+Head H11: -1.847
+Head H12: 0.110
+Head H13: 0.059
+Head H14: 0.068
+Head H15: 0.070
+Head H16: 0.048
+Head H17: 0.132
+Head H18: 0.110
+Head H19: 0.083
+Head H20: 0.132
+Head H21: 0.062
+Head H22: 0.087
+Head H23: 0.100
+Head H24: 0.098
+Head H25: 0.065
+Head H26: 0.073
+Head H27: 0.070
+Head H28: 0.990
+Head H29: 0.208
+Head H30: 0.055
+Head H31: 0.029
+
+🔥 Top 3 most involved heads:
+L15H11 → -2.557
+L13H11 → -2.555
+L12H11 → -2.547
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_spanish.png

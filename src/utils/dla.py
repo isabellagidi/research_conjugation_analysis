@@ -1,6 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from typing import List, Dict
+import numpy as np
 
 model_name = "bigscience/bloom-1b1"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -9,7 +10,70 @@ model = AutoModelForCausalLM.from_pretrained(model_name)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device).eval()
 
+
 def compute_direct_logit_attribution(
+    model: AutoModelForCausalLM,
+    tokenizer: AutoTokenizer,
+    prompt_texts: List[str],
+    answer_ids: List[int],
+    label: str = "Dataset",
+    batch_size: int = 8
+) -> Dict:
+    """Compute Direct Logit Attribution (DLA) for a list of prompts and gold token IDs, in batches."""
+
+    model.eval()
+    device = next(model.parameters()).device
+
+    all_dla_values = []
+
+    for i in range(0, len(prompt_texts), batch_size):
+        batch_prompts = prompt_texts[i:i+batch_size]
+        batch_answer_ids = answer_ids[i:i+batch_size]
+
+        activation_cache = {}
+
+        # Hook function to capture residual stream before unembedding
+        def save_residual_stream_hook(module, input, output):
+            activation_cache["final_resid"] = output[0].detach() if isinstance(output, tuple) else output.detach()
+
+        # Register hook at final layer norm (BLOOM: .transformer.ln_f)
+        hook_handle = model.transformer.ln_f.register_forward_hook(save_residual_stream_hook)
+
+        # Tokenize and run forward pass
+        with torch.no_grad():
+            encoded = tokenizer(batch_prompts, return_tensors="pt", padding=True, truncation=True, max_length=64).to(device)
+            _ = model(**encoded)
+
+        hook_handle.remove()
+
+        # Extract and process
+        gold_ids = torch.tensor(batch_answer_ids).to(device)
+        resid_stream = activation_cache["final_resid"]      # (batch, seq, d_model)
+        final_resid = resid_stream[:, -1, :]                # (batch, d_model)
+
+        # Apply LayerNorm using model weights
+        ln_weight = model.transformer.ln_f.weight.data
+        normed_resid = torch.nn.functional.layer_norm(final_resid, final_resid.shape[-1:], weight=ln_weight)
+
+        # Unembedding projection for gold tokens
+        W_U = model.lm_head.weight.data
+        W_U_gold = W_U[gold_ids]                            # (batch, d_model)
+
+        # Compute direct logit attribution
+        direct_logits = torch.einsum("bd,bd->b", normed_resid, W_U_gold)  # (batch,)
+        all_dla_values.extend(direct_logits.cpu().tolist())
+
+        # Free memory
+        torch.cuda.empty_cache()
+
+    return {
+        "label": label,
+        "dla_values": all_dla_values,
+        "avg_dla": float(np.mean(all_dla_values))
+    }
+
+
+def compute_direct_logit_attribution_old(
     model: AutoModelForCausalLM,
     tokenizer: AutoTokenizer,
     prompt_texts: List[str],

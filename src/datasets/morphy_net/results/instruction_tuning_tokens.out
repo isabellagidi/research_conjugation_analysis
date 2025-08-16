@@ -1,0 +1,8 @@
+🔍 Checking special tokens for model: HPLT/sft-fpft-es-bloom-7b1
+
+❌ Token '<|user|>' not found in tokenizer vocabulary.
+❌ Token '<|assistant|>' not found in tokenizer vocabulary.
+❌ Token '<|system|>' not found in tokenizer vocabulary.
+❌ Token '<|instruction|>' not found in tokenizer vocabulary.
+❌ Token '<|input|>' not found in tokenizer vocabulary.
+❌ Token '<|output|>' not found in tokenizer vocabulary.

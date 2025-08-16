@@ -1,0 +1,42 @@
+bigscience/bloom-1b1
+Kept verb forms for language: spa
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Conjugación del verbo mandonear en presente: Yo mandoneo
+Type: <class 'str'>
+Example prompt input: Conjugación del verbo mandonear en presente: Tú mandoneas
+Type: <class 'str'>
+number of prompts saved: 343
+Correct: 343 / 500
+Incorrect: 157
+✅ Correct prompts:
+Conjugación del verbo mandonear en presente: Tú mandone
+Conjugación del verbo bypasear en presente: Tú bypase
+Conjugación del verbo acumular en presente: Tú acum
+
+❌ Incorrect prompts:
+Conjugación del verbo contratacar en presente: Tú contrat
+Conjugación del verbo abetunar en presente: Tú abet
+Conjugación del verbo desleír en presente: Tú desl
+Infinitive tokens: 1, Conjugated tokens: 2 --> 22 examples
+Infinitive tokens: 1, Conjugated tokens: 3 --> 2 examples
+Infinitive tokens: 2, Conjugated tokens: 2 --> 100 examples
+Infinitive tokens: 2, Conjugated tokens: 3 --> 18 examples
+Infinitive tokens: 3, Conjugated tokens: 2 --> 5 examples
+Infinitive tokens: 3, Conjugated tokens: 3 --> 85 examples
+Infinitive tokens: 3, Conjugated tokens: 4 --> 6 examples
+Infinitive tokens: 4, Conjugated tokens: 3 --> 1 examples
+Infinitive tokens: 4, Conjugated tokens: 4 --> 17 examples
+Infinitive tokens: 4, Conjugated tokens: 5 --> 1 examples
+Infinitive tokens: 5, Conjugated tokens: 5 --> 1 examples
+Infinitive tokens: 1, Conjugated tokens: 2 --> 22 examples
+Infinitive tokens: 1, Conjugated tokens: 3 --> 2 examples
+Infinitive tokens: 2, Conjugated tokens: 2 --> 100 examples
+Infinitive tokens: 2, Conjugated tokens: 3 --> 18 examples
+Infinitive tokens: 3, Conjugated tokens: 2 --> 5 examples
+Infinitive tokens: 3, Conjugated tokens: 3 --> 85 examples
+Infinitive tokens: 3, Conjugated tokens: 4 --> 6 examples
+Infinitive tokens: 4, Conjugated tokens: 3 --> 1 examples
+Infinitive tokens: 4, Conjugated tokens: 4 --> 17 examples
+Infinitive tokens: 4, Conjugated tokens: 5 --> 1 examples
+Infinitive tokens: 5, Conjugated tokens: 5 --> 1 examples

@@ -1,0 +1,317 @@
+
+=== Running activation patching for czech (ces) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language ces:  13
+Kept verb forms for language: ces
+
+after filter_conjugations, number of saved verbs: 326
+[czech] verbs kept: 326
+[czech] after prepare_language_dataset  first_prompts=326  second_prompts=326
+after accuracy_filter, number of sentences saved: 0 / 326 ; 1 / 326
+↪️  second2first: skipping (5, 5) - no match
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for german (deu) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language deu:  13
+Kept verb forms for language: deu
+
+after filter_conjugations, number of saved verbs: 1144
+[german] verbs kept: 1144
+[german] after prepare_language_dataset  first_prompts=1144  second_prompts=1144
+after accuracy_filter, number of sentences saved: 44 / 1144 ; 0 / 1144
+↪️  first2second: skipping (4, 4) - no match
+↪️  first2second: skipping (3, 3) - no match
+↪️  first2second: skipping (5, 5) - no match
+↪️  first2second: skipping (3, 4) - no match
+↪️  first2second: skipping (7, 7) - no match
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for hungarian (hun) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language hun:  13
+Kept verb forms for language: hun
+
+after filter_conjugations, number of saved verbs: 657
+[hungarian] verbs kept: 657
+[hungarian] after prepare_language_dataset  first_prompts=657  second_prompts=657
+after accuracy_filter, number of sentences saved: 3 / 657 ; 1 / 657
+✅ Saved: resid_pre_first2second_hungarian_inf4_conj5.png
+↪️  first2second: skipping (5, 6) - no match
+↪️  first2second: skipping (3, 4) - no match
+✅ Saved: resid_pre_second2first_hungarian_inf4_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_hungarian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_hungarian.pt
+✅ Saved: attn_head_out_all_pos_first2second_hungarian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_hungarian.pt
+
+=== Running activation patching for mongolian (mon) ===
+after accuracy_filter, number of sentences saved: 0 / 0 ; 0 / 0
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for russian (rus) ===
+): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language mon:  13
+Kept verb forms for language: mon
+
+after filter_conjugations, number of saved verbs: 0
+[mongolian] verbs kept: 0
+[mongolian] after prepare_language_dataset  first_prompts=0  second_prompts=0
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language rus:  13
+Kept verb forms for language: rus
+
+after filter_conjugations, number of saved verbs: 3509
+[russian] verbs kept: 1300
+[russian] after prepare_language_dataset  first_prompts=1300  second_prompts=1300
+after accuracy_filter, number of sentences saved: 276 / 1300 ; 161 / 1300

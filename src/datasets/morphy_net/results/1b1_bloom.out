@@ -1,0 +1,409 @@
+Kept verb forms for language: eng
+
+Kept verb forms for language: spa
+
+Kept verb forms for language: deu
+
+Kept verb forms for language: ita
+
+Example prompt input: Conjugation of the verb microtome in present tense: I microtome
+Type: <class 'str'>
+Example prompt input: Conjugation of the verb microtome in present tense: You microtome
+Type: <class 'str'>
+🔍 Loaded 292424 prompts for evaluation across all formats and languages
+
+📝 Example for SPANISH dataset A (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente: Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 52.69% (2496/4737)
+📈 Avg P(gold): 40.62%
+
+📊 Token Length Accuracy:
+  Token length 1: 52.69% (2496/4737)
+👤 YO Accuracy: 51.01% (1208/2368)
+👤 YO Avg P(gold): 39.59%
+🧑‍🦰 TÚ Accuracy: 54.37% (1288/2369)
+🧑‍🦰 TÚ Avg P(gold): 41.65%
+
+📝 Example for SPANISH dataset A (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente: Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 67.89% (3216/4737)
+📈 Avg P(gold): 47.60%
+
+📊 Token Length Accuracy:
+  Token length 1: 67.89% (3216/4737)
+👤 YO Accuracy: 67.57% (1600/2368)
+👤 YO Avg P(gold): 47.43%
+🧑‍🦰 TÚ Accuracy: 68.21% (1616/2369)
+🧑‍🦰 TÚ Avg P(gold): 47.77%
+
+📝 Example for SPANISH dataset B (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 48.72% (2308/4737)
+📈 Avg P(gold): 37.99%
+
+📊 Token Length Accuracy:
+  Token length 1: 48.72% (2308/4737)
+👤 YO Accuracy: 47.38% (1122/2368)
+👤 YO Avg P(gold): 36.94%
+🧑‍🦰 TÚ Accuracy: 50.06% (1186/2369)
+🧑‍🦰 TÚ Avg P(gold): 39.03%
+
+📝 Example for SPANISH dataset B (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 70.85% (3356/4737)
+📈 Avg P(gold): 49.66%
+
+📊 Token Length Accuracy:
+  Token length 1: 70.85% (3356/4737)
+👤 YO Accuracy: 70.73% (1675/2368)
+👤 YO Avg P(gold): 49.48%
+🧑‍🦰 TÚ Accuracy: 70.96% (1681/2369)
+🧑‍🦰 TÚ Avg P(gold): 49.83%
+
+📝 Example for SPANISH dataset D (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Nosotros mandoneamos. Tú mandoneas, Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 66.88% (3168/4737)
+📈 Avg P(gold): 54.34%
+
+📊 Token Length Accuracy:
+  Token length 1: 66.88% (3168/4737)
+👤 YO Accuracy: 66.77% (1581/2368)
+👤 YO Avg P(gold): 54.37%
+🧑‍🦰 TÚ Accuracy: 66.99% (1587/2369)
+🧑‍🦰 TÚ Avg P(gold): 54.30%
+
+📝 Example for SPANISH dataset D (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Nosotros mandoneamos. Yo mandoneo, Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 79.02% (3743/4737)
+📈 Avg P(gold): 67.85%
+
+📊 Token Length Accuracy:
+  Token length 1: 79.02% (3743/4737)
+👤 YO Accuracy: 78.42% (1857/2368)
+👤 YO Avg P(gold): 67.62%
+🧑‍🦰 TÚ Accuracy: 79.61% (1886/2369)
+🧑‍🦰 TÚ Avg P(gold): 68.07%
+
+📝 Example for SPANISH dataset E (FIRST Singular):
+Prompt: mandonear: Nosotros mandoneamos. Tú mandoneas, Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 80.35% (3806/4737)
+📈 Avg P(gold): 68.23%
+
+📊 Token Length Accuracy:
+  Token length 1: 80.35% (3806/4737)
+👤 YO Accuracy: 79.77% (1889/2368)
+👤 YO Avg P(gold): 67.95%
+🧑‍🦰 TÚ Accuracy: 80.92% (1917/2369)
+🧑‍🦰 TÚ Avg P(gold): 68.51%
+
+📝 Example for SPANISH dataset E (SECOND Singular):
+Prompt: mandonear: Nosotros mandoneamos. Yo mandoneo, Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 74.25% (3517/4737)
+📈 Avg P(gold): 63.52%
+
+📊 Token Length Accuracy:
+  Token length 1: 74.25% (3517/4737)
+👤 YO Accuracy: 74.03% (1753/2368)
+👤 YO Avg P(gold): 63.61%
+🧑‍🦰 TÚ Accuracy: 74.46% (1764/2369)
+🧑‍🦰 TÚ Avg P(gold): 63.42%
+
+📝 Example for ITALIAN dataset A (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente: Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 37.62% (2549/6776)
+📈 Avg P(gold): 25.38%
+
+📊 Token Length Accuracy:
+  Token length 1: 37.62% (2549/6776)
+👤 YO Accuracy: 38.16% (1293/3388)
+👤 YO Avg P(gold): 25.57%
+🧑‍🦰 TÚ Accuracy: 37.07% (1256/3388)
+🧑‍🦰 TÚ Avg P(gold): 25.19%
+
+📝 Example for ITALIAN dataset A (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente: Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 22.33% (1513/6776)
+📈 Avg P(gold): 15.71%
+
+📊 Token Length Accuracy:
+  Token length 1: 22.33% (1513/6776)
+👤 YO Accuracy: 22.14% (750/3388)
+👤 YO Avg P(gold): 15.52%
+🧑‍🦰 TÚ Accuracy: 22.52% (763/3388)
+🧑‍🦰 TÚ Avg P(gold): 15.90%
+
+📝 Example for ITALIAN dataset B (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 39.60% (2683/6776)
+📈 Avg P(gold): 26.52%
+
+📊 Token Length Accuracy:
+  Token length 1: 39.60% (2683/6776)
+👤 YO Accuracy: 40.02% (1356/3388)
+👤 YO Avg P(gold): 26.75%
+🧑‍🦰 TÚ Accuracy: 39.17% (1327/3388)
+🧑‍🦰 TÚ Avg P(gold): 26.29%
+
+📝 Example for ITALIAN dataset B (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 25.35% (1718/6776)
+📈 Avg P(gold): 17.63%
+
+📊 Token Length Accuracy:
+  Token length 1: 25.35% (1718/6776)
+👤 YO Accuracy: 25.00% (847/3388)
+👤 YO Avg P(gold): 17.40%
+🧑‍🦰 TÚ Accuracy: 25.71% (871/3388)
+🧑‍🦰 TÚ Avg P(gold): 17.87%
+
+📝 Example for ITALIAN dataset D (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Noi disinfettiamo. Tu disinfetti, Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 21.25% (1440/6776)
+📈 Avg P(gold): 19.06%
+
+📊 Token Length Accuracy:
+  Token length 1: 21.25% (1440/6776)
+👤 YO Accuracy: 21.13% (716/3388)
+👤 YO Avg P(gold): 19.11%
+🧑‍🦰 TÚ Accuracy: 21.37% (724/3388)
+🧑‍🦰 TÚ Avg P(gold): 19.01%
+
+📝 Example for ITALIAN dataset D (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Noi disinfettiamo. Io disinfetto, Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 22.65% (1535/6776)
+📈 Avg P(gold): 18.82%
+
+📊 Token Length Accuracy:
+  Token length 1: 22.65% (1535/6776)
+👤 YO Accuracy: 21.84% (740/3388)
+👤 YO Avg P(gold): 18.29%
+🧑‍🦰 TÚ Accuracy: 23.47% (795/3388)
+🧑‍🦰 TÚ Avg P(gold): 19.36%
+
+📝 Example for ITALIAN dataset E (FIRST Singular):
+Prompt: disinfettare: Noi disinfettiamo. Tu disinfetti, Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 5.50% (373/6776)
+📈 Avg P(gold): 8.50%
+
+📊 Token Length Accuracy:
+  Token length 1: 5.50% (373/6776)
+👤 YO Accuracy: 5.31% (180/3388)
+👤 YO Avg P(gold): 8.29%
+🧑‍🦰 TÚ Accuracy: 5.70% (193/3388)
+🧑‍🦰 TÚ Avg P(gold): 8.70%
+
+📝 Example for ITALIAN dataset E (SECOND Singular):
+Prompt: disinfettare: Noi disinfettiamo. Io disinfetto, Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 20.32% (1377/6776)
+📈 Avg P(gold): 18.47%
+
+📊 Token Length Accuracy:
+  Token length 1: 20.32% (1377/6776)
+👤 YO Accuracy: 19.30% (654/3388)
+👤 YO Avg P(gold): 18.00%
+🧑‍🦰 TÚ Accuracy: 21.34% (723/3388)
+🧑‍🦰 TÚ Avg P(gold): 18.95%
+
+📝 Example for GERMAN dataset A (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens: Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 0.52% (6/1144)
+📈 Avg P(gold): 0.78%
+
+📊 Token Length Accuracy:
+  Token length 1: 0.52% (6/1144)
+👤 YO Accuracy: 0.70% (4/572)
+👤 YO Avg P(gold): 0.83%
+🧑‍🦰 TÚ Accuracy: 0.35% (2/572)
+🧑‍🦰 TÚ Avg P(gold): 0.72%
+old): 16.15%
+
+📝 Example for GERMAN dataset B (FIRST Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 15.30% (175/114
+📝 Example for GERMAN dataset B (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 7.08% (81/1144)
+📈 Avg P(gold): 5.44%
+
+�
+📝 Example for GERMAN dataset D (FIRST Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Wir annektieren. Du annektierst, Ich annekti
+Expected next token: 'ere'
+�
+📝 Example for GERMAN dataset D (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Wir annektieren. Ich annektiere, Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 1.75% (20/1144)
+📈 Avg P(gold): 2.25%
+
+�
+📝 Example for GERMAN dataset E (FIRST Singular):
+Prompt: annektieren: Wir annektieren. Du annektierst, Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 3.32% (38/1144)
+📈
+📝 Example for GERMAN dataset E (SECOND Singular):
+Prompt: annektieren: Wir annektieren. Ich annektiere, Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 1.05% (12/1144)
+📈 Avg P(gold): 1.63%
+
+📊 Token Length Accuracy:
+  Token length 1: 1.05% (12/1144)
+👤 YO Accuracy: 1.57% (9/572)
+👤 YO Avg P(gold): 2.07%
+🧑‍🦰 TÚ Accuracy: 0.52% (3/572)
+🧑‍🦰 TÚ Avg P(gold): 1.20%
+
+📝 Example for ENGLISH dataset A (FIRST Singular):
+Prompt: Conjugation of the verb microtome in present tense: I microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 79.65% (19033/23896)
+📈 Avg P(gold): 58.97%
+
+📊 Token Length Accuracy:
+  Token length 1: 79.65% (19033/23896)
+👤 YO Accuracy: 79.61% (9512/11948)
+👤 YO Avg P(gold): 58.85%
+🧑‍🦰 TÚ Accuracy: 79.69% (9521/11948)
+🧑‍🦰 TÚ Avg P(gold): 59.08%
+
+📝 Example for ENGLISH dataset A (SECOND Singular):
+Prompt: Conjugation of the verb microtome in present tense: You microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 79.94% (19102/23896)
+📈 Avg P(gold): 61.42%
+
+📊 Token Length Accuracy:
+  Token length 1: 79.94% (19102/23896)
+👤 YO Accuracy: 79.63% (9514/11948)
+👤 YO Avg P(gold): 61.25%
+🧑‍🦰 TÚ Accuracy: 80.25% (9588/11948)
+🧑‍🦰 TÚ Avg P(gold): 61.59%
+
+📝 Example for ENGLISH dataset B (FIRST Singular):
+Prompt: Conjugation of the verb microtome in present tense in English: I microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 74.08% (17703/23896)
+📈 Avg P(gold): 54.69%
+
+📊 Token Length Accuracy:
+  Token length 1: 74.08% (17703/23896)
+👤 YO Accuracy: 74.27% (8874/11948)
+👤 YO Avg P(gold): 54.59%
+🧑‍🦰 TÚ Accuracy: 73.90% (8829/11948)
+🧑‍🦰 TÚ Avg P(gold): 54.78%
+
+📝 Example for ENGLISH dataset B (SECOND Singular):
+Prompt: Conjugation of the verb microtome in present tense in English: You microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 78.84% (18840/23896)
+📈 Avg P(gold): 60.80%
+
+📊 Token Length Accuracy:
+  Token length 1: 78.84% (18840/23896)
+👤 YO Accuracy: 78.62% (9394/11948)
+👤 YO Avg P(gold): 60.64%
+🧑‍🦰 TÚ Accuracy: 79.06% (9446/11948)
+🧑‍🦰 TÚ Avg P(gold): 60.96%
+
+📝 Example for ENGLISH dataset D (FIRST Singular):
+Prompt: Conjugation of the verb microtome in present tense in English: We microtome. You microtome, I microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 99.29% (23727/23896)
+📈 Avg P(gold): 94.18%
+
+📊 Token Length Accuracy:
+  Token length 1: 99.29% (23727/23896)
+👤 YO Accuracy: 99.27% (11861/11948)
+👤 YO Avg P(gold): 94.14%
+🧑‍🦰 TÚ Accuracy: 99.31% (11866/11948)
+🧑‍🦰 TÚ Avg P(gold): 94.21%
+
+📝 Example for ENGLISH dataset D (SECOND Singular):
+Prompt: Conjugation of the verb microtome in present tense in English: We microtome. I microtome, You microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 99.54% (23786/23896)
+📈 Avg P(gold): 96.79%
+
+📊 Token Length Accuracy:
+  Token length 1: 99.54% (23786/23896)
+👤 YO Accuracy: 99.56% (11895/11948)
+👤 YO Avg P(gold): 96.73%
+🧑‍🦰 TÚ Accuracy: 99.52% (11891/11948)
+🧑‍🦰 TÚ Avg P(gold): 96.85%
+
+📝 Example for ENGLISH dataset E (FIRST Singular):
+Prompt: microtome: We microtome. You microtome, I microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 98.10% (23441/23896)
+📈 Avg P(gold): 89.07%
+
+📊 Token Length Accuracy:
+  Token length 1: 98.10% (23441/23896)
+👤 YO Accuracy: 97.99% (11708/11948)
+👤 YO Avg P(gold): 89.05%
+🧑‍🦰 TÚ Accuracy: 98.20% (11733/11948)
+🧑‍🦰 TÚ Avg P(gold): 89.09%
+
+📝 Example for ENGLISH dataset E (SECOND Singular):
+Prompt: microtome: We microtome. I microtome, You microt
+Expected next token: 'ome'
+📊 Results:
+🎯 Accuracy: 98.64% (23570/23896)
+📈 Avg P(gold): 92.36%
+
+📊 Token Length Accuracy:
+  Token length 1: 98.64% (23570/23896)
+👤 YO Accuracy: 98.64% (11785/11948)
+👤 YO Avg P(gold): 92.34%
+🧑‍🦰 TÚ Accuracy: 98.64% (11785/11948)
+🧑‍🦰 TÚ Avg P(gold): 92.38%

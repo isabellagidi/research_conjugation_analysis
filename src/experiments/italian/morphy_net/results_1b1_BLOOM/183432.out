@@ -1,0 +1,170 @@
+bigscience/bloom-1b1
+Kept verb forms for language: spa
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Coniugazione del verbo mandonear al presente: Io mandoneo
+Type: <class 'str'>
+Example prompt input: Coniugazione del verbo mandonear al presente: Tu mandoneas
+Type: <class 'str'>
+✅ Correct prompts:
+Coniugazione del verbo mandonear al presente: Io mandone
+Coniugazione del verbo disparatar al presente: Io dispar
+Coniugazione del verbo bambolear al presente: Io bambole
+
+❌ Incorrect prompts:
+Coniugazione del verbo contratacar al presente: Io contrat
+Coniugazione del verbo abetunar al presente: Io abet
+Coniugazione del verbo bypasear al presente: Io bypase
+
+🔍 Direct Logit Attribution for Format TU
+Per-prompt DLA values (first 10): [18.124330520629883, 14.584732055664062, 14.947770118713379, 16.990243911743164, 16.163461685180664, 17.09496307373047, 17.681114196777344, 20.00931167602539, 21.061092376708984, 18.200374603271484]
+Average DLA: 17.574
+
+ 📈 Logit Lens (YO):
+Layer 0: 1.709
+Layer 1: 1.630
+Layer 2: 1.991
+Layer 3: 2.540
+Layer 4: 2.965
+Layer 5: 3.366
+Layer 6: 3.368
+Layer 7: 3.444
+Layer 8: 3.758
+Layer 9: 3.845
+Layer 10: 4.820
+Layer 11: 5.022
+Layer 12: 5.408
+Layer 13: 5.717
+Layer 14: 6.004
+Layer 15: 6.700
+Layer 16: 7.170
+Layer 17: 8.220
+Layer 18: 9.187
+Layer 19: 11.027
+Layer 20: 12.984
+Layer 21: 16.617
+L✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_first_sing_italian.png
+ 1.515
+Layer 3: 1.923
+Layer 4: 2.490
+Layer 5: 2.831
+Layer 6: 2.454
+Layer 7: 2.541
+Layer 8: 2.945
+Layer 9: 3.040
+Layer 10: 3.697
+Layer 11: 3.898
+Layer 12: 4.110
+Layer 13: 4.248
+Layer 14: 4.856
+Layer 15: 5.130
+Layer 16: 5.381
+Layer 17: 5.992
+Layer 18: 7.255
+Layer 19: 10.140
+Layer 20: 13.484
+Layer 21: 16.190
+Layer 22: 17.948
+Layer 23: 18.284
+✅ Saved plot to logit_lens_first sing.png
+✅ Saved plot to logit_lens_second sing.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_italian0.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_italian0.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_italian1.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_italian1.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.060
+Head H1: 0.145
+Head H2: 0.067
+Head H3: 0.108
+Head H4: 0.056
+Head H5: 0.053
+Head H6: 0.010
+Head H7: 0.050
+Head H8: 0.065
+Head H9: 0.042
+Head H10: 0.075
+Head H11: 0.029
+Head H12: 0.063
+Head H13: 0.065
+Head H14: -0.827
+Head H15: 0.040
+
+🔥 Top 3 most involved heads:
+L23H14 → 2.460
+L13H14 → -1.203
+L9H14 → -1.201
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_italian.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.065
+Head H1: 0.208
+Head H2: 0.023
+Head H3: 0.041
+Head H4: 0.075
+Head H5: 0.059
+Head H6: -0.059
+Head H7: 0.068
+Head H8: 0.088
+Head H9: 0.002
+Head H10: 0.068
+Head H11: 0.038
+Head H12: 0.030
+Head H13: 0.014
+Head H14: -1.163
+Head H15: 0.078
+
+🔥 Top 3 most involved heads:
+L23H14 → 3.618
+L11H14 → -1.711
+L12H14 → -1.699
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_italian.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.060
+Head H1: 0.145
+Head H2: 0.067
+Head H3: 0.108
+Head H4: 0.056
+Head H5: 0.053
+Head H6: 0.010
+Head H7: 0.050
+Head H8: 0.065
+Head H9: 0.042
+Head H10: 0.075
+Head H11: 0.029
+Head H12: 0.063
+Head H13: 0.065
+Head H14: -0.827
+Head H15: 0.040
+
+🔥 Top 3 most involved heads:
+L23H14 → 2.460
+L13H14 → -1.203
+L9H14 → -1.201
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_italian.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.065
+Head H1: 0.208
+Head H2: 0.023
+Head H3: 0.041
+Head H4: 0.075
+Head H5: 0.059
+Head H6: -0.059
+Head H7: 0.068
+Head H8: 0.088
+Head H9: 0.002
+Head H10: 0.068
+Head H11: 0.038
+Head H12: 0.030
+Head H13: 0.014
+Head H14: -1.163
+Head H15: 0.078
+
+🔥 Top 3 most involved heads:
+L23H14 → 3.618
+L11H14 → -1.711
+L12H14 → -1.699
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_italian.png

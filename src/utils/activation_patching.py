@@ -148,3 +148,21 @@ def plot_activation_patching_heatmap(recovery, tokens, label):
     print(f"✅ Saved patching_{label}.png")
     sys.stdout.flush()
     plt.close()
+
+def save_heatmap(data, x_labels, y_labels, title, filename, center=0.0, cmap="coolwarm"):
+    plt.figure(figsize=(min(len(x_labels) * 0.5, 18), min(len(y_labels) * 0.5, 12)))
+    sns.heatmap(
+        data.cpu().numpy(),
+        xticklabels=x_labels,
+        yticklabels=y_labels,
+        center=center,
+        cmap=cmap,
+        cbar_kws={"label": "Normalized Recovery"}
+    )
+    plt.xlabel("Position" if "Position" in title else "Head")
+    plt.ylabel("Layer" if "Layer" in title else "Head")
+    plt.title(title)
+    plt.tight_layout()
+    plt.savefig(filename)
+    print(f"✅ Saved: {filename}")
+    plt.close()

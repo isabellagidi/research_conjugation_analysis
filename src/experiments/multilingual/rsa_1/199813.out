@@ -1,0 +1,18 @@
+✅ Loaded catalan from semi_automation_results/catalan/attn_head_out_all_pos_patch_results_second2first_catalan.pt
+⚠️ Skipping czech: File not found at semi_automation_results/czech/attn_head_out_all_pos_patch_results_second2first_czech.pt
+⚠️ Skipping german: File not found at semi_automation_results/german/attn_head_out_all_pos_patch_results_second2first_german.pt
+✅ Loaded english from semi_automation_results/english/attn_head_out_all_pos_patch_results_second2first_english.pt
+⚠️ Skipping finnish: File not found at semi_automation_results/finnish/attn_head_out_all_pos_patch_results_second2first_finnish.pt
+✅ Loaded french from semi_automation_results/french/attn_head_out_all_pos_patch_results_second2first_french.pt
+⚠️ Skipping serbo-croatian: File not found at semi_automation_results/serbo-croatian/attn_head_out_all_pos_patch_results_second2first_serbo-croatian.pt
+✅ Loaded hungarian from semi_automation_results/hungarian/attn_head_out_all_pos_patch_results_second2first_hungarian.pt
+✅ Loaded italian from semi_automation_results/italian/attn_head_out_all_pos_patch_results_second2first_italian.pt
+⚠️ Skipping mongolian: File not found at semi_automation_results/mongolian/attn_head_out_all_pos_patch_results_second2first_mongolian.pt
+⚠️ Skipping polish: File not found at semi_automation_results/polish/attn_head_out_all_pos_patch_results_second2first_polish.pt
+✅ Loaded portuguese from semi_automation_results/portuguese/attn_head_out_all_pos_patch_results_second2first_portuguese.pt
+✅ Loaded russian from semi_automation_results/russian/attn_head_out_all_pos_patch_results_second2first_russian.pt
+✅ Loaded spanish from semi_automation_results/spanish/attn_head_out_all_pos_patch_results_second2first_spanish.pt
+⚠️ Skipping swedish: File not found at semi_automation_results/swedish/attn_head_out_all_pos_patch_results_second2first_swedish.pt
+📈 Saved rsa_mse.png
+📈 Saved rsa_corr.png
+📈 Saved rsa_cosine.png

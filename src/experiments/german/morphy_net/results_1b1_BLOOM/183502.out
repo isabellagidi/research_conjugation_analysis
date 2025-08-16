@@ -1,0 +1,194 @@
+bigscience/bloom-1b1
+Kept verb forms for language: deu
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Konjugation des Verbs annektieren im Präsens: Ich annektiere
+Type: <class 'str'>
+Example prompt input: Konjugation des Verbs annektieren im Präsens: Du annektierst
+Type: <class 'str'>
+Correct: 86 / 500
+Incorrect: 414
+✅ Correct prompts:
+Konjugation des Verbs vermarkten im Präsens: Ich vermark
+Konjugation des Verbs verfremden im Präsens: Ich verfrem
+Konjugation des Verbs erfrieren im Präsens: Ich erfri
+
+❌ Incorrect prompts:
+Konjugation des Verbs annektieren im Präsens: Ich annekti
+Konjugation des Verbs charmieren im Präsens: Ich charmi
+Konjugation des Verbs ruinieren im Präsens: Ich ruini
+Correct: 4 / 500
+Incorrect: 496
+✅ Correct prompts:
+Konjugation des Verbs verschicken im Präsens: Du verschick
+Konjugation des Verbs begrüssen im Präsens: Du begrüs
+Konjugation des Verbs küssen im Präsens: Du küs
+
+❌ Incorrect prompts:
+Konjugation des Verbs annektieren im Präsens: Du annekti
+Konjugation des Verbs charmieren im Präsens: Du charmi
+Konjugation des Verbs ruinieren im Präsens: Du ruini
+
+🔍 Direct Logit Attribution for Format YO
+Per-prompt DLA values (first 10): [17.372486114501953, 17.648149490356445, 14.297015190124512, 18.36285400390625, 17.025320053100586, 16.821104049682617, 19.33481216430664, 13.842185974121094, 13.390196800231934, 12.560409545898438]
+Average DLA: 15.601
+
+🔍 Direct Logit Attribution for Format TU
+Per-prompt DLA values (first 10): [15.266706466674805, 16.69776153564453, 14.996248245239258, 12.195771217346191]
+Average DLA: 14.789
+
+ 📈 Logit Lens (YO):
+Layer 0: 4.639
+Layer 1: 3.627
+Layer 2: 3.190
+Layer 3: 3.565
+Layer 4: 3.597
+Layer 5: 3.200
+Layer 6: 3.019
+Layer 7: 3.273
+Layer 8: 3.717
+Layer 9: 3.844
+Layer 10: 4.692
+Layer 11: 5.357
+Layer 12: 5.745
+Layer 13: 6.325
+Layer 14: 6.761
+Layer 15: 7.667
+Layer 16: 8.448
+Layer 17: 8.729
+Layer 18: 10.174
+Layer 19: 11.229
+Layer 20: 12.705
+Layer 21: 14.907
+Layer 22: 16.123
+Layer 23: 16.285
+
+ 📈 Logit Lens (TU):
+Layer 0: -1.252
+Layer 1: 1.541
+Layer 2: 1.870
+Layer 3: 2.942
+Layer 4: 3.414
+Layer 5: 3.348
+Layer 6: 3.304
+Layer 7: 3.536
+Layer 8: 4.095
+Layer 9: 5.472
+Layer 10: 5.415
+Layer 11: 5.651
+Layer 12: 5.909
+Layer 13: 6.174
+Layer 14: 7.110
+Layer 15: 7.018
+Layer 16: 7.919
+Layer 17: 8.097
+Layer 18: 10.125
+Layer 19: 12.572
+Layer 20: 13.559
+Layer 21: 15.917
+Layer 22: 15.935
+Layer 23: 15.347
+✅ Saved plot to logit_lens_first sing.png
+✅ Saved plot to logit_lens_second sing.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_german0.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_german0.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_german1.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_german1.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_first_sing_german.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_second_sing_german.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.085
+Head H1: 0.113
+Head H2: 0.064
+Head H3: 0.095
+Head H4: 0.065
+Head H5: 0.038
+Head H6: 0.059
+Head H7: 0.082
+Head H8: 0.016
+Head H9: 0.065
+Head H10: 0.083
+Head H11: 0.041
+Head H12: 0.024
+Head H13: 0.014
+Head H14: 1.085
+Head H15: 0.051
+
+🔥 Top 3 most involved heads:
+L22H14 → 1.585
+L23H14 → -1.573
+L21H14 → 1.497
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_german.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.016
+Head H1: 0.121
+Head H2: -0.001
+Head H3: 0.081
+Head H4: 0.035
+Head H5: 0.076
+Head H6: 0.096
+Head H7: 0.078
+Head H8: 0.070
+Head H9: 0.084
+Head H10: 0.106
+Head H11: 0.026
+Head H12: -0.034
+Head H13: 0.103
+Head H14: 1.498
+Head H15: 0.009
+
+🔥 Top 3 most involved heads:
+L23H14 → -2.515
+L22H14 → 2.249
+L21H14 → 2.117
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_german.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.085
+Head H1: 0.113
+Head H2: 0.064
+Head H3: 0.095
+Head H4: 0.065
+Head H5: 0.038
+Head H6: 0.059
+Head H7: 0.082
+Head H8: 0.016
+Head H9: 0.065
+Head H10: 0.083
+Head H11: 0.041
+Head H12: 0.024
+Head H13: 0.014
+Head H14: 1.085
+Head H15: 0.051
+
+🔥 Top 3 most involved heads:
+L22H14 → 1.585
+L23H14 → -1.573
+L21H14 → 1.497
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_german.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.016
+Head H1: 0.121
+Head H2: -0.001
+Head H3: 0.081
+Head H4: 0.035
+Head H5: 0.076
+Head H6: 0.096
+Head H7: 0.078
+Head H8: 0.070
+Head H9: 0.084
+Head H10: 0.106
+Head H11: 0.026
+Head H12: -0.034
+Head H13: 0.103
+Head H14: 1.498
+Head H15: 0.009
+
+🔥 Top 3 most involved heads:
+L23H14 → -2.515
+L22H14 → 2.249
+L21H14 → 2.117
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_german.png

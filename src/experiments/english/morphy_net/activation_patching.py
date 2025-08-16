@@ -64,7 +64,9 @@ print("model:", tl_model)
 # === Load and Prepare Dataset ===
 file_path = "/home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_conjugations.json"
 all_verbs = load_json_data(file_path)
-english_conjugations = filter_conjugations(all_verbs, tokenizer, "spa")
+
+#NOTE THIS WAS WRONG BEFORE
+english_conjugations = filter_conjugations(all_verbs, tokenizer, "eng")
 english_conjugations = english_conjugations[:100]
 print("length of dataset (usually 500 but in this case):", len(english_conjugations))
 
@@ -78,17 +80,21 @@ p2, a2, e2 = build_conjugation_prompts(tokenizer, english_second_sing, english_c
 texts_1 = [tokenizer.decode(p, skip_special_tokens=True) for p in p1]
 texts_2 = [tokenizer.decode(p, skip_special_tokens=True) for p in p2]
 
-grouped_first = group_by_token_lengths(texts_1, a1, e1, tokenizer)
-grouped_second = group_by_token_lengths(texts_2, a2, e2, tokenizer)
+#grouped_clean = group_by_token_lengths(texts_1, a1, e1, tokenizer)
+#grouped_corrupted = group_by_token_lengths(texts_2, a2, e2, tokenizer)
+#top_5 = sorted(grouped_clean.items(), key=lambda x: len(x[1]), reverse=True)[:5]
 
-top_5 = sorted(grouped_first.items(), key=lambda x: len(x[1]), reverse=True)[:5]
+
+grouped_clean = group_by_token_lengths(texts_1, a1, e1, tokenizer)
+grouped_corrupted = group_by_token_lengths(texts_2, a2, e2, tokenizer)
+top_5 = sorted(grouped_clean.items(), key=lambda x: len(x[1]), reverse=True)[:5]
 
 # === Patch 5 groups: resid_pre ===
 for (inf_len, conj_len), group in top_5:
     clean_prompts = [ex[0] for ex in group]
     answer_ids = torch.tensor([ex[1] for ex in group], device=device)
 
-    corrupted_group = grouped_second.get((inf_len, conj_len))
+    corrupted_group = grouped_corrupted.get((inf_len, conj_len))
     if corrupted_group is None or len(corrupted_group) < len(group):
         print(f"❌ Skipping group {(inf_len, conj_len)} — missing second-person match")
         continue
@@ -131,9 +137,14 @@ for (inf_len, conj_len), group in top_5:
 # === Additional First→Second Patching: attn_head_out_all_pos ===
 # Use the first MAX_PROMPTS prompts for 1st→2nd person comparison
 MAX_PROMPTS = 50
-clean_prompts = texts_1[:MAX_PROMPTS]
-corrupted_prompts = texts_2[:MAX_PROMPTS]
-answer_ids = torch.tensor(a1[:MAX_PROMPTS], device=device)
+#clean_prompts = texts_1[:MAX_PROMPTS]
+#corrupted_prompts = texts_2[:MAX_PROMPTS]
+#answer_ids = torch.tensor(a1[:MAX_PROMPTS], device=device)
+
+#SWAP
+clean_prompts = texts_2[:MAX_PROMPTS]
+corrupted_prompts = texts_1[:MAX_PROMPTS]
+answer_ids = torch.tensor(a2[:MAX_PROMPTS], device=device)
 
 clean_tokens = tl_model.to_tokens(clean_prompts)
 corrupted_tokens = tl_model.to_tokens(corrupted_prompts)
@@ -150,14 +161,18 @@ CORRUPTED_BASELINE = get_logit_diff(corrupted_logits).item()
 def conjugation_metric(logits, answer_ids=answer_ids):
     return (get_logit_diff(logits, answer_ids) - CORRUPTED_BASELINE) / (CLEAN_BASELINE - CORRUPTED_BASELINE + 1e-12)
 
-attn_head_out_all_pos_patch_results = patching.get_act_patch_attn_head_out_all_pos(
+attn_head_out_all_pos_patch_results_english = patching.get_act_patch_attn_head_out_all_pos(
     tl_model, corrupted_tokens, clean_cache, patching_metric=conjugation_metric
 )
 
 save_heatmap(
-    data=attn_head_out_all_pos_patch_results,
+    data=attn_head_out_all_pos_patch_results_english,
     x_labels=[f"H{h}" for h in range(tl_model.cfg.n_heads)],
     y_labels=[f"L{l}" for l in range(tl_model.cfg.n_layers)],
     title="attn_head_out Activation Patching (All Positions) english",
-    filename="attn_head_out_all_pos_first2second_english.png"
+    #filename="attn_head_out_all_pos_first2second_english_first2second.png",
+    filename="attn_head_out_all_pos_first2second_english_second2first.png"
 )
+
+#torch.save(attn_head_out_all_pos_patch_results_english, "attn_head_out_all_pos_patch_results_english_first2second.pt")
+torch.save(attn_head_out_all_pos_patch_results_english, "attn_head_out_all_pos_patch_results_english_second2first.pt")

@@ -1,0 +1,2 @@
+/home/lis.isabella.gidi/jsalt2025/src/experiments/multilingual/cumulative_plotting.py:63: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  plt.legend()

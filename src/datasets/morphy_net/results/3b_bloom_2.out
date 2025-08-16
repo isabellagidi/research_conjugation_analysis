@@ -1,0 +1,219 @@
+bigscience/bloom-3b
+Kept verb forms for language: eng
+
+Kept verb forms for language: spa
+
+Kept verb forms for language: deu
+
+Kept verb forms for language: ita
+
+Example prompt input: Conjugation of the verb microtome in present tense: I microtome
+Type: <class 'str'>
+Example prompt input: Conjugation of the verb microtome in present tense: You microtome
+Type: <class 'str'>
+🔍 Loaded 101256 prompts for evaluation across all formats and languages
+
+🧪 Dataset availability check:
+a_spanish_first_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+a_spanish_second_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+b_spanish_first_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+b_spanish_second_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+d_spanish_first_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+d_spanish_second_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+e_spanish_first_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+e_spanish_second_sing: ✅ prompts, ✅ answers, ✅ entries, (4737 items)
+a_italian_first_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+a_italian_second_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+b_italian_first_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+b_italian_second_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+d_italian_first_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+d_italian_second_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+e_italian_first_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+e_italian_second_sing: ✅ prompts, ✅ answers, ✅ entries, (6776 items)
+a_german_first_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+a_german_second_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+b_german_first_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+b_german_second_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+d_german_first_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+d_german_second_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+e_german_first_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+e_german_second_sing: ✅ prompts, ✅ answers, ✅ entries, (1144 items)
+
+📝 Example for SPANISH dataset A (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente: Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 84.86% (4020/4737)
+📈 Avg P(gold): 70.46%
+
+📝 Example for SPANISH dataset A (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente: Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 84.10% (3984/4737)
+📈 Avg P(gold): 66.35%
+
+📝 Example for ITALIAN dataset A (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente: Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 50.16% (3399/6776)
+📈 Avg P(gold): 38.26%
+
+📝 Example for ITALIAN dataset A (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente: Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 29.34% (1988/6776)
+📈 Avg P(gold): 20.20%
+
+📝 Example for GERMAN dataset A (FIRST Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens: Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 59.18% (677/1144)
+📈 Avg P(gold): 43.41%
+
+📝 Example for GERMAN dataset A (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens: Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 14.07% (161/1144)
+📈 Avg P(gold): 13.27%
+
+📝 Example for SPANISH dataset B (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 84.95% (4024/4737)
+📈 Avg P(gold): 71.00%
+
+📝 Example for SPANISH dataset B (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 83.79% (3969/4737)
+📈 Avg P(gold): 66.59%
+
+📝 Example for ITALIAN dataset B (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 52.73% (3573/6776)
+📈 Avg P(gold): 39.84%
+
+📝 Example for ITALIAN dataset B (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 30.24% (2049/6776)
+📈 Avg P(gold): 20.29%
+
+📝 Example for GERMAN dataset B (FIRST Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 61.01% (698/1144)
+📈 Avg P(gold): 46.64%
+
+📝 Example for GERMAN dataset B (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 15.38% (176/1144)
+📈 Avg P(gold): 14.66%
+
+📝 Example for SPANISH dataset D (FIRST Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Nosotros mandoneamos. Tú mandoneas, Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 91.11% (4316/4737)
+📈 Avg P(gold): 80.88%
+
+📝 Example for SPANISH dataset D (SECOND Singular):
+Prompt: Conjugación del verbo mandonear en presente en español: Nosotros mandoneamos. Yo mandoneo, Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 88.79% (4206/4737)
+📈 Avg P(gold): 81.82%
+
+📝 Example for ITALIAN dataset D (FIRST Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Noi disinfettiamo. Tu disinfetti, Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 44.89% (3042/6776)
+📈 Avg P(gold): 39.31%
+
+📝 Example for ITALIAN dataset D (SECOND Singular):
+Prompt: Coniugazione del verbo disinfettare al presente in italiano: Noi disinfettiamo. Io disinfetto, Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 41.71% (2826/6776)
+📈 Avg P(gold): 33.60%
+
+📝 Example for GERMAN dataset D (FIRST Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Wir annektieren. Du annektierst, Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 37.85% (433/1144)
+📈 Avg P(gold): 29.68%
+
+📝 Example for GERMAN dataset D (SECOND Singular):
+Prompt: Konjugation des Verbs annektieren im Präsens auf Deutsch: Wir annektieren. Ich annektiere, Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 20.63% (236/1144)
+📈 Avg P(gold): 19.36%
+
+📝 Example for SPANISH dataset E (FIRST Singular):
+Prompt: mandonear: Nosotros mandoneamos. Tú mandoneas, Yo mandone
+Expected next token: 'o'
+📊 Results:
+🎯 Accuracy: 86.93% (4118/4737)
+📈 Avg P(gold): 76.49%
+
+📝 Example for SPANISH dataset E (SECOND Singular):
+Prompt: mandonear: Nosotros mandoneamos. Yo mandoneo, Tú mandone
+Expected next token: 'as'
+📊 Results:
+🎯 Accuracy: 83.98% (3978/4737)
+📈 Avg P(gold): 76.69%
+
+📝 Example for ITALIAN dataset E (FIRST Singular):
+Prompt: disinfettare: Noi disinfettiamo. Tu disinfetti, Io disinfet
+Expected next token: 'to'
+📊 Results:
+🎯 Accuracy: 27.02% (1831/6776)
+📈 Avg P(gold): 25.41%
+
+📝 Example for ITALIAN dataset E (SECOND Singular):
+Prompt: disinfettare: Noi disinfettiamo. Io disinfetto, Tu disinfet
+Expected next token: 'ti'
+📊 Results:
+🎯 Accuracy: 32.44% (2198/6776)
+📈 Avg P(gold): 26.15%
+
+📝 Example for GERMAN dataset E (FIRST Singular):
+Prompt: annektieren: Wir annektieren. Du annektierst, Ich annekti
+Expected next token: 'ere'
+📊 Results:
+🎯 Accuracy: 29.28% (335/1144)
+📈 Avg P(gold): 23.15%
+
+📝 Example for GERMAN dataset E (SECOND Singular):
+Prompt: annektieren: Wir annektieren. Ich annektiere, Du annekti
+Expected next token: 'erst'
+📊 Results:
+🎯 Accuracy: 10.49% (120/1144)
+📈 Avg P(gold): 12.58%
+
+📚 AVERAGE METRICS BY LANGUAGE
+🌍 SPANISH: Accuracy = 86.06%, Avg P(gold) = 73.79%
+🌍 ITALIAN: Accuracy = 38.57%, Avg P(gold) = 30.38%
+🌍 GERMAN: Accuracy = 30.99%, Avg P(gold) = 25.34%
+
+📚 AVERAGE METRICS BY DATASET TYPE (SUFFIX)
+📄 Dataset A: Accuracy = 56.21%, Avg P(gold) = 43.81%
+📄 Dataset B: Accuracy = 57.24%, Avg P(gold) = 44.62%
+📄 Dataset D: Accuracy = 59.49%, Avg P(gold) = 52.18%
+📄 Dataset E: Accuracy = 49.70%, Avg P(gold) = 44.08%

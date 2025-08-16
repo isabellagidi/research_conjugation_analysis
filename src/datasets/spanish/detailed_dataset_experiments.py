@@ -5,7 +5,7 @@ import sys
 sys.path.append('../../')  
 
 from src.datasets.spanish.spanish_verbs import spanish_ar_verbs, spanish_er_verbs, spanish_ir_verbs
-from jsalt2025.src.utils.spanish_dataset_generation import create_spanish_verbs, filter_spanish_conjugations
+from src.utils.spanish_dataset_generation import create_spanish_verbs, filter_spanish_conjugations
 
 
 tokenizer = AutoTokenizer.from_pretrained("bigscience/bloom-1b1")

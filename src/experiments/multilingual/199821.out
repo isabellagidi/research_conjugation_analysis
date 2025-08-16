@@ -1,0 +1,803 @@
+
+=== Running activation patching for catalan (cat) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language cat:  13
+Kept verb forms for language: cat
+
+after filter_conjugations, number of saved verbs: 1562
+[catalan] verbs kept: 1000
+[catalan] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 142 / 1000 ; 131 / 1000
+✅ Saved: resid_pre_first2second_catalan_inf3_conj4.png
+✅ Saved: resid_pre_first2second_catalan_inf3_conj3.png
+✅ Saved: resid_pre_first2second_catalan_inf4_conj4.png
+✅ Saved: resid_pre_first2second_catalan_inf2_conj2.png
+✅ Saved: resid_pre_second2first_catalan_inf3_conj4.png
+✅ Saved: resid_pre_second2first_catalan_inf2_conj3.png
+✅ Saved: resid_pre_second2first_catalan_inf3_conj3.png
+✅ Saved: resid_pre_second2first_catalan_inf2_conj2.png
+✅ Saved: resid_pre_second2first_catalan_inf4_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_catalan.pt
+✅ Saved: attn_head_out_all_pos_first2second_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_catalan.pt
+
+=== Running activation patching for czech (ces) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language ces:  13
+Kept verb forms for languageafter accuracy_filter, number of sentences saved: 40 / 1000 ; 0 / 1000
+↪️  first2second: skipping (4, 4) - no match
+↪️  first2second: skipping (3, 3) - no match
+↪️  first2second: skipping (5, 5) - no match
+↪️  first2second: skipping (3, 4) - no match
+↪️  first2second: skipping (7, 7) - no match
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for english (eng) ===
+oom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language deu:  13
+Kept verb forms for language: deu
+
+after filter_conjugations, number of saved verbs: 1144
+[german] verbs kept: 1000
+[german] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 254 / 1000 ; 253 / 1000
+ HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language eng:  13
+Kept verb forms for language: eng
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept: 1000
+[english] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+✅ Saved: resid_pre_first2second_english_inf3_conj3.png
+✅ Saved: resid_pre_first2second_english_inf2_conj2.png
+✅ Saved: resid_pre_first2second_english_inf6_conj6.png
+✅ Saved: resid_pre_second2first_english_inf3_conj3.png
+✅ Saved: resid_pre_second2first_english_inf4_conj4.png
+✅ Saved: resid_pre_second2first_english_inf2_conj2.png
+✅ Saved: resid_pre_second2first_english_inf5_conj5.png
+✅ Saved: resid_pre_second2first_english_inf6_conj6.png
+✅ Saved: attn_head_out_all_pos_second2first_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_english.pt
+✅ Saved: attn_head_out_all_pos_first2second_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_english.pt
+
+=== Running activation patching for finnish (fin) ===
+✅ Saved: resid_pre_first2second_finnish_inf4_conj4.png
+↪️  first2second: skipping (3, 4) - no match
+mbed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language fin:  13
+Kept verb forms for language: fin
+
+after filter_conjugations, number of saved verbs: 4773
+[finnish] verbs kept: 1000
+[finnish] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 19 / 1000 ; 9 / 1000
+✅ Saved: resid_pre_first2second_finnish_inf3_conj3.png
+↪️  first2second: skipping (2, 4) - no match
+✅ Saved: resid_pre_second2first_finnish_inf3_conj3.png
+✅ Saved: attn_head_out_all_pos_second2first_finnish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_finnish.pt
+✅ Saved: attn_head_out_all_pos_first2second_finnish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_finnish.pt
+
+=== Running activation patching for french (fra) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language fra:  13
+Kept verb[french] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 165 / 1000 ; 154 / 1000
+✅ Saved: resid_pre_first2second_french_inf3_conj3.png
+✅ Saved: resid_pre_first2second_french_inf4_conj4.png
+✅ Saved: resid_pre_first2second_french_inf2_conj2.png
+✅ Saved: resid_pre_first2second_french_inf3_conj4.png
+↪️  first2second: skipping (4, 3) - no match
+✅ Saved: resid_pre_second2first_french_inf3_conj3.png
+✅ Saved: resid_pre_second2first_french_inf4_conj4.png
+✅ Saved: resid_pre_second2first_french_inf2_conj2.png
+✅ Saved: resid_pre_second2first_french_inf3_conj4.png
+✅ Saved: resid_pre_second2first_french_inf5_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_french.pt
+✅ Saved: attn_head_out_all_pos_first2second_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_french.pt
+
+=== Running activation patching for serbo-croatian (hbs) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language hbs:  13
+Kept verb forms for language: hbs
+
+No data found for language: hbs
+[serbo-croatian] verbs kept: 0
+[serbo-croatian] after prepare_language_dataset  first_prompts=0  second_prompts=0
+after accuracy_filter, number of sentences saved: 0 / 0 ; 0 / 0
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for hungarian (hun) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language hun:  13
+Kept verb forms for language: hun
+
+after filter_conjugations, number of saved verbs: 657
+[hungarian] verbs kept: 657
+[hungarian] after prepare_language_dataset  first_prompts=657  second_prompts=657
+after accuracy_filter, number of sentences saved: 3 / 657 ; 1 / 657
+✅ Saved: resid_pre_second2first_hungarian_inf4_conj5.png
+↪️  first2second: skipping (5, 6) - no match
+↪️  first2second: skipping (3, 4) - no match
+✅ Saved: attn_head_out_all_pos_second2first_hungarian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_hungarian.pt
+✅ Saved: attn_head_out_all_pos_first2second_hungarian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_hungarian.pt
+
+=== Running activation patching for italian (ita) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language ita:  13
+Kept verb forms for language: ita
+
+after filter_conjugations, number of saved verbs: 6776
+[italian] verbs kept: 1000
+[italian] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 75 / 1000 ; 73 / 1000
+✅ Saved: resid_pre_first2second_italian_inf5_conj4.png
+✅ Saved: resid_pre_first2second_italian_inf5_conj5.png
+✅ Saved: resid_pre_first2second_italian_inf3_conj3.png
+✅ Saved: resid_pre_second2first_italian_inf5_conj4.png
+✅ Saved: resid_pre_second2first_italian_inf4_conj4.png
+✅ Saved: resid_pre_second2first_italian_inf4_conj3.png
+✅ Saved: resid_pre_second2first_italian_inf6_conj5.png
+✅ Saved: resid_pre_second2first_italian_inf5_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_italian.pt
+✅ Saved: attn_head_out_all_pos_first2second_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_italian.pt
+
+=== Running activation patching for mongolian (mon) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+     Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+    )
+  )
+  (hook_embed): HookPoint()
+  (pos_embed): PosEmbed()
+  (hook_pos_embed): HookPoint()
+  (blocks): ModuleList(
+    (0-23): 24 x TransformerBlock(
+      (ln1): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language por:  13
+Kept verb forms for language: por
+
+after filter_conjugations, number of saved verbs: 2844
+[portuguese] verbs kept: 1000
+[portuguese] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+after accuracy_filter, number of sentences saved: 88 / 1000 ; 144 / 1000
+d): HookPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+total number of verbs for language pol:  13
+Kept verb forms for language: pol
+
+No data found for language: pol
+[polish] verbs kept: 0
+[polish] after prepare_language_dataset  first_prompts=0  second_prompts=0
+after accuracy_filter, number of sentences saved: 0 / 0 ; 0 / 0
+↪️  Skipping second2first - zero aligned prompts
+↪️  Skipping first2second - zero aligned prompts
+
+=== Running activation patching for portuguese (por) ===
+✅ Saved: resid_pre_first2second_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_first2second_portuguese_inf3_conj4.png
+✅ Saved: resid_pre_first2second_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_first2second_portuguese_inf4_conj3.png
+✅ Saved: resid_pre_second2first_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_second2first_portuguese_inf4_conj3.png
+✅ Saved: resid_pre_second2first_portuguese_inf3_conj4.png
+✅ Saved: attn_head_out_all_pos_second2first_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_portuguese.pt
+✅ Saved: attn_head_out_all_pos_first2second_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_portuguese.pt
+
+=== Running activation patching for russian (rus) ===
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+model: HookedTransformer(
+  (embed): Embed(
+    (ln): LayerNorm(
+      (hook_scale): HookPoint()
+      (hook_normalized): HookPoint()
+   total number of verbs for language rus:  13
+Kept verb forms for language: rus
+
+after filter_conjugations, number of saved verbs: 3509
+[russian] verbs kept: 1000
+[russian] after prepare_language_dataset  first_prompts=1000  second_prompts=1000
+kPoint()
+      )
+      (ln2): LayerNormPre(
+        (hook_scale): HookPoint()
+        (hook_normalized): HookPoint()
+      )
+      (attn): Attention(
+        (hook_k): HookPoint()
+        (hook_q): HookPoint()
+        (hook_v): HookPoint()
+        (hook_z): HookPoint()
+        (hook_attn_scores): HookPoint()
+        (hook_pattern): HookPoint()
+        (hook_result): HookPoint()
+      )
+      (mlp): MLP(
+        (hook_pre): HookPoint()
+        (hook_post): HookPoint()
+      )
+      (hook_attn_in): HookPoint()
+      (hook_q_input): HookPoint()
+      (hook_k_input): HookPoint()
+      (hook_v_input): HookPoint()
+      (hook_mlp_in): HookPoint()
+      (hook_attn_out): HookPoint()
+      (hook_mlp_out): HookPoint()
+      (hook_resid_pre): HookPoint()
+      (hook_resid_mid): HookPoint()
+      (hook_resid_post): HookPoint()
+    )
+  )
+  (ln_final): LayerNormPre(
+    (hook_scale): HookPoint()
+    (hook_normalized): HookPoint()
+  )
+  (unembed): Unembed()
+)
+after accuracy_filter, number of sentences saved: 219 / 1000 ; 126 / 1000
