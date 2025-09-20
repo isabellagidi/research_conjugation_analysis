@@ -23,4 +23,4 @@ export PYTHONPATH=/home/lis.isabella.gidi/jsalt2025:$PYTHONPATH
 export PYTHONUNBUFFERED=1
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
-srun python3 -u cumulative_plotting.py
+srun python3 -u mega_automation_other.py

@@ -288,6 +288,93 @@ def accuracy_filter_old(prompts_trimmed, answer_ids, matched_entries, model_name
         incorrect_matched_entries
     )
 
+from typing import List, Tuple, Optional
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+def accuracy_filter_text(
+    prompts_trimmed: List[List[int]],     # list of token-ID prefixes
+    answer_ids: List[int],                # gold next-token ids
+    matched_entries: List[Tuple],         # aligned metadata
+    model_name: Optional[str] = None,     # only needed if tokenizer/model not passed
+    batch_size: int = 8,
+    device: Optional[str] = None,
+    tokenizer: Optional[AutoTokenizer] = None,
+    model: Optional[AutoModelForCausalLM] = None,
+    max_len: Optional[int] = None,        # if None, use model.config.max_position_embeddings or 2048
+):
+    """
+    Returns decoded prompt strings for correct/incorrect groups so downstream viz expecting strings will work.
+    Fixes: per-seq last non-pad position; optional reuse of tokenizer/model; no truncation warnings.
+    """
+    # --- setup ---
+    if device is None:
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    if tokenizer is None or model is None:
+        assert model_name is not None, "Provide model_name if not passing tokenizer/model"
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+        model = AutoModelForCausalLM.from_pretrained(model_name).to(device).eval()
+    else:
+        # ensure pad_token set (BLOOM needs this)
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = tokenizer.eos_token
+
+    if max_len is None:
+        max_len = getattr(getattr(model, "config", object()), "max_position_embeddings", 2048) or 2048
+
+    # decode prefixes to text (keeps your original prefixes intact)
+    text_prompts = [tokenizer.decode(p, skip_special_tokens=True) for p in prompts_trimmed]
+
+    correct_prompts, correct_answer_ids, correct_entries = [], [], []
+    incorrect_prompts, incorrect_answer_ids, incorrect_entries = [], [], []
+
+    for i in range(0, len(text_prompts), batch_size):
+        batch_prompts = text_prompts[i:i+batch_size]
+        batch_gold_ids = answer_ids[i:i+batch_size]
+        batch_entries  = matched_entries[i:i+batch_size]
+
+        enc = tokenizer(
+            batch_prompts,
+            return_tensors="pt",
+            padding=True,
+            truncation=True,
+            max_length=max_len,      # <-- no warning now
+        )
+        input_ids = enc["input_ids"].to(device)
+        attention_mask = enc["attention_mask"].to(device)
+        gold_ids = torch.tensor(batch_gold_ids, device=device)
+
+        with torch.no_grad():
+            logits = model(input_ids=input_ids, attention_mask=attention_mask).logits  # [B, S, V]
+
+        # last non-pad positions per sequence
+        seq_ends = attention_mask.sum(dim=1) - 1                        # [B]
+        next_logits = logits[torch.arange(logits.size(0), device=device), seq_ends, :]  # [B, V]
+        preds = next_logits.argmax(dim=-1)                               # [B]
+
+        correct_mask = (preds == gold_ids).tolist()
+
+        for j, ok in enumerate(correct_mask):
+            if ok:
+                correct_prompts.append(batch_prompts[j])
+                correct_answer_ids.append(batch_gold_ids[j])
+                correct_entries.append(batch_entries[j])
+            else:
+                incorrect_prompts.append(batch_prompts[j])
+                incorrect_answer_ids.append(batch_gold_ids[j])
+                incorrect_entries.append(batch_entries[j])
+
+        torch.cuda.empty_cache()
+
+    return (
+        correct_prompts, correct_answer_ids, correct_entries,
+        incorrect_prompts, incorrect_answer_ids, incorrect_entries,
+    )
+
+
 def group_by_token_lengths(
     correct_prompts: List[str],
     correct_answer_ids: List[int],

@@ -1,0 +1,8 @@
+✅ Loaded languages: {'Catalan': 'automation_results/catalan/attn_head_out_all_pos_patch_results_first2second_catalan.pt', 'Spanish': 'automation_results/spanish/attn_head_out_all_pos_patch_results_first2second_spanish.pt', 'Portuguese': 'automation_results/portuguese/attn_head_out_all_pos_patch_results_first2second_portuguese.pt', 'French': 'automation_results/french/attn_head_out_all_pos_patch_results_first2second_french.pt', 'English': 'automation_results/english/attn_head_out_all_pos_patch_results_first2second_english.pt', 'Italian': 'automation_results/italian/attn_head_out_all_pos_patch_results_first2second_italian.pt'}
+✅ Saved: plots/cumulative_head_recovery_catalan.png
+✅ Saved: plots/cumulative_head_recovery_spanish.png
+✅ Saved: plots/cumulative_head_recovery_portuguese.png
+✅ Saved: plots/cumulative_head_recovery_french.png
+✅ Saved: plots/cumulative_head_recovery_english.png
+✅ Saved: plots/cumulative_head_recovery_italian.png
+✅ Saved overlay plot: plots2/cumulative_overlay.png

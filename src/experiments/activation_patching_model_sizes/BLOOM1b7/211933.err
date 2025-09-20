@@ -1,0 +1,2 @@
+/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/bin/python3: can't open file '/home/lis.isabella.gidi/jsalt2025/src/experiments/activation_patching_model_sizes/BLOOM1b7/attention_analysis_spanish.py': [Errno 2] No such file or directory
+srun: error: atos1: task 0: Exited with exit code 2

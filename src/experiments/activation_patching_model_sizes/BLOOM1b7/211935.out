@@ -1,0 +1,113 @@
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language cat:  13
+Kept verb forms for language: cat
+
+after filter_conjugations, number of saved verbs: 1562
+[catalan] verbs kept: 1000
+✅ Saved: resid_pre_first2second_catalan_inf3_conj4.png
+✅ Saved: resid_pre_first2second_catalan_inf3_conj3.png
+✅ Saved: resid_pre_first2second_catalan_inf2_conj3.png
+✅ Saved: resid_pre_first2second_catalan_inf2_conj2.png
+✅ Saved: resid_pre_first2second_catalan_inf4_conj4.png
+✅ Saved: resid_pre_second2first_catalan_inf3_conj4.png
+✅ Saved: resid_pre_second2first_catalan_inf2_conj3.png
+✅ Saved: resid_pre_second2first_catalan_inf3_conj3.png
+✅ Saved: resid_pre_second2first_catalan_inf2_conj2.png
+✅ Saved: resid_pre_second2first_catalan_inf4_conj4.png
+✅ Saved: attn_head_out_all_pos_second2first_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_catalan.pt
+✅ Saved: attn_head_out_all_pos_first2second_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_catalan.pt
+total number of verbs for language spa:  13
+Kept verb forms for language: spa
+
+after filter_conjugations, number of saved verbs: 4737
+[spanish] verbs kept: 1000
+✅ Saved: resid_pre_first2second_spanish_inf3_conj3.png
+✅ Saved: resid_pre_first2second_spanish_inf4_conj4.png
+✅ Saved: resid_pre_first2second_spanish_inf3_conj4.png
+✅ Saved: resid_pre_first2second_spanish_inf2_conj3.png
+✅ Saved: resid_pre_first2second_spanish_inf5_conj5.png
+✅ Saved: resid_pre_second2first_spanish_inf3_conj3.png
+✅ Saved: resid_pre_second2first_spanish_inf4_conj4.png
+✅ Saved: resid_pre_second2first_spanish_inf3_conj4.png
+✅ Saved: resid_pre_second2first_spanish_inf2_conj3.png
+✅ Saved: resid_pre_second2first_spanish_inf5_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_spanish.pt
+✅ Saved: attn_head_out_all_pos_first2second_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_spanish.pt
+total number of verbs for language por:  13
+Kept verb forms for language: por
+
+after filter_conjugations, number of saved verbs: 2844
+[portuguese] verbs kept: 1000
+✅ Saved: resid_pre_first2second_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_first2second_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_first2second_portuguese_inf4_conj4.png
+✅ Saved: resid_pre_first2second_portuguese_inf3_conj4.png
+✅ Saved: resid_pre_first2second_portuguese_inf4_conj3.png
+✅ Saved: resid_pre_second2first_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_second2first_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_second2first_portuguese_inf4_conj4.png
+✅ Saved: resid_pre_second2first_portuguese_inf3_conj4.png
+✅ Saved: resid_pre_second2first_portuguese_inf2_conj3.png
+✅ Saved: attn_head_out_all_pos_second2first_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_portuguese.pt
+✅ Saved: attn_head_out_all_pos_first2second_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_portuguese.pt
+total number of verbs for language fra:  13
+Kept verb forms for language: fra
+
+after filter_conjugations, number of saved verbs: 4754
+[french] verbs kept: 1000
+✅ Saved: resid_pre_first2second_french_inf3_conj3.png
+✅ Saved: resid_pre_first2second_french_inf4_conj4.png
+✅ Saved: resid_pre_first2second_french_inf2_conj2.png
+↪️  first2second: skipping (3, 2) - no match
+✅ Saved: resid_pre_first2second_french_inf2_conj3.png
+✅ Saved: resid_pre_second2first_french_inf3_conj3.png
+✅ Saved: resid_pre_second2first_french_inf4_conj4.png
+✅ Saved: resid_pre_second2first_french_inf2_conj2.png
+✅ Saved: resid_pre_second2first_french_inf2_conj3.png
+✅ Saved: resid_pre_second2first_french_inf3_conj4.png
+✅ Saved: attn_head_out_all_pos_second2first_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_french.pt
+✅ Saved: attn_head_out_all_pos_first2second_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_french.pt
+total number of verbs for language eng:  13
+Kept verb forms for language: eng
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept: 1000
+✅ Saved: resid_pre_first2second_english_inf3_conj3.png
+✅ Saved: resid_pre_first2second_english_inf4_conj4.png
+✅ Saved: resid_pre_first2second_english_inf2_conj2.png
+✅ Saved: resid_pre_first2second_english_inf5_conj5.png
+✅ Saved: resid_pre_first2second_english_inf6_conj6.png
+✅ Saved: resid_pre_second2first_english_inf3_conj3.png
+✅ Saved: resid_pre_second2first_english_inf4_conj4.png
+✅ Saved: resid_pre_second2first_english_inf2_conj2.png
+✅ Saved: resid_pre_second2first_english_inf5_conj5.png
+✅ Saved: attn_head_out_all_pos_second2first_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_english.pt
+✅ Saved: attn_head_out_all_pos_first2second_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_english.pt
+total number of verbs for language ita:  13
+Kept verb forms for language: ita
+
+after filter_conjugations, number of saved verbs: 6776
+[italian] verbs kept: 1000
+✅ Saved: resid_pre_first2second_italian_inf4_conj4.png
+✅ Saved: resid_pre_first2second_italian_inf5_conj4.png
+✅ Saved: resid_pre_first2second_italian_inf4_conj3.png
+✅ Saved: resid_pre_first2second_italian_inf5_conj5.png
+✅ Saved: resid_pre_first2second_italian_inf3_conj3.png
+✅ Saved: resid_pre_second2first_italian_inf5_conj4.png
+✅ Saved: resid_pre_second2first_italian_inf6_conj5.png
+✅ Saved: resid_pre_second2first_italian_inf3_conj3.png
+✅ Saved: attn_head_out_all_pos_second2first_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_second2first_italian.pt
+✅ Saved: attn_head_out_all_pos_first2second_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_first2second_italian.pt

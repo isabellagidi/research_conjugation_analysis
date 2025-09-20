@@ -11,7 +11,10 @@ from src.utils.automation import (
     build_conjugation_prompts,
     accuracy_filter,
     group_by_token_lengths,
-    generate_dataset
+    generate_dataset,
+    save_heatmap, 
+    get_logit_diff, 
+    conjugation_metric
 )
 
 

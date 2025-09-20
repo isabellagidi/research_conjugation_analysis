@@ -1,0 +1,30 @@
+bigscience/bloom-1b1
+Kept verb forms for language: spa
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Conjugación del verbo mandonear en presente: Yo mandoneo
+Type: <class 'str'>
+Example prompt input: Conjugación del verbo mandonear en presente: Tú mandoneas
+Type: <class 'str'>
+✅ Saved average attention visualization for FIRST SING to manual_heads_attention_avg_first_sing_spanish_burgundy.html
+📂 Open it in your browser to explore interactively.
+✅ Saved average attention visualization for SECOND SING to manual_heads_attention_avg_second_sing_spanish_burgundy.html
+📂 Open it in your browser to explore interactively.
+: Yo contrat
+Conjugación del verbo abetunar en presente: Yo abet
+number of prompts saved: 99
+Correct: 99 / 500
+Incorrect: 401
+✅ Correct prompts:
+Conjugación del verbo bypasear en presente: Tú bypase
+Conjugación del verbo anglicanizar en presente: Tú anglican
+Conjugación del verbo colorear en presente: Tú colore
+
+❌ Incorrect prompts:
+Conjugación del verbo mandonear en presente: Tú mandone
+Conjugación del verbo contratacar en presente: Tú contrat
+Conjugación del verbo abetunar en presente: Tú abet
+✅ Saved average attention visualization for FIRST SING to manual_heads_attention_avg_first_sing_spanish_red.html
+📂 Open it in your browser to explore interactively.
+✅ Saved average attention visualization for SECOND SING to manual_heads_attention_avg_second_sing_spanish_red.html
+📂 Open it in your browser to explore interactively.
