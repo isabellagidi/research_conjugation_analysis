@@ -1,0 +1,16 @@
+[Sun Sep 28 02:36:05 AM CEST 2025] Task 9 -> por
+Pair: first plural -> second plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language por:  4444
+Filtering pair: first plural vs second plural  (language=por)
+
+after filter_conjugations, number of saved verbs: 2631
+[portuguese] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 243/1300
+number of verbs conjugated correctly: 197/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_portuguese.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt

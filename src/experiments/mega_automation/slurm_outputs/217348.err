@@ -1,0 +1,9 @@
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+usage: mega_automation.py [-h] [--model_name MODEL_NAME]
+                          --lang_iso3 {cat,ces,deu,eng,fin,fra,hbs,hun,ita,mon,pol,por,rus,spa,swe}
+                          --person_a PERSON_A --person_b PERSON_B
+                          [--max_verbs MAX_VERBS]
+                          [--max_prompts_resid MAX_PROMPTS_RESID]
+                          [--max_prompts_head MAX_PROMPTS_HEAD]
+mega_automation.py: error: the following arguments are required: --lang_iso3, --person_a, --person_b
+srun: error: mim1: task 0: Exited with exit code 2

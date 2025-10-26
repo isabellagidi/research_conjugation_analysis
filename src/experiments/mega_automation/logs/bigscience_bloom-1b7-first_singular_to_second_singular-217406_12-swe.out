@@ -1,0 +1,16 @@
+[Sun Sep 28 08:16:30 AM CEST 2025] Task 12 -> swe
+Pair: first singular -> second singular
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language swe:  2526
+Filtering pair: first singular vs second singular  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 303/1300
+number of verbs conjugated correctly: 229/1300
+✅ Saved: attn_head_out_all_pos_2sgto1sg_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_swedish.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt

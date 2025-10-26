@@ -1,0 +1,57 @@
+Loaded pretrained model Qwen/Qwen2-1.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs first plural  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first singular vs first plural: 1300
+✅ Saved: resid_pre_1sg21pl_english_inf2_conj2.png
+✅ Saved: resid_pre_1sg21pl_english_inf3_conj3.png
+✅ Saved: resid_pre_1sg21pl_english_inf1_conj1.png
+✅ Saved: resid_pre_1sg21pl_english_inf4_conj4.png
+✅ Saved: resid_pre_1pl21sg_english_inf2_conj2.png
+✅ Saved: resid_pre_1pl21sg_english_inf3_conj3.png
+✅ Saved: resid_pre_1pl21sg_english_inf1_conj1.png
+✅ Saved: resid_pre_1pl21sg_english_inf4_conj4.png
+↪️  1pl21sg: skipping (7, 7) - no match
+✅ Saved: attn_head_out_all_pos_1pl21sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1pl21sg_english.pt
+✅ Saved: attn_head_out_all_pos_1sg21pl_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg21pl_english.pt
+total number of verbs for language spa:  7209
+Filtering pair: first singular vs first plural  (language=spa)
+
+after filter_conjugations, number of saved verbs: 1719
+[spanish] verbs kept for first singular vs first plural: 1300
+✅ Saved: resid_pre_1sg21pl_spanish_inf3_conj3.png
+✅ Saved: resid_pre_1sg21pl_spanish_inf2_conj2.png
+✅ Saved: resid_pre_1sg21pl_spanish_inf4_conj4.png
+✅ Saved: resid_pre_1sg21pl_spanish_inf2_conj3.png
+✅ Saved: resid_pre_1sg21pl_spanish_inf3_conj4.png
+✅ Saved: resid_pre_1pl21sg_spanish_inf3_conj3.png
+✅ Saved: resid_pre_1pl21sg_spanish_inf2_conj2.png
+✅ Saved: resid_pre_1pl21sg_spanish_inf4_conj4.png
+✅ Saved: resid_pre_1pl21sg_spanish_inf2_conj3.png
+✅ Saved: resid_pre_1pl21sg_spanish_inf3_conj4.png
+✅ Saved: attn_head_out_all_pos_1pl21sg_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1pl21sg_spanish.pt
+✅ Saved: attn_head_out_all_pos_1sg21pl_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg21pl_spanish.pt
+total number of verbs for language por:  4444
+Filtering pair: first singular vs first plural  (language=por)
+
+after filter_conjugations, number of saved verbs: 886
+[portuguese] verbs kept for first singular vs first plural: 886
+✅ Saved: resid_pre_1sg21pl_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_1sg21pl_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_1sg21pl_portuguese_inf4_conj4.png
+✅ Saved: resid_pre_1sg21pl_portuguese_inf2_conj3.png
+✅ Saved: resid_pre_1sg21pl_portuguese_inf3_conj4.png
+✅ Saved: resid_pre_1pl21sg_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_1pl21sg_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_1pl21sg_portuguese_inf2_conj3.png
+✅ Saved: resid_pre_1pl21sg_portuguese_inf1_conj2.png
+✅ Saved: attn_head_out_all_pos_1pl21sg_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1pl21sg_portuguese.pt
+✅ Saved: attn_head_out_all_pos_1sg21pl_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg21pl_portuguese.pt

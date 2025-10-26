@@ -1,0 +1,16 @@
+[Tue Sep 30 06:49:37 AM CEST 2025] Task 2 -> deu
+Pair: first singular -> third singular
+Model: bigscience/bloom-560m
+Loaded pretrained model bigscience/bloom-560m into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language deu:  6610
+Filtering pair: first singular vs third singular  (language=deu)
+
+after filter_conjugations, number of saved verbs: 2812
+[german] verbs kept for first singular vs third singular: 1300
+number of verbs conjugated correctly: 14/1300
+number of verbs conjugated correctly: 84/1300
+✅ Saved: attn_head_out_all_pos_3sgto1sg_german.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sgto1sg_german.pt
+✅ Saved: attn_head_out_all_pos_1sgto3sg_german.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto3sg_german.pt

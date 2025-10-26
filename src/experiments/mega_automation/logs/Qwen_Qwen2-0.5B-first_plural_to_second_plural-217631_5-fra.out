@@ -1,0 +1,16 @@
+[Sun Sep 28 11:37:35 PM CEST 2025] Task 5 -> fra
+Pair: first plural -> second plural
+Model: Qwen/Qwen2-0.5B
+Loaded pretrained model Qwen/Qwen2-0.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language fra:  6646
+Filtering pair: first plural vs second plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 1410
+[french] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 926/1300
+number of verbs conjugated correctly: 987/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_french.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_french.pt

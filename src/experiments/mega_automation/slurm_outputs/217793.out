@@ -1,0 +1,40 @@
+
+=== Building second-order RSA for pair: 1pl-2pl ===
+✅ bigscience/bloom-560m: 8 languages for 1pl-2pl
+✅ bigscience/bloom-1b1: 9 languages for 1pl-2pl
+✅ bigscience/bloom-1b7: 9 languages for 1pl-2pl
+⚠️  bigscience/bloomz-1b1 has <2 languages for 1pl-2pl; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 languages for 1pl-2pl; skipping.
+✅ Qwen/Qwen2-0.5B: 10 languages for 1pl-2pl
+✅ Qwen/Qwen2-1.5B: 11 languages for 1pl-2pl
+📈 saved RSA_model_comparisons/1pl-2pl/model_similarity_1pl-2pl.png
+
+=== Building second-order RSA for pair: 1sg-1pl ===
+✅ bigscience/bloom-560m: 4 languages for 1sg-1pl
+✅ bigscience/bloom-1b1: 9 languages for 1sg-1pl
+✅ bigscience/bloom-1b7: 8 languages for 1sg-1pl
+⚠️  bigscience/bloomz-1b1 has <2 languages for 1sg-1pl; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 languages for 1sg-1pl; skipping.
+✅ Qwen/Qwen2-0.5B: 9 languages for 1sg-1pl
+⚠️  Qwen/Qwen2-1.5B has <2 languages for 1sg-1pl; skipping.
+📈 saved RSA_model_comparisons/1sg-1pl/model_similarity_1sg-1pl.png
+
+=== Building second-order RSA for pair: 1sg-2sg ===
+⚠️  bigscience/bloom-560m has <2 languages for 1sg-2sg; skipping.
+✅ bigscience/bloom-1b1: 10 languages for 1sg-2sg
+✅ bigscience/bloom-1b7: 10 languages for 1sg-2sg
+⚠️  bigscience/bloomz-1b1 has <2 languages for 1sg-2sg; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 languages for 1sg-2sg; skipping.
+✅ Qwen/Qwen2-0.5B: 11 languages for 1sg-2sg
+✅ Qwen/Qwen2-1.5B: 12 languages for 1sg-2sg
+📈 saved RSA_model_comparisons/1sg-2sg/model_similarity_1sg-2sg.png
+
+=== Building second-order RSA for pair: 1sg-3sg ===
+⚠️  bigscience/bloom-560m has <2 languages for 1sg-3sg; skipping.
+✅ bigscience/bloom-1b1: 12 languages for 1sg-3sg
+✅ bigscience/bloom-1b7: 11 languages for 1sg-3sg
+⚠️  bigscience/bloomz-1b1 has <2 languages for 1sg-3sg; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 languages for 1sg-3sg; skipping.
+✅ Qwen/Qwen2-0.5B: 12 languages for 1sg-3sg
+✅ Qwen/Qwen2-1.5B: 12 languages for 1sg-3sg
+📈 saved RSA_model_comparisons/1sg-3sg/model_similarity_1sg-3sg.png

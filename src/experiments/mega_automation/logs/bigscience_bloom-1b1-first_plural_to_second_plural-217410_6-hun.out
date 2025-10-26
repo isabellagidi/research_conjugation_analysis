@@ -1,0 +1,14 @@
+[Sun Sep 28 12:22:35 PM CEST 2025] Task 6 -> hun
+Pair: first plural -> second plural
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language hun:  3433
+Filtering pair: first plural vs second plural  (language=hun)
+
+after filter_conjugations, number of saved verbs: 735
+[hungarian] verbs kept for first plural vs second plural: 735
+number of verbs conjugated correctly: 0/735
+number of verbs conjugated correctly: 0/735
+↪️  Skipping 2plto1pl - zero aligned prompts
+↪️  Skipping 1plto2pl - zero aligned prompts

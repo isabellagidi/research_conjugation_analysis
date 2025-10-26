@@ -1,0 +1,6 @@
+++ date
++ echo '[Mon Sep 29 03:24:54 AM CEST 2025] Task 8 -> mon'
++ echo 'Pair: first singular -> second singular'
++ echo 'Model: Qwen/Qwen2-0.5B'
++ srun python3 -u mega_automation.py --model_name Qwen/Qwen2-0.5B --lang_iso3 mon --person_a 'first singular' --person_b 'second singular'
+WARNING:root:You are not using LayerNorm, so the writing weights can't be centered! Skipping

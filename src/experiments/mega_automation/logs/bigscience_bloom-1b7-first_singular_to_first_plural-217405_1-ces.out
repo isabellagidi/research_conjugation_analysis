@@ -1,0 +1,14 @@
+[Sun Sep 28 04:00:35 AM CEST 2025] Task 1 -> ces
+Pair: first singular -> first plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language ces:  3232
+Filtering pair: first singular vs first plural  (language=ces)
+
+after filter_conjugations, number of saved verbs: 132
+[czech] verbs kept for first singular vs first plural: 132
+number of verbs conjugated correctly: 1/132
+number of verbs conjugated correctly: 0/132
+↪️  Skipping 1plto1sg - zero aligned prompts
+↪️  Skipping 1sgto1pl - zero aligned prompts

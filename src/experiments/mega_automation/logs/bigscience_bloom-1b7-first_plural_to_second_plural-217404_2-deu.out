@@ -1,0 +1,16 @@
+[Sun Sep 28 01:25:38 AM CEST 2025] Task 2 -> deu
+Pair: first plural -> second plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language deu:  6610
+Filtering pair: first plural vs second plural  (language=deu)
+
+after filter_conjugations, number of saved verbs: 1971
+[german] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 340/1300
+number of verbs conjugated correctly: 22/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_german.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_german.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_german.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_german.pt

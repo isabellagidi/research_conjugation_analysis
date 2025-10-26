@@ -1,0 +1,8 @@
+++ date
++ echo '[Tue Sep 30 12:23:40 AM CEST 2025] Task 7 -> ita'
++ echo 'Pair: first plural -> second plural'
++ echo 'Model: bigscience/bloom-560m'
++ srun python3 -u mega_automation.py --model_name bigscience/bloom-560m --lang_iso3 ita --person_a 'first plural' --person_b 'second plural'
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.

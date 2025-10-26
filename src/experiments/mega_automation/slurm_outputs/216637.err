@@ -1,0 +1,6 @@
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+srun: error: atos1: task 0: Exited with exit code 1
+.isabella.gidi/jsalt2025/src/experiments/mega_automation/mega_automation.py", line 172, in <module>
+    lang_name, iso_code = LANG_MAP[iso3]
+                          ~~~~~~~~^^^^^^
+KeyError: 'english'

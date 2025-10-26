@@ -1,0 +1,13 @@
+[Sun Sep 28 05:11:18 AM CEST 2025] Task 8 -> mon
+Pair: first singular -> first plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language mon:  55
+Filtering pair: first singular vs first plural  (language=mon)
+
+after filter_conjugations, number of saved verbs: 0
+[mongolian] verbs kept for first singular vs first plural: 0
+number of verbs conjugated correctly: 0/0
+↪️  Skipping 1plto1sg - zero aligned prompts
+↪️  Skipping 1sgto1pl - zero aligned prompts

@@ -1,0 +1,16 @@
+[Sun Sep 28 06:06:00 AM CEST 2025] Task 0 -> cat
+Pair: first singular -> second singular
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language cat:  2360
+Filtering pair: first singular vs second singular  (language=cat)
+
+after filter_conjugations, number of saved verbs: 1562
+[catalan] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 194/1300
+number of verbs conjugated correctly: 128/1300
+✅ Saved: attn_head_out_all_pos_2sgto1sg_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_catalan.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_catalan.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt

@@ -1,0 +1,16 @@
+[Mon Sep 29 12:34:03 AM CEST 2025] Task 12 -> swe
+Pair: first plural -> second plural
+Model: Qwen/Qwen2-0.5B
+Loaded pretrained model Qwen/Qwen2-0.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language swe:  2526
+Filtering pair: first plural vs second plural  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 463/1300
+number of verbs conjugated correctly: 721/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_swedish.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt

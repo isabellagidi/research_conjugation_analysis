@@ -1,0 +1,57 @@
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs third singular  (language=eng)
+
+after filter_conjugations, number of saved verbs: 15692
+[english] verbs kept for first singular vs third singular: 1300
+✅ Saved: resid_pre_1sg23sg_english_inf3_conj3.png
+✅ Saved: resid_pre_1sg23sg_english_inf4_conj4.png
+✅ Saved: resid_pre_1sg23sg_english_inf5_conj5.png
+↪️  1sg23sg: skipping (6, 6) - no match
+✅ Saved: resid_pre_3sg21sg_english_inf3_conj3.png
+✅ Saved: resid_pre_3sg21sg_english_inf4_conj4.png
+✅ Saved: resid_pre_3sg21sg_english_inf5_conj5.png
+↪️  3sg21sg: skipping (2, 2) - no match
+✅ Saved: attn_head_out_all_pos_3sg21sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sg21sg_english.pt
+✅ Saved: attn_head_out_all_pos_1sg23sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg23sg_english.pt
+total number of verbs for language spa:  7209
+Filtering pair: first singular vs third singular  (language=spa)
+
+after filter_conjugations, number of saved verbs: 4755
+[spanish] verbs kept for first singular vs third singular: 1300
+✅ Saved: resid_pre_1sg23sg_spanish_inf3_conj3.png
+✅ Saved: resid_pre_1sg23sg_spanish_inf4_conj4.png
+✅ Saved: resid_pre_1sg23sg_spanish_inf2_conj2.png
+✅ Saved: resid_pre_1sg23sg_spanish_inf4_conj3.png
+✅ Saved: resid_pre_1sg23sg_spanish_inf3_conj4.png
+✅ Saved: resid_pre_3sg21sg_spanish_inf3_conj3.png
+✅ Saved: resid_pre_3sg21sg_spanish_inf4_conj4.png
+✅ Saved: resid_pre_3sg21sg_spanish_inf4_conj3.png
+✅ Saved: resid_pre_3sg21sg_spanish_inf2_conj2.png
+✅ Saved: resid_pre_3sg21sg_spanish_inf3_conj4.png
+✅ Saved: attn_head_out_all_pos_3sg21sg_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sg21sg_spanish.pt
+✅ Saved: attn_head_out_all_pos_1sg23sg_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg23sg_spanish.pt
+total number of verbs for language por:  4444
+Filtering pair: first singular vs third singular  (language=por)
+
+after filter_conjugations, number of saved verbs: 2953
+[portuguese] verbs kept for first singular vs third singular: 1300
+✅ Saved: resid_pre_1sg23sg_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_1sg23sg_portuguese_inf4_conj4.png
+✅ Saved: resid_pre_1sg23sg_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_1sg23sg_portuguese_inf4_conj3.png
+✅ Saved: resid_pre_1sg23sg_portuguese_inf5_conj4.png
+✅ Saved: resid_pre_3sg21sg_portuguese_inf3_conj3.png
+✅ Saved: resid_pre_3sg21sg_portuguese_inf2_conj2.png
+✅ Saved: resid_pre_3sg21sg_portuguese_inf4_conj4.png
+✅ Saved: resid_pre_3sg21sg_portuguese_inf4_conj3.png
+✅ Saved: resid_pre_3sg21sg_portuguese_inf3_conj2.png
+✅ Saved: attn_head_out_all_pos_3sg21sg_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sg21sg_portuguese.pt
+✅ Saved: attn_head_out_all_pos_1sg23sg_portuguese.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sg23sg_portuguese.pt

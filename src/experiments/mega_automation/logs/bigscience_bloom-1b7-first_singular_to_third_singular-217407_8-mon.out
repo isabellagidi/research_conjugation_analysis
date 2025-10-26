@@ -1,0 +1,11 @@
+[Sun Sep 28 10:21:39 AM CEST 2025] Task 8 -> mon
+Pair: first singular -> third singular
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+number of verbs conjugated correctly: 0/0
+↪️  Skipping 3sgto1sg - zero aligned prompts
+↪️  Skipping 1sgto3sg - zero aligned prompts
+ber of saved verbs: 0
+[mongolian] verbs kept for first singular vs third singular: 0
+number of verbs conjugated correctly: 0/0

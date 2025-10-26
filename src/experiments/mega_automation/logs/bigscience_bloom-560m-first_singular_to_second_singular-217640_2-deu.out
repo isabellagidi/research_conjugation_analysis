@@ -1,0 +1,14 @@
+[Tue Sep 30 04:14:38 AM CEST 2025] Task 2 -> deu
+Pair: first singular -> second singular
+Model: bigscience/bloom-560m
+Loaded pretrained model bigscience/bloom-560m into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language deu:  6610
+Filtering pair: first singular vs second singular  (language=deu)
+
+after filter_conjugations, number of saved verbs: 1144
+[german] verbs kept for first singular vs second singular: 1144
+number of verbs conjugated correctly: 23/1144
+number of verbs conjugated correctly: 0/1144
+↪️  Skipping 2sgto1sg - zero aligned prompts
+↪️  Skipping 1sgto2sg - zero aligned prompts

@@ -1,0 +1,16 @@
+[Sun Sep 28 04:17:49 PM CEST 2025] Task 7 -> ita
+Pair: first singular -> third singular
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language ita:  9927
+Filtering pair: first singular vs third singular  (language=ita)
+
+after filter_conjugations, number of saved verbs: 6479
+[italian] verbs kept for first singular vs third singular: 1300
+number of verbs conjugated correctly: 84/1300
+number of verbs conjugated correctly: 19/1300
+✅ Saved: attn_head_out_all_pos_3sgto1sg_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sgto1sg_italian.pt
+✅ Saved: attn_head_out_all_pos_1sgto3sg_italian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt

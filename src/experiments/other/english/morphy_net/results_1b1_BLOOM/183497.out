@@ -1,0 +1,133 @@
+bigscience/bloom-1b1
+Kept verb forms for language: eng
+
+length of dataset (usually 500 but in this case): 500
+Example prompt input: Conjugation of the verb microtome in present tense: I microtome
+Type: <class 'str'>
+Example prompt input: Conjugation of the verb microtome in present tense: You microtome
+Type: <class 'str'>
+
+🔍 Direct Logit Attribution for Format YO
+Per-prompt DLA values (first 10): [18.181015014648438, 11.78256893157959, 17.441898345947266, 16.869674682617188, 12.114118576049805, 20.466222763061523, 18.71200180053711, 18.34628677368164, 13.812785148620605, 15.139248847961426]
+Average DLA: 16.956
+
+🔍 Direct Logit Attribution for Format TU
+Per-prompt DLA values (first 10): [19.74685287475586, 11.942529678344727, 17.446250915527344, 17.66399574279785, 13.011338233947754, 20.9117488861084, 19.44825553894043, 17.605928421020508, 13.593067169189453, 16.176361083984375]
+Average DLA: 18.028
+
+ 📈 Logit Lens (YO):
+Layer 0: 1.061
+Layer 1: 1.357
+Layer 2: 1.286
+Layer 3: 1.711
+Layer 4: 2.022
+Layer 5: 2.286
+Layer 6: 2.193
+Layer 7: 2.695
+Layer 8: 2.905
+Layer 9: 3.079
+Layer 10: 4.085
+Layer 11: 4.977
+Layer 12: 5.587
+Layer 13: 5.783
+Layer 14: 6.118
+Layer 15: 6.5
+ 📈 Logit Lens (TU):
+Layer 0: 1.147
+Layer 1: 1.372
+Layer 2: 1.327
+Layer 3: 1.647
+Layer 4: 1.890
+Layer 5: 2.164
+Layer 6: 2.137
+Layer 7✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_first_sing_english.png
+ 5.673
+Layer 14: 6.017
+Layer 15: 6.468
+Layer 16: 6.743
+Layer 17: 7.280
+Layer 18: 9.991
+Layer 19: 13.529
+Layer 20: 16.615
+Layer 21: 18.179
+Layer 22: 19.640
+Layer 23: 18.391
+✅ Saved plot to logit_lens_first sing.png
+✅ Saved plot to logit_lens_second sing.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_english0.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_english0.png
+✅ Saved heatmap to logit_lens_heatmap_first_sing_english1.png
+✅ Saved heatmap to logit_lens_heatmap_second_sing_english1.png
+✅ Saved average layerwise gold logit plot to avg_layerwise_gold_logit_second_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.082
+Head H1: 0.244
+Head H2: 0.059
+Head H3: 0.103
+Head H4: 0.064
+Head H5: 0.056
+Head H6: 0.042
+Head H7: 0.072
+Head H8: 0.060
+Head H9: 0.069
+Head H10: 0.070
+Head H11: 0.046
+Head H12: 0.062
+Head H13: 0.053
+Head H14: -0.406
+Head H15: 0.065
+
+🔥 Top 3 most involved heads:
+L23H14 → 1.861
+L23H1 → 1.422
+L22H1 → 1.045
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — FIRST SING:
+Head H0: 0.076
+Head H1: 0.239
+Head H2: 0.057
+Head H3: 0.105
+Head H4: 0.063
+Head H5: 0.050
+Head H6: 0.049
+Head H7: 0.071
+Head H8: 0.060
+Head H9: 0.066
+Head H10: 0.060
+Head H11: 0.037
+Head H12: 0.060
+Head H13: 0.050
+Head H14: -0.396
+Head H15: 0.063
+
+🔥 Top 3 most involved heads:
+L23H14 → 1.980
+L23H1 → 1.415
+L22H1 → 1.013
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_first_sing_english.png
+
+📊 Average Contribution per Head (across prompts and layers) — SECOND SING:
+Head H0: 0.082
+Head H1: 0.244
+Head H2: 0.059
+Head H3: 0.103
+Head H4: 0.064
+Head H5: 0.056
+Head H6: 0.042
+Head H7: 0.072
+Head H8: 0.060
+Head H9: 0.069
+Head H10: 0.070
+Head H11: 0.046
+Head H12: 0.062
+Head H13: 0.053
+Head H14: -0.406
+Head H15: 0.065
+
+🔥 Top 3 most involved heads:
+L23H14 → 1.861
+L23H1 → 1.422
+L22H1 → 1.045
+✅ Saved average headwise attribution heatmap to avg_headwise_gold_logit_second_sing_english.png

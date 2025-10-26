@@ -1,0 +1,16 @@
+[Mon Sep 29 08:06:27 AM CEST 2025] Task 4 -> fin
+Pair: first plural -> second plural
+Model: Qwen/Qwen2-1.5B
+Loaded pretrained model Qwen/Qwen2-1.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language fin:  7222
+Filtering pair: first plural vs second plural  (language=fin)
+
+after filter_conjugations, number of saved verbs: 363
+[finnish] verbs kept for first plural vs second plural: 363
+number of verbs conjugated correctly: 6/363
+number of verbs conjugated correctly: 2/363
+✅ Saved: attn_head_out_all_pos_2plto1pl_finnish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_finnish.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_finnish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_finnish.pt

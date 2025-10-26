@@ -1,0 +1,12 @@
+✅ bigscience/bloom-1b7 / 1sg-2sg: languages = ['catalan', 'english', 'finnish', 'french', 'german', 'hungarian', 'italian', 'portuguese', 'spanish', 'swedish']
+📊 saved RSA_language_bars/bigscience__bloom-1b7/1sg-2sg/english_similarity_bars_bigscience__bloom-1b7_1sg-2sg.png
+English vs others (cosine RSA):
+  english  —      catalan : 0.3232
+  english  —      finnish : 0.0363
+  english  —       french : 0.5913
+  english  —       german : -0.1421
+  english  —    hungarian : 0.0546
+  english  —      italian : 0.4622
+  english  —   portuguese : 0.4933
+  english  —      spanish : 0.5700
+  english  —      swedish : 0.4339

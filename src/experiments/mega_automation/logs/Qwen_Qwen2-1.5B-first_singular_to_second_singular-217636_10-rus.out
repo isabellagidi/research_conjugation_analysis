@@ -1,0 +1,16 @@
+[Mon Sep 29 03:05:47 PM CEST 2025] Task 10 -> rus
+Pair: first singular -> second singular
+Model: Qwen/Qwen2-1.5B
+Loaded pretrained model Qwen/Qwen2-1.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language rus:  5951
+Filtering pair: first singular vs second singular  (language=rus)
+
+after filter_conjugations, number of saved verbs: 3578
+[russian] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 1214/1300
+number of verbs conjugated correctly: 1268/1300
+✅ Saved: attn_head_out_all_pos_2sgto1sg_russian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_russian.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_russian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt

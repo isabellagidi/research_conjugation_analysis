@@ -28,8 +28,11 @@ from utils_mega_automation import (
     save_heatmap,
     resid_pre_direction,
     run_attn_head_out_patching,
-    load_json_data
-   
+    load_json_data,
+    PERSON_TO_TUPLE_INDEX, 
+    PERSON_SHORT_TAG,
+    PERSON_TO_JSON_KEY,
+    load_tl_for_bloom_or_bloomz
 )
 
 # ----------------------------------------------------------------------
@@ -38,11 +41,6 @@ import os
 from transformer_lens import HookedTransformer
 from transformers import AutoTokenizer
 
-# ---------------- driver (unchanged) -----------------
-model_name = "bigscience/bloom-1b1"
-tl_model   = HookedTransformer.from_pretrained(model_name).to("cuda").eval()
-tokenizer  = AutoTokenizer.from_pretrained(model_name)
-tokenizer.pad_token = tokenizer.eos_token
 # -----------------------------------------------------
 
 def activation_patching(
@@ -52,14 +50,22 @@ def activation_patching(
         tl_model,             # <- shared model (no reload)
         tokenizer,            # <- shared tokenizer
         model_name: str,      # just the string for accuracy_filter
+        person_a="first singular",   # must be exactly one of the six
+        person_b="second singular",
         max_verbs: int = 500,
         max_prompts_resid: int = 200,
         max_prompts_head: int = 50,
 ):
-    out_dir = os.path.join("automation_results", lang_name)
+     # --- build results/<org>/<model>/<pair>/<language> ----------------
+    tag_a   = PERSON_SHORT_TAG[person_a]
+    tag_b   = PERSON_SHORT_TAG[person_b]
+    pair_id = f"{tag_a}-{tag_b}"                  # e.g., "1sg-2sg"
+    model_parts = model_name.split("/")           # ["bigscience","bloom-1b1"]
+    out_dir = os.path.join("results", *model_parts, pair_id, lang_name)
     os.makedirs(out_dir, exist_ok=True)
     orig_cwd = os.getcwd()
     os.chdir(out_dir)
+
     try:
         device = tl_model.cfg.device      # uses the shared model
 
@@ -77,6 +83,8 @@ def activation_patching(
             all_verbs  = all_verbs,
             tokenizer  = tokenizer,
             max_verbs  = max_verbs,
+            person_a   = person_a,
+            person_b   = person_b,
         )
 
         # --- accuracy filter on *CPU* ---------------------------------
@@ -91,27 +99,31 @@ def activation_patching(
         texts_1 = [tokenizer.decode(t, skip_special_tokens=True) for t in p1_tok]
         texts_2 = [tokenizer.decode(t, skip_special_tokens=True) for t in p2_tok]
 
-        # --- resid_pre patching ---------------------------------------
-        resid_pre_direction(
-            texts_1[:max_prompts_resid], a1[:max_prompts_resid], e1[:max_prompts_resid],
-            texts_2[:max_prompts_resid], a2[:max_prompts_resid], e2[:max_prompts_resid],
-            "first2second", lang_tag=lang_name,
-            tokenizer=tokenizer, tl_model=tl_model,
-            clean_index=1, corrupt_index=2
-        )
+        # derive tuple indices & short tags from the chosen persons
+        idx_a = PERSON_TO_TUPLE_INDEX[person_a]   # 1..6
+        idx_b = PERSON_TO_TUPLE_INDEX[person_b]
 
-        resid_pre_direction(
-            texts_2[:max_prompts_resid], a2[:max_prompts_resid], e2[:max_prompts_resid],
-            texts_1[:max_prompts_resid], a1[:max_prompts_resid], e1[:max_prompts_resid],
-            "second2first", lang_tag=lang_name,
-            tokenizer=tokenizer, tl_model=tl_model,
-            clean_index=2, corrupt_index=1
-        )
+        # --- resid_pre patching ---------------------------------------
+
+        #resid_pre_direction(
+        #    texts_1[:max_prompts_resid], a1[:max_prompts_resid], e1[:max_prompts_resid],
+        #    texts_2[:max_prompts_resid], a2[:max_prompts_resid], e2[:max_prompts_resid],
+        #    f"{tag_a}2{tag_b}", lang_tag=lang_name,
+        #    tokenizer=tokenizer, tl_model=tl_model,
+        #    clean_index=idx_a, corrupt_index=idx_b )
+
+        #resid_pre_direction(
+        #    texts_2[:max_prompts_resid], a2[:max_prompts_resid], e2[:max_prompts_resid],
+        #    texts_1[:max_prompts_resid], a1[:max_prompts_resid], e1[:max_prompts_resid],
+        #    f"{tag_b}2{tag_a}", lang_tag=lang_name,
+        #    tokenizer=tokenizer, tl_model=tl_model,
+        #    clean_index=idx_b, corrupt_index=idx_a
+        #)
 
         # --- head‑out patching ----------------------------------------
         for label, clean_txts, corrupt_txts, answers in [
-            ("second2first", texts_2[:max_prompts_head], texts_1[:max_prompts_head], a2[:max_prompts_head]),
-            ("first2second", texts_1[:max_prompts_head], texts_2[:max_prompts_head], a1[:max_prompts_head]),
+            (f"{tag_b}to{tag_a}", texts_2[:max_prompts_head], texts_1[:max_prompts_head], a2[:max_prompts_head]),
+            (f"{tag_a}to{tag_b}", texts_1[:max_prompts_head], texts_2[:max_prompts_head], a1[:max_prompts_head]),
         ]:
             run_attn_head_out_patching(
                 tl_model, clean_txts, corrupt_txts, answers,
@@ -148,22 +160,41 @@ MAX_VERBS          = 1300    # per language
 MAX_PROMPTS_RESID  = 150
 MAX_PROMPTS_HEAD   = 50
 
-# ---------------------------------------------------------------
-#for iso3 in [
-#    "cat", "ces", "deu", "eng", "fin", "fra", "hun",
-#    "ita", "mon", "por", "rus", "spa", "swe"
-#]:
-for iso3 in ["spa","por","cat"]:
-    lang_name, iso_code = LANG_MAP[iso3]
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_name", required=True)  # ← make it required
+    parser.add_argument("--lang_iso3", required=True,
+                        choices=["cat","ces","deu","eng","fin","fra","hun","ita","mon","por","rus","spa","swe"])
+    parser.add_argument("--person_a", required=True)
+    parser.add_argument("--person_b", required=True)
+    parser.add_argument("--max_verbs", type=int, default=1300)
+    parser.add_argument("--max_prompts_resid", type=int, default=150)
+    parser.add_argument("--max_prompts_head", type=int, default=50)
+    args = parser.parse_args()
+
+    # Load model/tokenizer only here, from CLI
+    #CHANGED FOR bloomz compatibility!!!!
+    
+    #tl_model   = HookedTransformer.from_pretrained(args.model_name).to("cuda").eval()
+    #tokenizer  = AutoTokenizer.from_pretrained(args.model_name)
+
+    #CHANGED FOR bloomz compatibility!!!!
+    tl_model, tokenizer = load_tl_for_bloom_or_bloomz(args.model_name, device="cuda")
+    
+    tokenizer.pad_token = tokenizer.eos_token
+
+    lang_name, iso_code = LANG_MAP[args.lang_iso3]
+
     activation_patching(
         lang_iso3 = iso_code,
         lang_name = lang_name,
-        tl_model  = tl_model,      # shared
-        tokenizer = tokenizer,     # shared
-        model_name= model_name,    # just the string
-        max_verbs = MAX_VERBS,
-        max_prompts_resid = MAX_PROMPTS_RESID,
-        max_prompts_head  = MAX_PROMPTS_HEAD,
+        tl_model  = tl_model,
+        tokenizer = tokenizer,
+        model_name= args.model_name,   # used for results path, etc.
+        person_a  = args.person_a,
+        person_b  = args.person_b,
+        max_verbs = args.max_verbs,
+        max_prompts_resid = args.max_prompts_resid,
+        max_prompts_head  = args.max_prompts_head,
     )
-
-

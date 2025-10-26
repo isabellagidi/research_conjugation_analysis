@@ -1,0 +1,16 @@
+[Tue Sep 30 05:35:58 AM CEST 2025] Task 10 -> rus
+Pair: first singular -> second singular
+Model: bigscience/bloom-560m
+Loaded pretrained model bigscience/bloom-560m into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language rus:  5951
+Filtering pair: first singular vs second singular  (language=rus)
+
+after filter_conjugations, number of saved verbs: 3509
+[russian] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 257/1300
+number of verbs conjugated correctly: 182/1300
+✅ Saved: attn_head_out_all_pos_2sgto1sg_russian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_russian.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_russian.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt

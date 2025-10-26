@@ -1,0 +1,14 @@
+[Sun Sep 28 04:12:03 AM CEST 2025] Task 4 -> fin
+Pair: first singular -> first plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language fin:  7222
+Filtering pair: first singular vs first plural  (language=fin)
+
+after filter_conjugations, number of saved verbs: 1537
+[finnish] verbs kept for first singular vs first plural: 1300
+number of verbs conjugated correctly: 43/1300
+number of verbs conjugated correctly: 0/1300
+↪️  Skipping 1plto1sg - zero aligned prompts
+↪️  Skipping 1sgto1pl - zero aligned prompts

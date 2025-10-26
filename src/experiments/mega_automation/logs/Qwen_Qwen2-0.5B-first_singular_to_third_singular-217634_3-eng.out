@@ -1,0 +1,16 @@
+[Mon Sep 29 04:38:26 AM CEST 2025] Task 3 -> eng
+Pair: first singular -> third singular
+Model: Qwen/Qwen2-0.5B
+Loaded pretrained model Qwen/Qwen2-0.5B into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs third singular  (language=eng)
+
+after filter_conjugations, number of saved verbs: 15539
+[english] verbs kept for first singular vs third singular: 1300
+number of verbs conjugated correctly: 1078/1300
+number of verbs conjugated correctly: 77/1300
+✅ Saved: attn_head_out_all_pos_3sgto1sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sgto1sg_english.pt
+✅ Saved: attn_head_out_all_pos_1sgto3sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto3sg_english.pt

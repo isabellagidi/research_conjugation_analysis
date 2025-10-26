@@ -1,0 +1,16 @@
+[Sun Sep 28 01:09:22 AM CEST 2025] Task 1 -> ces
+Pair: first plural -> second plural
+Model: bigscience/bloom-1b7
+Loaded pretrained model bigscience/bloom-1b7 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language ces:  3232
+Filtering pair: first plural vs second plural  (language=ces)
+
+after filter_conjugations, number of saved verbs: 2337
+[czech] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 2/1300
+number of verbs conjugated correctly: 116/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_czech.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_czech.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_czech.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_czech.pt

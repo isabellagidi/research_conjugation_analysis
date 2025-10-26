@@ -3,17 +3,53 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from collections import defaultdict
 from typing import List, Dict
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
 import transformer_lens.patching as patching
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
+PERSON_TO_TUPLE_INDEX = {
+    "first singular": 1,
+    "second singular": 2,
+    "third singular": 3,
+    "first plural": 4,
+    "second plural": 5,
+    "third plural": 6,
+}
+
+PERSON_TO_JSON_KEY = {
+    "first singular":  "1st_person_singular",
+    "second singular": "2nd_person_singular",
+    "third singular":  "3rd_person_singular",
+    "first plural":    "1st_person_plural",
+    "second plural":   "2nd_person_plural",
+    "third plural":    "3rd_person_plural",
+}
+
+PERSON_SHORT_TAG = {
+    "first singular":  "1sg",
+    "second singular": "2sg",
+    "third singular":  "3sg",
+    "first plural":    "1pl",
+    "second plural":   "2pl",
+    "third plural":    "3pl",
+}
 
 # Load the JSON dataset
 def load_json_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
+
+## to make plotting labels bigger   
+mpl.rcParams.update({
+    "axes.titlesize": 18,   # heatmap title
+    "axes.labelsize": 14,   # x/y axis labels
+    "xtick.labelsize": 11,  # x tick labels
+    "ytick.labelsize": 11,  # y tick labels
+    "figure.titlesize": 12, # plt.suptitle if you ever use it
+})
 
 def save_heatmap(data, x_labels, y_labels, title, filename, center=0.0, cmap="coolwarm"):
     plt.figure(figsize=(min(len(x_labels) * 0.5, 18), min(len(y_labels) * 0.5, 12)))
@@ -25,8 +61,8 @@ def save_heatmap(data, x_labels, y_labels, title, filename, center=0.0, cmap="co
         cmap=cmap,
         cbar_kws={"label": "Normalized Recovery"}
     )
-    plt.xlabel("Position" if "Position" in title else "Head")
-    plt.ylabel("Layer" if "Layer" in title else "Head")
+    plt.xlabel("Position" if "resid" in title else "Head")
+    plt.ylabel("Layer")
     plt.title(title)
     plt.tight_layout()
     plt.savefig(filename)
@@ -34,58 +70,77 @@ def save_heatmap(data, x_labels, y_labels, title, filename, center=0.0, cmap="co
     plt.close()
 
 
-def filter_conjugations(all_verbs, tokenizer, language):
-    verb_conjugations = []
-    print(f"total number of verbs for language {language}: ", len(all_verbs))
-    
-    print(f"Kept verb forms for language: {language}\n")
+def filter_conjugations(all_verbs, tokenizer, language, person_a, person_b):
+    """
+    Keep verbs where both requested person forms exist and either:
+      (i) each is a single token, or
+      (ii) they share all but the last subtoken.
+    Returns tuples in the same layout:
+      (verb, 1sg, 2sg, 3sg, 1pl, 2pl, 3pl)
+    """
+
+    # resolve which two forms to compare
+    try:
+        key_a = PERSON_TO_JSON_KEY[person_a]
+        key_b = PERSON_TO_JSON_KEY[person_b]
+    except KeyError as e:
+        raise ValueError(
+            f"person_a/person_b must be one of: {list(PERSON_TO_JSON_KEY.keys())}"
+        ) from e
+
+    kept_conjugations = []
 
     # Get the verbs for the specified language
     language_data = all_verbs.get(language, {})
-    
+    print(f"total number of verbs for language {language}: ", len(language_data))
+    print(f"Filtering pair: {person_a} vs {person_b}  (language={language})\n")
+
     if not language_data:
         print(f"No data found for language: {language}")
-        return verb_conjugations
+        return kept_conjugations
 
     # Iterate over each verb in the specified language
-    for verb, forms in language_data.items():
-        # Ensure both first and second person singular forms exist
-        first_sing = forms.get("1st_person_singular", None)
-        second_sing = forms.get("2nd_person_singular", None)
-        third_sing = forms.get("3rd_person_singular", None)
-        first_pl = forms.get("1st_person_plural", None)
+    for lemma, forms in language_data.items():
+        # Pull all six canonical present forms to preserve tuple layout
+        first_sg  = forms.get("1st_person_singular", None)
+        second_sg = forms.get("2nd_person_singular", None)
+        third_sg  = forms.get("3rd_person_singular", None)
+        first_pl  = forms.get("1st_person_plural", None)
         second_pl = forms.get("2nd_person_plural", None)
-        third_pl = forms.get("3rd_person_plural", None)
+        third_pl  = forms.get("3rd_person_plural", None)
 
-        if first_sing is None or second_sing is None:
-            continue  # Skip if either form is missing
+        # Required pair for filtering
+        form_a = forms.get(key_a, None)
+        form_b = forms.get(key_b, None)
+        if form_a is None or form_b is None:
+            continue  # Skip if either requested form is missing
 
-        # Tokenize with an additional space for proper tokenization
-        first_sing_tok = tokenizer.tokenize(" " + first_sing)  # Add a space for correct tokenization
-        second_sing_tok = tokenizer.tokenize(" " + second_sing)  # Add a space for correct tokenization
+        # Tokenize with an additional space for proper tokenization (BPE-friendly)
+        toks_a = tokenizer.tokenize(" " + form_a)
+        toks_b = tokenizer.tokenize(" " + form_b)
 
         # Condition 1: Single tokens for both forms
-        condition_1 = len(first_sing_tok) == 1 and len(second_sing_tok) == 1
+        cond_single = (len(toks_a) == 1 and len(toks_b) == 1)
 
         # Condition 2: The first (n-1) tokens are identical
-        condition_2 = (
-            len(first_sing_tok) == len(second_sing_tok) and
-            first_sing_tok[:-1] == second_sing_tok[:-1]
+        cond_shared_prefix = (
+            len(toks_a) == len(toks_b) and
+            toks_a[:-1] == toks_b[:-1]
         )
 
-        # If either condition is satisfied, append the verb conjugation to the list
-        if condition_1 or condition_2:
-            verb_conjugations.append((verb, first_sing, second_sing, third_sing, first_pl, second_pl, third_pl))
-            #print(f"Infinitive: {verb}")
-            #print(f"  First Person Singular: {first_sing} -> {first_sing_tok}")
-            #print(f"  Second Person Singular: {second_sing} -> {second_sing_tok}")
-            #print("-" * 40)
-        
-    print("after filter_conjugations, number of saved verbs:", len(verb_conjugations))
+        # If either condition is satisfied, keep this verb
+        if cond_single or cond_shared_prefix:
+            kept_conjugations.append(
+                (lemma, first_sg, second_sg, third_sg, first_pl, second_pl, third_pl)
+            )
+            # Debug prints left commented for parity with the original
+            # print(f"Infinitive: {lemma}")
+            # print(f"  {person_a}: {form_a} -> {toks_a}")
+            # print(f"  {person_b}: {form_b} -> {toks_b}")
+            # print("-" * 40)
 
-    return verb_conjugations
-
-
+    print("after filter_conjugations, number of saved verbs:", len(kept_conjugations))
+    return kept_conjugations
 
 from transformers import AutoModelForCausalLM          # <-- import
 import torch
@@ -157,6 +212,11 @@ def accuracy_filter(
                 incorrect_e.append(meta_batch[j])
 
         torch.cuda.empty_cache()
+        # --- summary printout ---------------------------------------------
+    
+    total = len(prompts_trimmed)
+    num_correct = len(correct_p)
+    print(f"number of verbs conjugated correctly: {num_correct}/{total}")
 
     return (
         correct_p,   correct_a,   correct_e,      # <- what you usually keep
@@ -314,7 +374,7 @@ def generate_dataset(person="first singular", language="spanish", conjugations=N
                     "second singular": "Чи",
                     "third singular": "Тэр",
                     "first plural": "Бид",
-                    "second plural": "Tа нар",
+                    "second plural": "Та нар",
                     "third plural": "Тэд",
                 }
             ),
@@ -395,6 +455,8 @@ def prepare_language_dataset(
     all_verbs: list,
     tokenizer,
     max_verbs: int = 200,
+    person_a = "first singular",
+    person_b = "second singular"
 ):
     """
     Build 1st- and 2nd-person prompt datasets for any language supported
@@ -408,13 +470,13 @@ def prepare_language_dataset(
     conj_list               # the filtered MorphyNet tuples
     """
     # 1. keep only verbs of this language --------------------------------
-    conj_list = filter_conjugations(all_verbs, tokenizer, lang_iso3)[:max_verbs]
-    print(f"[{lang_name}] verbs kept:", len(conj_list))
+    conj_list = filter_conjugations(all_verbs, tokenizer, lang_iso3, person_a, person_b)[:max_verbs]
+    print(f"[{lang_name}] verbs kept for {person_a} vs {person_b}: {len(conj_list)}")
 
     # 2. build plain‑text prompts with generate_dataset ------------------
-    first_prompts  = generate_dataset("first singular",  language=lang_name,
+    first_prompts  = generate_dataset(person_a,  language=lang_name,
                                       conjugations=conj_list)
-    second_prompts = generate_dataset("second singular", language=lang_name,
+    second_prompts = generate_dataset(person_b, language=lang_name,
                                       conjugations=conj_list)
 
     # 3. tokenise → (prefix‑tokens, answer_id) ---------------------------
@@ -492,7 +554,9 @@ def resid_pre_direction(clean_texts, clean_ans, clean_entries,
         m = min(len(clean_group), len(corrupted_group))
         clean_prompts     = [ex[0] for ex in clean_group][:m]
         corrupted_prompts = [ex[0] for ex in corrupted_group][:m]
-        answer_ids        = torch.tensor([ex[1] for ex in clean_group][:m], device=device)
+        model_device = tl_model.cfg.device if hasattr(tl_model, "cfg") else next(tl_model.parameters()).device
+        answer_ids   = torch.tensor([ex[1] for ex in clean_group][:m], device=model_device)
+
 
         # run patching
         # tokenise ONCE so both halves share the same pad length
@@ -610,3 +674,32 @@ def run_attn_head_out_patching(
     print(f"✅ Saved tensor: {pt_name}")
     return patch
 # ---------------------------------------------------------------------
+
+
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformer_lens import HookedTransformer
+
+#SO that you can treat BLOOMz as a BLOOM model in transformerLens but still use the fine-tuned weights!!!
+def load_tl_for_bloom_or_bloomz(hf_name: str, device="cuda"):
+    """
+    hf_name: e.g. "bigscience/bloom-1b1" or "bigscience/bloomz-1b1"
+    Returns (tl_model, tokenizer)
+    """
+    if "/bloomz-" in hf_name:
+        # Map bloomz-* -> bloom-* for the TL loader
+        base_name = hf_name.replace("bloomz-", "bloom-")
+        # Load HF *weights/tokenizer* from BLOOMZ
+        hf_model = AutoModelForCausalLM.from_pretrained(hf_name).to(device).eval()
+        tokenizer = AutoTokenizer.from_pretrained(hf_name)
+        tokenizer.pad_token = tokenizer.eos_token
+        # Ask TL to use the BLOOM converter, but with BLOOMZ weights
+        tl_model = HookedTransformer.from_pretrained(
+            base_name,           # tells TL which converter to use
+            hf_model=hf_model,   # actual weights come from BLOOMZ
+        ).to(device).eval()
+    else:
+        # Plain BLOOM (or any officially supported TL name)
+        tl_model = HookedTransformer.from_pretrained(hf_name).to(device).eval()
+        tokenizer = AutoTokenizer.from_pretrained(hf_name)
+        tokenizer.pad_token = tokenizer.eos_token
+    return tl_model, tokenizer

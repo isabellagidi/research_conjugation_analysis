@@ -1,0 +1,40 @@
+++ date
++ echo '[Tue Sep 30 03:50:35 PM CEST 2025] Task 8 -> mon'
++ echo 'Pair: first singular -> first plural'
++ echo 'Model: bigscience/bloomz-1b1'
++ srun python3 -u mega_automation.py --model_name bigscience/bloomz-1b1 --lang_iso3 mon --person_a 'first singular' --person_b 'first plural'
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+Traceback (most recent call last):
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/mega_automation.py", line 183, in <module>
+    tl_model, tokenizer = load_tl_for_bloom_or_bloomz(args.model_name, device="cuda")
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/utils_mega_automation.py", line 696, in load_tl_for_bloom_or_bloomz
+    tl_model = HookedTransformer.from_pretrained(
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        base_name,           # tells TL which converter to use
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        hf_model=hf_model,   # actual weights come from BLOOMZ
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ).to(device).eval()
+    ^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/HookedTransformer.py", line 1382, in from_pretrained
+    model.load_and_process_state_dict(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        state_dict,
+        ^^^^^^^^^^^
+    ...<4 lines>...
+        refactor_factored_attn_matrices=refactor_factored_attn_matrices,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/HookedTransformer.py", line 1613, in load_and_process_state_dict
+    state_dict = self.fold_layer_norm(state_dict)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/HookedTransformer.py", line 1801, in fold_layer_norm
+    state_dict[f"unembed.b_U"] = state_dict[f"unembed.b_U"] + (
+                                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~
+        state_dict[f"unembed.W_U"] * state_dict[f"ln_final.b"][:, None]
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ).sum(dim=-2)
+    ~~~~~~~~~~~~~
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu!
+srun: error: mim1: task 0: Exited with exit code 1

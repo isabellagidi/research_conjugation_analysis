@@ -1,0 +1,14 @@
+✅ Qwen/Qwen2-1.5B / 1sg-3sg: languages = ['catalan', 'czech', 'english', 'finnish', 'french', 'german', 'hungarian', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📊 saved RSA_language_bars/Qwen__Qwen2-1.5B/1sg-3sg/english_similarity_bars_Qwen__Qwen2-1.5B_1sg-3sg.png
+English vs others (cosine RSA):
+  english  —      catalan : 0.5509
+  english  —        czech : 0.4510
+  english  —      finnish : 0.4033
+  english  —       french : 0.8081
+  english  —       german : 0.6969
+  english  —    hungarian : -0.4293
+  english  —      italian : -0.2904
+  english  —   portuguese : 0.6957
+  english  —      russian : -0.1012
+  english  —      spanish : -0.2556
+  english  —      swedish : 0.4403

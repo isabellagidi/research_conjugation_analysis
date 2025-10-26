@@ -1,0 +1,70 @@
+++ date
++ echo '[Sun Sep 28 07:43:32 AM CEST 2025] Task 10 -> rus'
++ echo 'Pair: first singular -> second singular'
++ echo 'Model: bigscience/bloom-1b7'
++ srun python3 -u mega_automation.py --model_name bigscience/bloom-1b7 --lang_iso3 rus --person_a 'first singular' --person_b 'second singular'
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+  0%|          | 0/384 [00:00<?, ?it/s]  0%|          | 1/384 [00:00<02:35,  2.47it/s]  0%|          | 1/384 [00:00<03:53,  1.64it/s]
+Traceback (most recent call last):
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/mega_automation.py", line 182, in <module>
+    activation_patching(
+    ~~~~~~~~~~~~~~~~~~~^
+        lang_iso3 = iso_code,
+        ^^^^^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+        max_prompts_head  = args.max_prompts_head,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/mega_automation.py", line 127, in activation_patching
+    run_attn_head_out_patching(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        tl_model, clean_txts, corrupt_txts, answers,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        direction_label=label, lang_tag=lang_name, device=device
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/utils_mega_automation.py", line 654, in run_attn_head_out_patching
+    patch = patching.get_act_patch_attn_head_out_all_pos(
+        tl_model,
+    ...<2 lines>...
+        patching_metric=conjugation_metric,
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/patching.py", line 218, in generic_activation_patch
+    patched_logits = model.run_with_hooks(
+        corrupted_tokens, fwd_hooks=[(current_activation_name, current_hook)]
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/hook_points.py", line 447, in run_with_hooks
+    return hooked_model.forward(*model_args, **model_kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/HookedTransformer.py", line 620, in forward
+    residual = block(
+        residual,
+    ...<4 lines>...
+        attention_mask=attention_mask,
+    )  # [batch, pos, d_model]
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/components/transformer_block.py", line 186, in forward
+    mlp_out = self.apply_mlp(normalized_resid_mid)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/components/transformer_block.py", line 210, in apply_mlp
+    mlp_out = self.mlp(normalized_resid)  # [batch, pos, d_model]
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/components/mlps/mlp.py", line 48, in forward
+    post_act = self.hook_post(self.act_fn(pre_act))  # [batch, pos, d_mlp]
+                              ~~~~~~~~~~~^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/utils.py", line 186, in gelu_fast
+    return 0.5 * input * (1.0 + torch.tanh(input * 0.7978845608 * (1.0 + 0.044715 * input * input)))
+           ~~~~^~~~~~~
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 58.00 MiB. GPU 0 has a total capacity of 79.25 GiB of which 15.88 MiB is free. Including non-PyTorch memory, this process has 79.23 GiB memory in use. Of the allocated memory 78.71 GiB is allocated by PyTorch, and 26.71 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+srun: error: selexini-1: task 0: Exited with exit code 1
