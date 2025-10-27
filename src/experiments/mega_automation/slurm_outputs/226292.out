@@ -1,0 +1,28 @@
+[1sgto2sg | catalan] dot=0.027439 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto2sg | spanish] dot=0.017875 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto2sg | english] dot=0.009896 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto2sg | french] dot=0.024669 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto2sg | portuguese] dot=0.014152 (is=(24, 16) other=(24, 16) used=(24, 16))
+⚠️ Missing other-language tensor (1sgto2sg, russian): results/bigscience/bloom-1b7/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Saved bar chart: is/bloom-1b7/bar graphs/bar_1sgto2sg.png
+[2sgto1sg | catalan] dot=0.051997 (is=(24, 16) other=(24, 16) used=(24, 16))
+[2sgto1sg | spanish] dot=0.034007 (is=(24, 16) other=(24, 16) used=(24, 16))
+[2sgto1sg | english] dot=0.007324 (is=(24, 16) other=(24, 16) used=(24, 16))
+[2sgto1sg | french] dot=0.040952 (is=(24, 16) other=(24, 16) used=(24, 16))
+[2sgto1sg | portuguese] dot=0.022915 (is=(24, 16) other=(24, 16) used=(24, 16))
+⚠️ Missing other-language tensor (2sgto1sg, russian): results/bigscience/bloom-1b7/1sg-2sg/russian/attn_head_out_all_pos_patch_results_2sgto1sg_russian.pt
+✅ Saved bar chart: is/bloom-1b7/bar graphs/bar_2sgto1sg.png
+[1sgto3sg | catalan] dot=-0.217955 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto3sg | spanish] dot=-0.112388 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto3sg | english] dot=-0.144671 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto3sg | french] dot=-0.893957 (is=(24, 16) other=(24, 16) used=(24, 16))
+[1sgto3sg | portuguese] dot=-0.551500 (is=(24, 16) other=(24, 16) used=(24, 16))
+⚠️ Missing other-language tensor (1sgto3sg, russian): results/bigscience/bloom-1b7/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Saved bar chart: is/bloom-1b7/bar graphs/bar_1sgto3sg.png
+[3sgto1sg | catalan] dot=-0.024201 (is=(24, 16) other=(24, 16) used=(24, 16))
+[3sgto1sg | spanish] dot=-0.024715 (is=(24, 16) other=(24, 16) used=(24, 16))
+[3sgto1sg | english] dot=-0.007088 (is=(24, 16) other=(24, 16) used=(24, 16))
+[3sgto1sg | french] dot=-0.023246 (is=(24, 16) other=(24, 16) used=(24, 16))
+[3sgto1sg | portuguese] dot=-0.010232 (is=(24, 16) other=(24, 16) used=(24, 16))
+⚠️ Missing other-language tensor (3sgto1sg, russian): results/bigscience/bloom-1b7/1sg-3sg/russian/attn_head_out_all_pos_patch_results_3sgto1sg_russian.pt
+✅ Saved bar chart: is/bloom-1b7/bar graphs/bar_3sgto1sg.png

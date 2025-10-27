@@ -1,0 +1,80 @@
+
+=== Second-order RSA (reduced langs) for pair: 1pl-2pl | dir: 1plto2pl ===
+✅ bigscience/bloom-560m: 7 reduced languages for 1pl-2pl [1plto2pl]: ['catalan', 'english', 'french', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1pl-2pl [1plto2pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1pl-2pl [1plto2pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1pl-2pl [1plto2pl]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1pl-2pl [1plto2pl]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1pl-2pl [1plto2pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1pl-2pl [1plto2pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1pl-2pl/1plto2pl/model_similarity_1pl-2pl_1plto2pl.png
+
+=== Second-order RSA (reduced langs) for pair: 1pl-2pl | dir: 2plto1pl ===
+✅ bigscience/bloom-560m: 7 reduced languages for 1pl-2pl [2plto1pl]: ['catalan', 'english', 'french', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1pl-2pl [2plto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1pl-2pl [2plto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1pl-2pl [2plto1pl]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1pl-2pl [2plto1pl]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1pl-2pl [2plto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1pl-2pl [2plto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1pl-2pl/2plto1pl/model_similarity_1pl-2pl_2plto1pl.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-1pl | dir: 1sgto1pl ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-1pl [1sgto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-1pl [1sgto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-1pl [1sgto1pl]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-1pl [1sgto1pl]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-1pl [1sgto1pl]; skipping.
+✅ Qwen/Qwen2-0.5B: 7 reduced languages for 1sg-1pl [1sgto1pl]: ['english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+⚠️  Qwen/Qwen2-1.5B has <2 reduced languages for 1sg-1pl [1sgto1pl]; skipping.
+📈 saved RSA_model_comparisons_reduced_double/1sg-1pl/1sgto1pl/model_similarity_1sg-1pl_1sgto1pl.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-1pl | dir: 1plto1sg ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-1pl [1plto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-1pl [1plto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-1pl [1plto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-1pl [1plto1sg]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-1pl [1plto1sg]; skipping.
+✅ Qwen/Qwen2-0.5B: 7 reduced languages for 1sg-1pl [1plto1sg]: ['english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+⚠️  Qwen/Qwen2-1.5B has <2 reduced languages for 1sg-1pl [1plto1sg]; skipping.
+📈 saved RSA_model_comparisons_reduced_double/1sg-1pl/1plto1sg/model_similarity_1sg-1pl_1plto1sg.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-2sg | dir: 1sgto2sg ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-2sg [1sgto2sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-2sg [1sgto2sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-2sg [1sgto2sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-2sg [1sgto2sg]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-2sg [1sgto2sg]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1sg-2sg [1sgto2sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1sg-2sg [1sgto2sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1sg-2sg/1sgto2sg/model_similarity_1sg-2sg_1sgto2sg.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-2sg | dir: 2sgto1sg ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-2sg [2sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-2sg [2sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-2sg [2sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-2sg [2sgto1sg]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-2sg [2sgto1sg]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1sg-2sg [2sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1sg-2sg [2sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1sg-2sg/2sgto1sg/model_similarity_1sg-2sg_2sgto1sg.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-3sg | dir: 1sgto3sg ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-3sg [1sgto3sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-3sg [1sgto3sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-3sg [1sgto3sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-3sg [1sgto3sg]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-3sg [1sgto3sg]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1sg-3sg [1sgto3sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1sg-3sg [1sgto3sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1sg-3sg/1sgto3sg/model_similarity_1sg-3sg_1sgto3sg.png
+
+=== Second-order RSA (reduced langs) for pair: 1sg-3sg | dir: 3sgto1sg ===
+✅ bigscience/bloom-560m: 8 reduced languages for 1sg-3sg [3sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b1: 8 reduced languages for 1sg-3sg [3sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ bigscience/bloom-1b7: 7 reduced languages for 1sg-3sg [3sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'spanish', 'swedish']
+⚠️  bigscience/bloomz-1b1 has <2 reduced languages for 1sg-3sg [3sgto1sg]; skipping.
+⚠️  bigscience/bloomz-1b7 has <2 reduced languages for 1sg-3sg [3sgto1sg]; skipping.
+✅ Qwen/Qwen2-0.5B: 8 reduced languages for 1sg-3sg [3sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+✅ Qwen/Qwen2-1.5B: 8 reduced languages for 1sg-3sg [3sgto1sg]: ['catalan', 'english', 'french', 'italian', 'portuguese', 'russian', 'spanish', 'swedish']
+📈 saved RSA_model_comparisons_reduced_double/1sg-3sg/3sgto1sg/model_similarity_1sg-3sg_3sgto1sg.png

@@ -1,0 +1,4 @@
+usage: run_is_patching.py [-h] --model_name MODEL_NAME [--device {cuda,cpu}]
+                          [--out_dir OUT_DIR]
+run_is_patching.py: error: the following arguments are required: --model_name
+srun: error: diflives1: task 0: Exited with exit code 2

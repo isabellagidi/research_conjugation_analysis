@@ -1,0 +1,253 @@
+
+================= MODEL: Bloom-1b1 (bigscience/bloom-1b1) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1pl-2pl/rsa_matrices_1plto2pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1pl-2pl/rsa_cosine_1plto2pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-1pl/rsa_matrices_1sgto1pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-1pl/rsa_cosine_1sgto1pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-3sg/rsa_matrices_1sgto3sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b1/1sg-3sg/rsa_cosine_1sgto3sg.png
+
+================= MODEL: Bloom-1b7 (bigscience/bloom-1b7) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1pl-2pl/rsa_matrices_1plto2pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1pl-2pl/rsa_cosine_1plto2pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-1pl/rsa_matrices_1sgto1pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-1pl/rsa_cosine_1sgto1pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-1b7/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-3sg/rsa_matrices_1sgto3sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-1b7/1sg-3sg/rsa_cosine_1sgto3sg.png
+
+================= MODEL: Bloomz-1b1 (bigscience/bloomz-1b1) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+↪️  Not enough languages for RSA: model=Bloomz-1b1, pair=1pl-2pl
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+↪️  Not enough languages for RSA: model=Bloomz-1b1, pair=1sg-1pl
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+↪️  Not enough languages for RSA: model=Bloomz-1b1, pair=1sg-2sg
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloomz-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+↪️  Not enough languages for RSA: model=Bloomz-1b1, pair=1sg-3sg
+
+================= MODEL: Bloom-560m (bigscience/bloom-560m) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1pl-2pl/rsa_matrices_1plto2pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1pl-2pl/rsa_cosine_1plto2pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-1pl/rsa_matrices_1sgto1pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-1pl/rsa_cosine_1sgto1pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/bigscience/bloom-560m/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-3sg/rsa_matrices_1sgto3sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/bigscience__bloom-560m/1sg-3sg/rsa_cosine_1sgto3sg.png
+
+================= MODEL: Qwen2-0.5B (Qwen/Qwen2-0.5B) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1pl-2pl/rsa_matrices_1plto2pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1pl-2pl/rsa_cosine_1plto2pl.png
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-1pl/rsa_matrices_1sgto1pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-1pl/rsa_cosine_1sgto1pl.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-0.5B/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-3sg/rsa_matrices_1sgto3sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-0.5B/1sg-3sg/rsa_cosine_1sgto3sg.png
+
+================= MODEL: Qwen2-1.5B (Qwen/Qwen2-1.5B) =================
+Looking under: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/russian/attn_head_out_all_pos_patch_results_1plto2pl_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1pl-2pl/rsa_matrices_1plto2pl.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1pl-2pl/rsa_cosine_1plto2pl.png
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/russian/attn_head_out_all_pos_patch_results_1sgto1pl_russian.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+↪️  Not enough languages for RSA: model=Qwen2-1.5B, pair=1sg-1pl
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/russian/attn_head_out_all_pos_patch_results_1sgto2sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded catalan from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt
+✅ Loaded english from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+✅ Loaded russian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/russian/attn_head_out_all_pos_patch_results_1sgto3sg_russian.pt
+✅ Loaded french from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+✅ Loaded portuguese from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+✅ Loaded spanish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+✅ Loaded swedish from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+✅ Loaded italian from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/results/Qwen/Qwen2-1.5B/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1sg-3sg/rsa_matrices_1sgto3sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation/RSA_plots_reduced/Qwen__Qwen2-1.5B/1sg-3sg/rsa_cosine_1sgto3sg.png
