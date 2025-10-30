@@ -1,13 +1,3 @@
-# THIS IS THE TITLE :D
+# Conjugation Analysis
 
-this is an amazing github repo, my first one! :)
-
-## This is the first subsection
-
-I can also add quotations like this:
-
-> life is good! somebody told me once
-
-## The last subsection
-
-This is the end!
+This is my research project done at JSALT2025. Final manuscript in progress. Extended abstract and research poster found on LinkedIn.
