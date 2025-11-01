@@ -1,0 +1,1 @@
+This folder implements the new logit difference metric (probability change of gold token).

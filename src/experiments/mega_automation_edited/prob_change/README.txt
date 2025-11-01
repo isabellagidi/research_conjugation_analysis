@@ -1,0 +1,1 @@
+changed this to bin the clean prompts by probability of gold token

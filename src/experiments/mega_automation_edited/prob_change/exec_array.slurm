@@ -7,8 +7,8 @@
 #SBATCH --mem-per-cpu=4G
 #SBATCH --gres=gpu:a100-80:1
 #SBATCH --time=30:00:00
-#SBATCH --array=0-12%4
-#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation
+#SBATCH --array=0-7%4
+#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/prob_change
 # prevent duplicate SLURM-captured files since we manage our own logs:
 #SBATCH --output=/dev/null
 #SBATCH --error=/dev/null
@@ -19,7 +19,7 @@ conda activate jsalt2025
 set -euo pipefail
 set -x
 
-BASEDIR="/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation"
+BASEDIR="/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/prob_change" # EDIT HERE (and above) (and below!!)
 cd "$BASEDIR"
 mkdir -p "$BASEDIR/logs"
 
@@ -28,10 +28,10 @@ export PYTHONUNBUFFERED=1
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 # ---- single knob to change the model ----
-MODEL_NAME="bigscience/bloomz-1b1"   # <-- change this ONE line to switch models (NOTE: if switch from BLOOMz need to change function)
+MODEL_NAME="bigscience/bloom-1b1"   # <-- change this ONE line to switch models (NOTE: if switch from BLOOMz need to change function)
 
 # Map array index to language
-LANGS=(cat ces deu eng fin fra hun ita mon por rus spa swe)
+LANGS=(cat eng fra ita por rus spa swe)
 LANG_ISO3=${LANGS[$SLURM_ARRAY_TASK_ID]}
 
 # ---- model-first per-task logs (separate .out / .err) ----
@@ -48,7 +48,7 @@ echo "[$(date)] Task ${SLURM_ARRAY_TASK_ID} -> ${LANG_ISO3}"
 echo "Pair: ${PERSON_A} -> ${PERSON_B}"
 echo "Model: ${MODEL_NAME}"
 
-srun python3 -u mega_automation.py \
+srun python3 -u mega_automation_prob_change.py \ 
   --model_name "${MODEL_NAME}" \
   --lang_iso3 "${LANG_ISO3}" \
   --person_a "${PERSON_A}" \

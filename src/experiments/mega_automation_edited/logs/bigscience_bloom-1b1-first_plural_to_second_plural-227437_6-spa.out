@@ -1,0 +1,16 @@
+[Sat Nov  1 12:45:33 AM CET 2025] Task 6 -> spa
+Pair: first plural -> second plural
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language spa:  7209
+Filtering pair: first plural vs second plural  (language=spa)
+
+after filter_conjugations, number of saved verbs: 5913
+[spanish] verbs kept for first plural vs second plural: 1300
+number of verbs conjugated correctly: 277/1300
+number of verbs conjugated correctly: 265/1300
+✅ Saved: attn_head_out_all_pos_2plto1pl_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2plto1pl_spanish.pt
+✅ Saved: attn_head_out_all_pos_1plto2pl_spanish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
