@@ -1,0 +1,12 @@
+[Fri Nov  7 12:28:30 AM CET 2025] Task 0 -> eng
+PHASE: select
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs second singular  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 183/1300
+number of verbs conjugated correctly: 185/1300
+✅ Saved 50 selected examples to /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-eng.json

@@ -1,0 +1,10 @@
+[Thu Nov  6 05:42:21 AM CET 2025] Task 1 -> fra
+PHASE: patch
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+✅ Saved: attn_head_out_all_pos_2sgto1sg_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_french.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Patching finished.

@@ -1,0 +1,51 @@
+++ date
++ echo '[Thu Nov  6 04:55:44 AM CET 2025] Task 3 -> ita'
++ echo 'PHASE: patch'
++ echo 'Pair: first singular -> second singular'
++ echo 'Model: mistralai/Mistral-7B-v0.1'
++ DATASET_JSON=/home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_present_conjugations.json
++ OUT_BASE=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results
++ SEL_DIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections
++ PATCH_DIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
++ mkdir -p /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
++ SEL_PATH=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita.json
++ OUT_DIR_LANG=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita
++ [[ patch == \s\e\l\e\c\t ]]
++ [[ patch == \p\a\t\c\h ]]
++ for _try in {1..60}
++ [[ -s /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita.json ]]
++ break
++ srun python3 -u patch_selected.py --tl_model_name mistralai/Mistral-7B-v0.1 --selections_path /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita.json --out_dir /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita --chunk_size 4 --max_seq_len 64
+/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/utils/hub.py:111: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  2.26it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  3.39it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  3.15it/s]
+WARNING:root:With reduced precision, it is advised to use `from_pretrained_no_processing` instead of `from_pretrained`.
+WARNING:root:You are not using LayerNorm, so the writing weights can't be centered! Skipping
+  0%|          | 0/1024 [00:00<?, ?it/s]  0%|          | 0/1024 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/patch_selected.py", line 47, in <module>
+    main()
+    ~~~~^^
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/patch_selected.py", line 32, in main
+    run_attn_head_out_patching(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        tl_model, texts_2, texts_1, a2,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        direction_label=f"{tag_b}to{tag_a}", lang_tag=lang_name, device=device,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        chunk_size=args.chunk_size, max_seq_len=args.max_seq_len
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/utils_mega_automation.py", line 671, in run_attn_head_out_patching
+    patch_chunk = patching.get_act_patch_attn_head_out_all_pos(
+        tl_model, corrupted_tokens, clean_cache, patching_metric=conjugation_metric
+    )
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/patching.py", line 214, in generic_activation_patch
+    clean_activation=clean_cache[current_activation_name],
+                     ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformer_lens/ActivationCache.py", line 170, in __getitem__
+    return self.cache_dict[utils.get_act_name(key)]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'blocks.0.attn.hook_z'
+srun: error: selexini-1: task 0: Exited with exit code 1

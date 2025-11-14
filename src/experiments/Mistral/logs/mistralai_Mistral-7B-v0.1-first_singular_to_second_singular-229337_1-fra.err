@@ -1,0 +1,22 @@
+++ date
++ echo '[Thu Nov  6 04:42:23 AM CET 2025] Task 1 -> fra'
++ echo 'PHASE: select'
++ echo 'Pair: first singular -> second singular'
++ echo 'Model: mistralai/Mistral-7B-v0.1'
++ DATASET_JSON=/home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_present_conjugations.json
++ OUT_BASE=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results
++ SEL_DIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections
++ PATCH_DIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
++ mkdir -p /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
++ SEL_PATH=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra.json
++ OUT_DIR_LANG=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra
++ [[ select == \s\e\l\e\c\t ]]
+++ python -
++ srun python3 -u select_examples.py --model_name mistralai/Mistral-7B-v0.1 --lang_iso3 fra --lang_name french --person_a 'first singular' --person_b 'second singular' --max_verbs 1300 --keep_k 50 --dataset_path /home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_present_conjugations.json --out_path /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra.json
+/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/lib/python3.13/site-packages/transformers/utils/hub.py:111: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.86it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.98it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  2.73it/s]
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:26<00:26, 26.71s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:59<00:00, 30.01s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:59<00:00, 29.51s/it]
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:47<00:47, 47.77s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:15<00:00, 35.86s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:15<00:00, 37.65s/it]
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.

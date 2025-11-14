@@ -1,0 +1,21 @@
+
+================= MODEL: mistralai/Mistral-7B-v0.1 =================
+PATCHES_ROOT: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
+✅ Loaded german (1sgto2sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-deu/attn_head_out_all_pos_patch_results_1sgto2sg_german.pt
+⚠️ Missing dir for eng (english): first_singular_to_second_singular
+✅ Loaded french (1sgto2sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+✅ Loaded portuguese (1sgto2sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-por/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+✅ Loaded spanish (1sgto2sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-spa/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+⚠️ Missing dir for swe (swedish): first_singular_to_second_singular
+✅ Loaded italian (1sgto2sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/RSA_plots_reduced_double/mistralai_Mistral-7B-v0.1/1sg-2sg/rsa_matrices_1sgto2sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/RSA_plots_reduced_double/mistralai_Mistral-7B-v0.1/1sg-2sg/rsa_cosine_1sgto2sg.png
+✅ Loaded german (2sgto1sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-deu/attn_head_out_all_pos_patch_results_2sgto1sg_german.pt
+⚠️ Missing dir for eng (english): first_singular_to_second_singular
+✅ Loaded french (2sgto1sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra/attn_head_out_all_pos_patch_results_2sgto1sg_french.pt
+✅ Loaded portuguese (2sgto1sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-por/attn_head_out_all_pos_patch_results_2sgto1sg_portuguese.pt
+✅ Loaded spanish (2sgto1sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-spa/attn_head_out_all_pos_patch_results_2sgto1sg_spanish.pt
+⚠️ Missing dir for swe (swedish): first_singular_to_second_singular
+✅ Loaded italian (2sgto1sg) from /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-ita/attn_head_out_all_pos_patch_results_2sgto1sg_italian.pt
+💾 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/RSA_plots_reduced_double/mistralai_Mistral-7B-v0.1/1sg-2sg/rsa_matrices_2sgto1sg.pt
+📈 Saved /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/RSA_plots_reduced_double/mistralai_Mistral-7B-v0.1/1sg-2sg/rsa_cosine_2sgto1sg.png

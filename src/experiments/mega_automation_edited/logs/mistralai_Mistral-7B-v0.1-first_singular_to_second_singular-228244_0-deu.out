@@ -1,0 +1,12 @@
+[Wed Nov  5 06:11:02 AM CET 2025] Task 0 -> deu
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language deu:  6610
+Filtering pair: first singular vs second singular  (language=deu)
+
+after filter_conjugations, number of saved verbs: 478
+[german] verbs kept for first singular vs second singular: 478
+number of verbs conjugated correctly: 108/478
+number of verbs conjugated correctly: 97/478

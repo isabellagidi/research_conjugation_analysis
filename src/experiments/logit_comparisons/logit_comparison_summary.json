@@ -1,0 +1,1234 @@
+[
+  {
+    "pair": "1pl-2pl",
+    "language": "catalan",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_1plto2pl_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.987938439902068,
+    "pearson": 0.987714072431651,
+    "mse": 6.26404062131769e-06
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "catalan",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_2plto1pl_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/catalan/attn_head_out_all_pos_patch_results_2plto1pl_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9693800633358488,
+    "pearson": 0.9681120735873292,
+    "mse": 1.9890627299901098e-05
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "english",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_1plto2pl_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9892745202514007,
+    "pearson": 0.98950653004698,
+    "mse": 1.1630251719907392e-05
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "english",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_2plto1pl_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/english/attn_head_out_all_pos_patch_results_2plto1pl_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9923172964461616,
+    "pearson": 0.9926432704679904,
+    "mse": 9.277358003600966e-06
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "french",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_1plto2pl_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9877447714489623,
+    "pearson": 0.9871135866009729,
+    "mse": 1.0388259397586808e-05
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "french",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_2plto1pl_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/french/attn_head_out_all_pos_patch_results_2plto1pl_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9964434245173718,
+    "pearson": 0.9962942237440991,
+    "mse": 1.2018572306260467e-05
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "italian",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9683208094316964,
+    "pearson": 0.9678664160837726,
+    "mse": 0.006510784849524498
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "italian",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_2plto1pl_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/italian/attn_head_out_all_pos_patch_results_2plto1pl_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9311154237494549,
+    "pearson": 0.9312322294922238,
+    "mse": 0.00010099497012561187
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "portuguese",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9921880917599957,
+    "pearson": 0.992365876418374,
+    "mse": 0.0006267200806178153
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "portuguese",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_2plto1pl_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/portuguese/attn_head_out_all_pos_patch_results_2plto1pl_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9901746486625408,
+    "pearson": 0.9901434695770259,
+    "mse": 2.2427573640015908e-05
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "spanish",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9924741295178259,
+    "pearson": 0.9928961503541287,
+    "mse": 0.0038157349918037653
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "spanish",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_2plto1pl_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/spanish/attn_head_out_all_pos_patch_results_2plto1pl_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9955843344075348,
+    "pearson": 0.9956613338356284,
+    "mse": 9.103448064706754e-06
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "swedish",
+    "direction": "patch_results_1plto2pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9770778858815429,
+    "pearson": 0.9769482186064864,
+    "mse": 0.00045825145207345486
+  },
+  {
+    "pair": "1pl-2pl",
+    "language": "swedish",
+    "direction": "patch_results_2plto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_2plto1pl_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1pl-2pl/swedish/attn_head_out_all_pos_patch_results_2plto1pl_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9721490293659728,
+    "pearson": 0.9723865150408485,
+    "mse": 0.00047638671821914613
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "catalan",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1plto1sg_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1plto1sg_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9933755924244212,
+    "pearson": 0.9930868845768256,
+    "mse": 2.7292037430015625e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "catalan",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/catalan/attn_head_out_all_pos_patch_results_1sgto1pl_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.8377945296179953,
+    "pearson": 0.841172242527976,
+    "mse": 0.0002453392662573606
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "english",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1plto1sg_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1plto1sg_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9952497590338005,
+    "pearson": 0.9955468966913701,
+    "mse": 5.040240012021968e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "english",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/english/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9942176353662899,
+    "pearson": 0.9944117055058594,
+    "mse": 3.42033599736169e-05
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "french",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1plto1sg_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1plto1sg_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9829387379899016,
+    "pearson": 0.9818515639642866,
+    "mse": 9.220068022841588e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "french",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/french/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9661819136605052,
+    "pearson": 0.9651117212934451,
+    "mse": 1.13703754323069e-05
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "italian",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1plto1sg_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1plto1sg_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9948518337130261,
+    "pearson": 0.9942425600000018,
+    "mse": 3.4322381452511763e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "italian",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/italian/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": -0.9137586777678433,
+    "pearson": -0.9234577774581706,
+    "mse": 0.03267333284020424
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "portuguese",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1plto1sg_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1plto1sg_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9934157768266565,
+    "pearson": 0.9931707876308294,
+    "mse": 5.79049947191379e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "portuguese",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/portuguese/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9817380825961056,
+    "pearson": 0.9804671361452579,
+    "mse": 9.076612514036242e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "spanish",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1plto1sg_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1plto1sg_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9969158194748226,
+    "pearson": 0.9970145581696002,
+    "mse": 7.538228601333685e-06
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "spanish",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/spanish/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.963624167960124,
+    "pearson": 0.9626415691195547,
+    "mse": 1.2084038644388784e-05
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "swedish",
+    "direction": "patch_results_1plto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1plto1sg_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1plto1sg_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9805428287188754,
+    "pearson": 0.9813694203737715,
+    "mse": 0.00418501952663064
+  },
+  {
+    "pair": "1sg-1pl",
+    "language": "swedish",
+    "direction": "patch_results_1sgto1pl",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-1pl/swedish/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9713499559903154,
+    "pearson": 0.9715743761056427,
+    "mse": 0.002694376977160573
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "catalan",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_1sgto2sg_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9877064454093443,
+    "pearson": 0.9877008117334405,
+    "mse": 9.129828686127439e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "catalan",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_2sgto1sg_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/catalan/attn_head_out_all_pos_patch_results_2sgto1sg_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9897004562361071,
+    "pearson": 0.9898091048214271,
+    "mse": 6.48230270599015e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "english",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9939177441086532,
+    "pearson": 0.9940312124319796,
+    "mse": 7.516082405345514e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "english",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_2sgto1sg_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/english/attn_head_out_all_pos_patch_results_2sgto1sg_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9954430854676861,
+    "pearson": 0.9955646662272194,
+    "mse": 1.1693788110278547e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "french",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9629626672627982,
+    "pearson": 0.9629614155905083,
+    "mse": 2.8801325242966413e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "french",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_2sgto1sg_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/french/attn_head_out_all_pos_patch_results_2sgto1sg_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9777848176021208,
+    "pearson": 0.9773643984077769,
+    "mse": 3.847370680887252e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "italian",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9308710970024515,
+    "pearson": 0.9360691224521147,
+    "mse": 4.9693480832502246e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "italian",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_2sgto1sg_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/italian/attn_head_out_all_pos_patch_results_2sgto1sg_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9772058678270973,
+    "pearson": 0.9768719223524958,
+    "mse": 3.7524081562878564e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "portuguese",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.919352664502247,
+    "pearson": 0.9201454057095357,
+    "mse": 3.597527393139899e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "portuguese",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_2sgto1sg_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/portuguese/attn_head_out_all_pos_patch_results_2sgto1sg_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.988518258548692,
+    "pearson": 0.9879079158988218,
+    "mse": 3.507620931486599e-06
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "spanish",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9692683291786375,
+    "pearson": 0.9683725679785053,
+    "mse": 1.990402779483702e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "spanish",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_2sgto1sg_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/spanish/attn_head_out_all_pos_patch_results_2sgto1sg_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9885187319527886,
+    "pearson": 0.9887510356208798,
+    "mse": 1.2670368050748948e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "swedish",
+    "direction": "patch_results_1sgto2sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9668482648020251,
+    "pearson": 0.9676526144003854,
+    "mse": 7.243062282213941e-05
+  },
+  {
+    "pair": "1sg-2sg",
+    "language": "swedish",
+    "direction": "patch_results_2sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_2sgto1sg_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-2sg/swedish/attn_head_out_all_pos_patch_results_2sgto1sg_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9695774332982624,
+    "pearson": 0.9704748739397174,
+    "mse": 0.00011061074474127963
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "catalan",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_1sgto3sg_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9596659760950412,
+    "pearson": 0.9597825640113158,
+    "mse": 1.4492398804577533e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "catalan",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_3sgto1sg_catalan.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/catalan/attn_head_out_all_pos_patch_results_3sgto1sg_catalan.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9771323205483713,
+    "pearson": 0.9770158585878952,
+    "mse": 1.6540860087843612e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "english",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9952747403382457,
+    "pearson": 0.995543612482337,
+    "mse": 1.904975579236634e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "english",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_3sgto1sg_english.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/english/attn_head_out_all_pos_patch_results_3sgto1sg_english.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9910127025698408,
+    "pearson": 0.9907533145775758,
+    "mse": 9.389204024046194e-06
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "french",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.989038983010511,
+    "pearson": 0.98883614270781,
+    "mse": 2.3851433070376515e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "french",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_3sgto1sg_french.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/french/attn_head_out_all_pos_patch_results_3sgto1sg_french.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9572463967269221,
+    "pearson": 0.9582852357330017,
+    "mse": 104.6763687133789
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "italian",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9611537985807297,
+    "pearson": 0.9604381571621438,
+    "mse": 0.0001026470199576579
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "italian",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_3sgto1sg_italian.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/italian/attn_head_out_all_pos_patch_results_3sgto1sg_italian.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9584195218645891,
+    "pearson": 0.9571611981161625,
+    "mse": 5.2341001719469205e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "portuguese",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9813752389944176,
+    "pearson": 0.9822301933663045,
+    "mse": 1.2244690879015252e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "portuguese",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_3sgto1sg_portuguese.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/portuguese/attn_head_out_all_pos_patch_results_3sgto1sg_portuguese.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9865937161685173,
+    "pearson": 0.9865367439665925,
+    "mse": 2.2607759092352353e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "spanish",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9857607637855066,
+    "pearson": 0.985215557483399,
+    "mse": 7.722229383944068e-06
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "spanish",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_3sgto1sg_spanish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/spanish/attn_head_out_all_pos_patch_results_3sgto1sg_spanish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.9870948823574701,
+    "pearson": 0.9871436759663753,
+    "mse": 1.5069982509885449e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "swedish",
+    "direction": "patch_results_1sgto3sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.959460876688528,
+    "pearson": 0.9602413495307399,
+    "mse": 3.810000271187164e-05
+  },
+  {
+    "pair": "1sg-3sg",
+    "language": "swedish",
+    "direction": "patch_results_3sgto1sg",
+    "edited_path": "mega_automation_edited/results/bigscience/bloom-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_3sgto1sg_swedish.pt",
+    "baseline_path": "mega_automation/results/bigscience/bloom-1b1/1sg-3sg/swedish/attn_head_out_all_pos_patch_results_3sgto1sg_swedish.pt",
+    "edited_shape": [
+      24,
+      16
+    ],
+    "baseline_shape": [
+      24,
+      16
+    ],
+    "used_shape": [
+      24,
+      16
+    ],
+    "cosine": 0.907304261867957,
+    "pearson": 0.9101684156892225,
+    "mse": 0.00012542061449494213
+  }
+]

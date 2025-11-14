@@ -1,0 +1,12 @@
+[Thu Nov  6 04:48:10 AM CET 2025] Task 2 -> spa
+PHASE: select
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+total number of verbs for language spa:  7209
+Filtering pair: first singular vs second singular  (language=spa)
+
+after filter_conjugations, number of saved verbs: 4057
+[spanish] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 221/1300
+number of verbs conjugated correctly: 155/1300
+✅ Saved 50 selected examples to /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-spa.json

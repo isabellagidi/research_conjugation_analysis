@@ -1,0 +1,12 @@
+++ date
++ echo '[Sun Nov  2 12:52:41 AM CET 2025] Task 5 -> rus'
++ echo 'Pair: first singular -> third singular'
++ echo 'Model: bigscience/bloom-1b1'
++ srun python3 -u mega_automation.py ' '
+Traceback (most recent call last):
+  File "/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/incorrect/mega_automation.py", line 23, in <module>
+    from utils_mega_automation import (
+    ...<11 lines>...
+    )
+ModuleNotFoundError: No module named 'utils_mega_automation'
+srun: error: selexini-1: task 0: Exited with exit code 1

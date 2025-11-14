@@ -1,0 +1,12 @@
+[Thu Nov  6 04:42:23 AM CET 2025] Task 0 -> deu
+PHASE: select
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+total number of verbs for language deu:  6610
+Filtering pair: first singular vs second singular  (language=deu)
+
+after filter_conjugations, number of saved verbs: 478
+[german] verbs kept for first singular vs second singular: 478
+number of verbs conjugated correctly: 47/478
+number of verbs conjugated correctly: 39/478
+✅ Saved 39 selected examples to /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-deu.json

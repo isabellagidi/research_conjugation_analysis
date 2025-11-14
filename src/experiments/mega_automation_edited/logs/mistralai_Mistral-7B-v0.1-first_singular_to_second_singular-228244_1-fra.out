@@ -1,0 +1,12 @@
+[Wed Nov  5 07:35:28 AM CET 2025] Task 1 -> fra
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language fra:  6646
+Filtering pair: first singular vs second singular  (language=fra)
+
+after filter_conjugations, number of saved verbs: 4552
+[french] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 272/1300
+number of verbs conjugated correctly: 269/1300

@@ -1,0 +1,9 @@
+++ date
++ echo '[Mon Nov 10 10:48:03 AM CET 2025] Task 7 -> swe'
++ echo 'Pair: first singular -> third singular'
++ echo 'Model: bigscience/bloom-1b1'
++ srun python3 -u mega_automation.py --model_name bigscience/bloom-1b1 --lang_iso3 swe --person_a 'first singular' --person_b 'third singular'
+WARNING:root:Missing key for a weight matrix in pretrained, filled in with an empty tensor: pos_embed.W_pos
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+Asking to truncate to max_length but no maximum length is provided and the model has no predefined maximum length. Default to no truncation.
+slurmstepd: error: *** STEP 230609.0 ON mim1 CANCELLED AT 2025-11-10T11:00:31 DUE TO PREEMPTION ***

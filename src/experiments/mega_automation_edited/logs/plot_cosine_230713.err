@@ -1,0 +1,85 @@
++ module purge
++ '[' -z '' ']'
++ case "$-" in
++ __lmod_sh_dbg=x
++ '[' -n x ']'
++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
++ unset __lmod_sh_dbg
++ return 0
++ ml conda
+++ /opt/ohpc/admin/lmod/lmod/libexec/ml_cmd conda
++ eval 'module  load '\''conda'\'''
+++ module load conda
+++ '[' -z '' ']'
+++ case "$-" in
+++ __lmod_sh_dbg=x
+++ '[' -n x ']'
+++ set +x
+Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod's output
+Shell debugging restarted
+++ unset __lmod_sh_dbg
+++ return 0
++ conda activate jsalt2025
++ local cmd=activate
++ case "$cmd" in
++ __conda_activate activate jsalt2025
++ '[' -n '' ']'
++ local ask_conda
+++ PS1=
+++ __conda_exe shell.posix activate jsalt2025
+++ '[' -n '' ']'
+++ /public/conda/Miniconda/bin/conda shell.posix activate jsalt2025
++ ask_conda='unset _CE_M
+unset _CE_CONDA
+PS1='\''(jsalt2025) '\''
+export PATH='\''/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/bin:/public/conda/Miniconda/condabin:/home/lis.isabella.gidi/.vscode-server/cli/servers/Stable-7d842fb85a0275a4a8e4d7e040d2625abbf7f084/server/bin/remote-cli:/home/lis.isabella.gidi/.local/bin:/home/lis.isabella.gidi/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lis.isabella.gidi/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand'\''
+export CONDA_PREFIX='\''/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025'\''
+export CONDA_SHLVL='\''1'\''
+export CONDA_DEFAULT_ENV='\''jsalt2025'\''
+export CONDA_PROMPT_MODIFIER='\''(jsalt2025) '\''
+export CONDA_EXE='\''/public/conda/Miniconda/bin/conda'\''
+export CONDA_PYTHON_EXE='\''/public/conda/Miniconda/bin/python'\'''
++ eval 'unset _CE_M
+unset _CE_CONDA
+PS1='\''(jsalt2025) '\''
+export PATH='\''/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/bin:/public/conda/Miniconda/condabin:/home/lis.isabella.gidi/.vscode-server/cli/servers/Stable-7d842fb85a0275a4a8e4d7e040d2625abbf7f084/server/bin/remote-cli:/home/lis.isabella.gidi/.local/bin:/home/lis.isabella.gidi/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lis.isabella.gidi/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand'\''
+export CONDA_PREFIX='\''/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025'\''
+export CONDA_SHLVL='\''1'\''
+export CONDA_DEFAULT_ENV='\''jsalt2025'\''
+export CONDA_PROMPT_MODIFIER='\''(jsalt2025) '\''
+export CONDA_EXE='\''/public/conda/Miniconda/bin/conda'\''
+export CONDA_PYTHON_EXE='\''/public/conda/Miniconda/bin/python'\'''
+++ unset _CE_M
+++ unset _CE_CONDA
+++ PS1='(jsalt2025) '
+++ export PATH=/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/bin:/public/conda/Miniconda/condabin:/home/lis.isabella.gidi/.vscode-server/cli/servers/Stable-7d842fb85a0275a4a8e4d7e040d2625abbf7f084/server/bin/remote-cli:/home/lis.isabella.gidi/.local/bin:/home/lis.isabella.gidi/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lis.isabella.gidi/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand
+++ PATH=/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025/bin:/public/conda/Miniconda/condabin:/home/lis.isabella.gidi/.vscode-server/cli/servers/Stable-7d842fb85a0275a4a8e4d7e040d2625abbf7f084/server/bin/remote-cli:/home/lis.isabella.gidi/.local/bin:/home/lis.isabella.gidi/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/lis.isabella.gidi/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand
+++ export CONDA_PREFIX=/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025
+++ CONDA_PREFIX=/public/conda/user_envs/lis.isabella.gidi/envs/jsalt2025
+++ export CONDA_SHLVL=1
+++ CONDA_SHLVL=1
+++ export CONDA_DEFAULT_ENV=jsalt2025
+++ CONDA_DEFAULT_ENV=jsalt2025
+++ export 'CONDA_PROMPT_MODIFIER=(jsalt2025) '
+++ CONDA_PROMPT_MODIFIER='(jsalt2025) '
+++ export CONDA_EXE=/public/conda/Miniconda/bin/conda
+++ CONDA_EXE=/public/conda/Miniconda/bin/conda
+++ export CONDA_PYTHON_EXE=/public/conda/Miniconda/bin/python
+++ CONDA_PYTHON_EXE=/public/conda/Miniconda/bin/python
++ __conda_hashr
++ '[' -n '' ']'
++ '[' -n '' ']'
++ hash -r
++ export PYTHONUNBUFFERED=1
++ PYTHONUNBUFFERED=1
++ BASEDIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited
++ CSV=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/compare_outputs/cosine_similarities.csv
++ OUTPNG=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/compare_outputs/cosine_histogram_-1_to_1.png
++ COL=cosine_similarity
++ BINS=30
+++ dirname /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/compare_outputs/cosine_histogram_-1_to_1.png
++ mkdir -p /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/compare_outputs
++ export CSV OUTPNG COL BINS
++ python -

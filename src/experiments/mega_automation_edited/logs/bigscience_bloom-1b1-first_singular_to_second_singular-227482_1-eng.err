@@ -1,0 +1,13 @@
+++ date
++ echo '[Sat Nov  1 12:15:45 PM CET 2025] Task 1 -> eng'
++ echo 'Pair: first singular -> second singular'
++ echo 'Model: bigscience/bloom-1b1'
++ srun python3 -u mega_automation.py ' '
+usage: mega_automation.py [-h] --model_name MODEL_NAME
+                          --lang_iso3 {cat,ces,deu,eng,fin,fra,hun,ita,mon,por,rus,spa,swe}
+                          --person_a PERSON_A --person_b PERSON_B
+                          [--max_verbs MAX_VERBS]
+                          [--max_prompts_resid MAX_PROMPTS_RESID]
+                          [--max_prompts_head MAX_PROMPTS_HEAD]
+mega_automation.py: error: the following arguments are required: --model_name, --lang_iso3, --person_a, --person_b
+srun: error: selexini-1: task 0: Exited with exit code 2

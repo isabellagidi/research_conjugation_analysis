@@ -1,0 +1,12 @@
+[Wed Nov  5 07:38:14 AM CET 2025] Task 2 -> spa
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language spa:  7209
+Filtering pair: first singular vs second singular  (language=spa)
+
+after filter_conjugations, number of saved verbs: 4057
+[spanish] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 296/1300
+number of verbs conjugated correctly: 239/1300

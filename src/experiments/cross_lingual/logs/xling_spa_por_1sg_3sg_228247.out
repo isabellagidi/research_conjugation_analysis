@@ -1,0 +1,97 @@
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+=== Cross-lingual Activation Patching ===
+Model: bigscience/bloom-1b1
+A (target): spa -> spanish | B (source): por -> portuguese
+Slots: X=first singular  Y=first plural
+Max verbs: 1300 | Max prompts/head: 50 | Top-K groups: 3
+-------------------------------------------------------
+
+[build] portuguese clean (slot=first singular)
+[acc-filter] portuguese clean (slot=first singular)
+number of verbs conjugated correctly: 69/1292
+
+[build] spanish corrupt (slot=first singular)
+[acc-filter] spanish corrupt (slot=first singular)
+number of verbs conjugated correctly: 104/1298
+
+[group] source slot=first singular (inf_len, conj_len)
+[patch] portuguese_to_spanish__1sgto1pl__inf2_conj2 | n=29
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf2_conj2_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf2_conj2_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1sgto1pl__inf2_conj2_spanish.pt
+[patch] portuguese_to_spanish__1sgto1pl__inf3_conj3 | n=19
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf3_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf3_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1sgto1pl__inf3_conj3_spanish.pt
+[patch] portuguese_to_spanish__1sgto1pl__inf2_conj3 | n=5
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf2_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto1pl__inf2_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1sgto1pl__inf2_conj3_spanish.pt
+
+[build] portuguese clean (slot=first plural)
+[acc-filter] portuguese clean (slot=first plural)
+number of verbs conjugated correctly: 147/1298
+
+[build] spanish corrupt (slot=first plural)
+[acc-filter] spanish corrupt (slot=first plural)
+number of verbs conjugated correctly: 146/1300
+
+[group] source slot=first plural (inf_len, conj_len)
+[patch] portuguese_to_spanish__1plto1sg__inf3_conj3 | n=44
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf3_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf3_conj3_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1plto1sg__inf3_conj3_spanish.pt
+[patch] portuguese_to_spanish__1plto1sg__inf3_conj4 | n=6
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf3_conj4_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf3_conj4_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1plto1sg__inf3_conj4_spanish.pt
+[patch] portuguese_to_spanish__1plto1sg__inf4_conj4 | n=3
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf4_conj4_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_portuguese_to_spanish__1plto1sg__inf4_conj4_spanish.png
+✅ Saved: results/bigscience/bloom-1b1/xling/spanish__from__portuguese/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1plto1sg__inf4_conj4_spanish.pt
+
+[build] spanish clean (slot=first singular)
+[acc-filter] spanish clean (slot=first singular)
+number of verbs conjugated correctly: 104/1298
+
+[build] portuguese corrupt (slot=first singular)
+[acc-filter] portuguese corrupt (slot=first singular)
+number of verbs conjugated correctly: 69/1292
+
+[group] source slot=first singular (inf_len, conj_len)
+[patch] spanish_to_portuguese__1sgto1pl__inf2_conj2 | n=29
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf2_conj2_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf2_conj2_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj2/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1sgto1pl__inf2_conj2_portuguese.pt
+[patch] spanish_to_portuguese__1sgto1pl__inf3_conj3 | n=19
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf3_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf3_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf3_conj3/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1sgto1pl__inf3_conj3_portuguese.pt
+[patch] spanish_to_portuguese__1sgto1pl__inf2_conj3 | n=5
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf2_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1sgto1pl__inf2_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1sgto1pl/shape_inf2_conj3/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1sgto1pl__inf2_conj3_portuguese.pt
+
+[build] spanish clean (slot=first plural)
+[acc-filter] spanish clean (slot=first plural)
+number of verbs conjugated correctly: 146/1300
+
+[build] portuguese corrupt (slot=first plural)
+[acc-filter] portuguese corrupt (slot=first plural)
+number of verbs conjugated correctly: 147/1298
+
+[group] source slot=first plural (inf_len, conj_len)
+[patch] spanish_to_portuguese__1plto1sg__inf3_conj3 | n=44
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf3_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf3_conj3_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj3/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1plto1sg__inf3_conj3_portuguese.pt
+[patch] spanish_to_portuguese__1plto1sg__inf3_conj4 | n=6
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf3_conj4_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf3_conj4_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf3_conj4/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1plto1sg__inf3_conj4_portuguese.pt
+[patch] spanish_to_portuguese__1plto1sg__inf4_conj4 | n=3
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf4_conj4_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_spanish_to_portuguese__1plto1sg__inf4_conj4_portuguese.png
+✅ Saved: results/bigscience/bloom-1b1/xling/portuguese__from__spanish/1plto1sg/shape_inf4_conj4/xling_attn_head_out_all_pos_patch_results_spanish_to_portuguese__1plto1sg__inf4_conj4_portuguese.pt
+✅ All cross-lingual runs finished.

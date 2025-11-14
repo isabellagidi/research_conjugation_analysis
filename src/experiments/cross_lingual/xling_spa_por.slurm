@@ -7,7 +7,7 @@
 #SBATCH --mem-per-cpu=8G
 #SBATCH --gres=gpu:a100-80:1
 #SBATCH --time=24:00:00
-#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/xling
+#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/cross_lingual
 #SBATCH --output=logs/%x_%j.out
 #SBATCH --error=logs/%x_%j.err
 
@@ -23,12 +23,12 @@ export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 MODEL_NAME="bigscience/bloom-1b1"
 
-srun python3 -u crosslingual_activation_patching.py \
+srun python3 -u cross_lingual_patching.py \
   --model_name "${MODEL_NAME}" \
   --lang_a "spa" \
   --lang_b "por" \
   --slot_x "first singular" \
-  --slot_y "third singular" \
+  --slot_y "first plural" \
   --max_verbs 1300 \
   --max_prompts_head 50 \
   --topk_groups 3 \

@@ -1,0 +1,76 @@
+[1pl-2pl | catalan | patch_results_1plto2pl] cos=0.9879 pearson=0.9877 mse=6.26404e-06 used=(24, 16)
+[1pl-2pl | catalan | patch_results_2plto1pl] cos=0.9694 pearson=0.9681 mse=1.98906e-05 used=(24, 16)
+[1pl-2pl | english | patch_results_1plto2pl] cos=0.9893 pearson=0.9895 mse=1.16303e-05 used=(24, 16)
+[1pl-2pl | english | patch_results_2plto1pl] cos=0.9923 pearson=0.9926 mse=9.27736e-06 used=(24, 16)
+[1pl-2pl | french | patch_results_1plto2pl] cos=0.9877 pearson=0.9871 mse=1.03883e-05 used=(24, 16)
+[1pl-2pl | french | patch_results_2plto1pl] cos=0.9964 pearson=0.9963 mse=1.20186e-05 used=(24, 16)
+[1pl-2pl | italian | patch_results_1plto2pl] cos=0.9683 pearson=0.9679 mse=0.00651078 used=(24, 16)
+[1pl-2pl | italian | patch_results_2plto1pl] cos=0.9311 pearson=0.9312 mse=0.000100995 used=(24, 16)
+[1pl-2pl | portuguese | patch_results_1plto2pl] cos=0.9922 pearson=0.9924 mse=0.00062672 used=(24, 16)
+[1pl-2pl | portuguese | patch_results_2plto1pl] cos=0.9902 pearson=0.9901 mse=2.24276e-05 used=(24, 16)
+[1pl-2pl | spanish | patch_results_1plto2pl] cos=0.9925 pearson=0.9929 mse=0.00381573 used=(24, 16)
+[1pl-2pl | spanish | patch_results_2plto1pl] cos=0.9956 pearson=0.9957 mse=9.10345e-06 used=(24, 16)
+[1pl-2pl | swedish | patch_results_1plto2pl] cos=0.9771 pearson=0.9769 mse=0.000458251 used=(24, 16)
+[1pl-2pl | swedish | patch_results_2plto1pl] cos=0.9721 pearson=0.9724 mse=0.000476387 used=(24, 16)
+[1sg-1pl | catalan | patch_results_1plto1sg] cos=0.9934 pearson=0.9931 mse=2.7292e-06 used=(24, 16)
+[1sg-1pl | catalan | patch_results_1sgto1pl] cos=0.8378 pearson=0.8412 mse=0.000245339 used=(24, 16)
+[1sg-1pl | english | patch_results_1plto1sg] cos=0.9952 pearson=0.9955 mse=5.04024e-06 used=(24, 16)
+[1sg-1pl | english | patch_results_1sgto1pl] cos=0.9942 pearson=0.9944 mse=3.42034e-05 used=(24, 16)
+[1sg-1pl | french | patch_results_1plto1sg] cos=0.9829 pearson=0.9819 mse=9.22007e-06 used=(24, 16)
+[1sg-1pl | french | patch_results_1sgto1pl] cos=0.9662 pearson=0.9651 mse=1.13704e-05 used=(24, 16)
+[1sg-1pl | italian | patch_results_1plto1sg] cos=0.9949 pearson=0.9942 mse=3.43224e-06 used=(24, 16)
+[1sg-1pl | italian | patch_results_1sgto1pl] cos=-0.9138 pearson=-0.9235 mse=0.0326733 used=(24, 16)
+[1sg-1pl | portuguese | patch_results_1plto1sg] cos=0.9934 pearson=0.9932 mse=5.7905e-06 used=(24, 16)
+[1sg-1pl | portuguese | patch_results_1sgto1pl] cos=0.9817 pearson=0.9805 mse=9.07661e-06 used=(24, 16)
+[1sg-1pl | spanish | patch_results_1plto1sg] cos=0.9969 pearson=0.9970 mse=7.53823e-06 used=(24, 16)
+[1sg-1pl | spanish | patch_results_1sgto1pl] cos=0.9636 pearson=0.9626 mse=1.2084e-05 used=(24, 16)
+[1sg-1pl | swedish | patch_results_1plto1sg] cos=0.9805 pearson=0.9814 mse=0.00418502 used=(24, 16)
+[1sg-1pl | swedish | patch_results_1sgto1pl] cos=0.9713 pearson=0.9716 mse=0.00269438 used=(24, 16)
+[1sg-2sg | catalan | patch_results_1sgto2sg] cos=0.9877 pearson=0.9877 mse=9.12983e-05 used=(24, 16)
+[1sg-2sg | catalan | patch_results_2sgto1sg] cos=0.9897 pearson=0.9898 mse=6.4823e-05 used=(24, 16)
+[1sg-2sg | english | patch_results_1sgto2sg] cos=0.9939 pearson=0.9940 mse=7.51608e-05 used=(24, 16)
+[1sg-2sg | english | patch_results_2sgto1sg] cos=0.9954 pearson=0.9956 mse=1.16938e-05 used=(24, 16)
+[1sg-2sg | french | patch_results_1sgto2sg] cos=0.9630 pearson=0.9630 mse=2.88013e-05 used=(24, 16)
+[1sg-2sg | french | patch_results_2sgto1sg] cos=0.9778 pearson=0.9774 mse=3.84737e-05 used=(24, 16)
+[1sg-2sg | italian | patch_results_1sgto2sg] cos=0.9309 pearson=0.9361 mse=4.96935e-05 used=(24, 16)
+[1sg-2sg | italian | patch_results_2sgto1sg] cos=0.9772 pearson=0.9769 mse=3.75241e-05 used=(24, 16)
+[1sg-2sg | portuguese | patch_results_1sgto2sg] cos=0.9194 pearson=0.9201 mse=3.59753e-05 used=(24, 16)
+[1sg-2sg | portuguese | patch_results_2sgto1sg] cos=0.9885 pearson=0.9879 mse=3.50762e-06 used=(24, 16)
+[1sg-2sg | spanish | patch_results_1sgto2sg] cos=0.9693 pearson=0.9684 mse=1.9904e-05 used=(24, 16)
+[1sg-2sg | spanish | patch_results_2sgto1sg] cos=0.9885 pearson=0.9888 mse=1.26704e-05 used=(24, 16)
+[1sg-2sg | swedish | patch_results_1sgto2sg] cos=0.9668 pearson=0.9677 mse=7.24306e-05 used=(24, 16)
+[1sg-2sg | swedish | patch_results_2sgto1sg] cos=0.9696 pearson=0.9705 mse=0.000110611 used=(24, 16)
+[1sg-3sg | catalan | patch_results_1sgto3sg] cos=0.9597 pearson=0.9598 mse=1.44924e-05 used=(24, 16)
+[1sg-3sg | catalan | patch_results_3sgto1sg] cos=0.9771 pearson=0.9770 mse=1.65409e-05 used=(24, 16)
+[1sg-3sg | english | patch_results_1sgto3sg] cos=0.9953 pearson=0.9955 mse=1.90498e-05 used=(24, 16)
+[1sg-3sg | english | patch_results_3sgto1sg] cos=0.9910 pearson=0.9908 mse=9.3892e-06 used=(24, 16)
+[1sg-3sg | french | patch_results_1sgto3sg] cos=0.9890 pearson=0.9888 mse=2.38514e-05 used=(24, 16)
+[1sg-3sg | french | patch_results_3sgto1sg] cos=0.9572 pearson=0.9583 mse=104.676 used=(24, 16)
+[1sg-3sg | italian | patch_results_1sgto3sg] cos=0.9612 pearson=0.9604 mse=0.000102647 used=(24, 16)
+[1sg-3sg | italian | patch_results_3sgto1sg] cos=0.9584 pearson=0.9572 mse=5.2341e-05 used=(24, 16)
+[1sg-3sg | portuguese | patch_results_1sgto3sg] cos=0.9814 pearson=0.9822 mse=1.22447e-05 used=(24, 16)
+[1sg-3sg | portuguese | patch_results_3sgto1sg] cos=0.9866 pearson=0.9865 mse=2.26078e-05 used=(24, 16)
+[1sg-3sg | spanish | patch_results_1sgto3sg] cos=0.9858 pearson=0.9852 mse=7.72223e-06 used=(24, 16)
+[1sg-3sg | spanish | patch_results_3sgto1sg] cos=0.9871 pearson=0.9871 mse=1.507e-05 used=(24, 16)
+[1sg-3sg | swedish | patch_results_1sgto3sg] cos=0.9595 pearson=0.9602 mse=3.81e-05 used=(24, 16)
+[1sg-3sg | swedish | patch_results_3sgto1sg] cos=0.9073 pearson=0.9102 mse=0.000125421 used=(24, 16)
+💾 Wrote logit_comparisons/logit_comparison_summary.csv
+💾 Wrote logit_comparisons/logit_comparison_summary.json
+✅ Saved logit_comparisons/plots/1pl-2pl/patch_results_1plto2pl/cosine_bars_1pl-2pl_patch_results_1plto2pl.png
+✅ Saved logit_comparisons/plots/1pl-2pl/patch_results_2plto1pl/cosine_bars_1pl-2pl_patch_results_2plto1pl.png
+✅ Saved logit_comparisons/plots/1sg-1pl/patch_results_1plto1sg/cosine_bars_1sg-1pl_patch_results_1plto1sg.png
+✅ Saved logit_comparisons/plots/1sg-1pl/patch_results_1sgto1pl/cosine_bars_1sg-1pl_patch_results_1sgto1pl.png
+✅ Saved logit_comparisons/plots/1sg-2sg/patch_results_1sgto2sg/cosine_bars_1sg-2sg_patch_results_1sgto2sg.png
+✅ Saved logit_comparisons/plots/1sg-2sg/patch_results_2sgto1sg/cosine_bars_1sg-2sg_patch_results_2sgto1sg.png
+✅ Saved logit_comparisons/plots/1sg-3sg/patch_results_1sgto3sg/cosine_bars_1sg-3sg_patch_results_1sgto3sg.png
+✅ Saved logit_comparisons/plots/1sg-3sg/patch_results_3sgto1sg/cosine_bars_1sg-3sg_patch_results_3sgto1sg.png
+✅ Saved logit_comparisons/plots/1pl-2pl/patch_results_1plto2pl/pearson_bars_1pl-2pl_patch_results_1plto2pl.png
+✅ Saved logit_comparisons/plots/1pl-2pl/patch_results_2plto1pl/pearson_bars_1pl-2pl_patch_results_2plto1pl.png
+✅ Saved logit_comparisons/plots/1sg-1pl/patch_results_1plto1sg/pearson_bars_1sg-1pl_patch_results_1plto1sg.png
+✅ Saved logit_comparisons/plots/1sg-1pl/patch_results_1sgto1pl/pearson_bars_1sg-1pl_patch_results_1sgto1pl.png
+✅ Saved logit_comparisons/plots/1sg-2sg/patch_results_1sgto2sg/pearson_bars_1sg-2sg_patch_results_1sgto2sg.png
+✅ Saved logit_comparisons/plots/1sg-2sg/patch_results_2sgto1sg/pearson_bars_1sg-2sg_patch_results_2sgto1sg.png
+✅ Saved logit_comparisons/plots/1sg-3sg/patch_results_1sgto3sg/pearson_bars_1sg-3sg_patch_results_1sgto3sg.png
+✅ Saved logit_comparisons/plots/1sg-3sg/patch_results_3sgto1sg/pearson_bars_1sg-3sg_patch_results_3sgto1sg.png
+✅ Saved logit_comparisons/hist_cosine.png
+✅ Saved logit_comparisons/hist_pearson.png

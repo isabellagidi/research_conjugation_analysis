@@ -1,0 +1,62 @@
+{
+  "model": "bigscience/bloom-1b1",
+  "pair": "1sg-1pl",
+  "language": "french",
+  "direction": "1sgto1pl",
+  "top_heads": [
+    {
+      "layer": 19,
+      "head": 3,
+      "score": 0.11623010784387589
+    },
+    {
+      "layer": 20,
+      "head": 5,
+      "score": 0.09062183648347855
+    },
+    {
+      "layer": 22,
+      "head": 1,
+      "score": 0.07508397847414017
+    },
+    {
+      "layer": 21,
+      "head": 1,
+      "score": 0.07063930481672287
+    },
+    {
+      "layer": 19,
+      "head": 4,
+      "score": 0.06943973898887634
+    },
+    {
+      "layer": 21,
+      "head": 2,
+      "score": 0.05642126500606537
+    },
+    {
+      "layer": 23,
+      "head": 2,
+      "score": 0.052638277411460876
+    },
+    {
+      "layer": 20,
+      "head": 0,
+      "score": 0.048054687678813934
+    },
+    {
+      "layer": 18,
+      "head": 11,
+      "score": 0.0449022576212883
+    },
+    {
+      "layer": 17,
+      "head": 5,
+      "score": 0.042059145867824554
+    }
+  ],
+  "baseline_acc": 0.0,
+  "patched_acc": 0.3999999761581421,
+  "improvement": 0.3999999761581421,
+  "n_eval": 50
+}

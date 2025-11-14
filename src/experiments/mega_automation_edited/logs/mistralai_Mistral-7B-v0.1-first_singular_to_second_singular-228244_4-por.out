@@ -1,0 +1,12 @@
+[Wed Nov  5 11:34:57 AM CET 2025] Task 4 -> por
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language por:  4444
+Filtering pair: first singular vs second singular  (language=por)
+
+after filter_conjugations, number of saved verbs: 2432
+[portuguese] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 255/1300
+number of verbs conjugated correctly: 251/1300

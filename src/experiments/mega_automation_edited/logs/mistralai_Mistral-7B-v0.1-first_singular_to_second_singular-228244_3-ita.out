@@ -1,0 +1,12 @@
+[Wed Nov  5 11:18:59 AM CET 2025] Task 3 -> ita
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+Loaded pretrained model mistralai/Mistral-7B-v0.1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language ita:  9927
+Filtering pair: first singular vs second singular  (language=ita)
+
+after filter_conjugations, number of saved verbs: 6313
+[italian] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 225/1300
+number of verbs conjugated correctly: 208/1300

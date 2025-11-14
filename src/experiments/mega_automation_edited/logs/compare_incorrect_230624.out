@@ -1,0 +1,7 @@
+[info] scanning correct:   /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/results
+[info] scanning incorrect: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/incorrect/results
+[info] output directory:   /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/compare_outputs
+[info] found 56 correct files, 54 incorrect files
+[info] comparing 54 matching pairs
+[info] wrote CSV: compare_outputs/cosine_similarities.csv (54 rows)
+[info] wrote histogram: compare_outputs/cosine_histogram.png

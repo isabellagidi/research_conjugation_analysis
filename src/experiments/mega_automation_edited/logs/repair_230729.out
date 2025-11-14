@@ -1,0 +1,127 @@
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language cat:  2360
+Filtering pair: first plural vs second plural  (language=cat)
+
+after filter_conjugations, number of saved verbs: 865
+[catalan] verbs kept for first plural vs second plural: 865
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_catalan.json  (Δ=0.160, n=50)
+total number of verbs for language cat:  2360
+Filtering pair: first plural vs second plural  (language=cat)
+
+after filter_conjugations, number of saved verbs: 865
+[catalan] verbs kept for first plural vs second plural: 865
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_catalan.json  (Δ=0.200, n=50)
+total number of verbs for language eng:  23896
+Filtering pair: first plural vs second plural  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_english.json  (Δ=0.143, n=7)
+total number of verbs for language eng:  23896
+Filtering pair: first plural vs second plural  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_english.json  (Δ=0.000, n=1)
+total number of verbs for language fra:  6646
+Filtering pair: first plural vs second plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 3205
+[french] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_french.json  (Δ=0.020, n=50)
+total number of verbs for language fra:  6646
+Filtering pair: first plural vs second plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 3205
+[french] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_french.json  (Δ=0.020, n=50)
+total number of verbs for language ita:  9927
+Filtering pair: first plural vs second plural  (language=ita)
+
+after filter_conjugations, number of saved verbs: 4645
+[italian] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_italian.json  (Δ=0.020, n=50)
+total number of verbs for language ita:  9927
+Filtering pair: first plural vs second plural  (language=ita)
+
+after filter_conjugations, number of saved verbs: 4645
+[italian] verbs kept for first plural vs second plural: 1300
+↪️  [1pl-2pl | italian | 2plto1pl] no verbs where clean is correct AND corrupted is wrong. Skipping.
+total number of verbs for language por:  4444
+Filtering pair: first plural vs second plural  (language=por)
+
+after filter_conjugations, number of saved verbs: 2631
+[portuguese] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_portuguese.json  (Δ=0.000, n=50)
+total number of verbs for language por:  4444
+Filtering pair: first plural vs second plural  (language=por)
+
+after filter_conjugations, number of saved verbs: 2631
+[portuguese] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_portuguese.json  (Δ=0.000, n=50)
+total number of verbs for language spa:  7209
+Filtering pair: first plural vs second plural  (language=spa)
+
+after filter_conjugations, number of saved verbs: 5913
+[spanish] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_spanish.json  (Δ=0.060, n=50)
+total number of verbs for language spa:  7209
+Filtering pair: first plural vs second plural  (language=spa)
+
+after filter_conjugations, number of saved verbs: 5913
+[spanish] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_spanish.json  (Δ=0.000, n=50)
+total number of verbs for language swe:  2526
+Filtering pair: first plural vs second plural  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_1plto2pl_swedish.json  (Δ=0.000, n=6)
+total number of verbs for language swe:  2526
+Filtering pair: first plural vs second plural  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first plural vs second plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1pl-2pl_2plto1pl_swedish.json  (Δ=0.250, n=4)
+total number of verbs for language cat:  2360
+Filtering pair: first singular vs first plural  (language=cat)
+
+after filter_conjugations, number of saved verbs: 655
+[catalan] verbs kept for first singular vs first plural: 655
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1plto1sg_catalan.json  (Δ=0.021, n=47)
+total number of verbs for language cat:  2360
+Filtering pair: first singular vs first plural  (language=cat)
+
+after filter_conjugations, number of saved verbs: 655
+[catalan] verbs kept for first singular vs first plural: 655
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1sgto1pl_catalan.json  (Δ=0.060, n=50)
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs first plural  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first singular vs first plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1plto1sg_english.json  (Δ=0.000, n=5)
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs first plural  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first singular vs first plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1sgto1pl_english.json  (Δ=0.000, n=2)
+total number of verbs for language fra:  6646
+Filtering pair: first singular vs first plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 1485
+[french] verbs kept for first singular vs first plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1plto1sg_french.json  (Δ=0.300, n=50)
+total number of verbs for language fra:  6646
+Filtering pair: first singular vs first plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 1485
+[french] verbs kept for first singular vs first plural: 1300
+✅ Saved results_summary/bigscience_bloom-1b1/improvement_1sg-1pl_1sgto1pl_french.json  (Δ=0.400, n=50)
+total number of verbs for language ita:  9927
+Filtering pair: first singular vs first plural  (language=ita)
+
+after filter_conjugations, number of saved verbs: 1077
+[italian] verbs kept for first singular vs first plural: 1077

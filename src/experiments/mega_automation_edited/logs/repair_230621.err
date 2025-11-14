@@ -1,0 +1,10 @@
++ BASEDIR=/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited
++ cd /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited
++ export PYTHONPATH=/home/lis.isabella.gidi/jsalt2025/src/experiments:
++ PYTHONPATH=/home/lis.isabella.gidi/jsalt2025/src/experiments:
++ export PYTHONUNBUFFERED=1
++ PYTHONUNBUFFERED=1
++ MODEL_NAME=bigscience/bloom-1b1
++ MORPHY=/home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_present_conjugations.json
++ python3 -u repair_with_top_heads.py --model_name bigscience/bloom-1b1 --results_root results --morphynet_path /home/lis.isabella.gidi/jsalt2025/src/datasets/morphy_net/MorphyNet_all_present_conjugations.json --max_verbs 1300 --max_prompts_head 50 --batch_size 16 --device cuda --out_dir results_summary
+python3: can't open file '/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/repair_with_top_heads.py': [Errno 2] No such file or directory

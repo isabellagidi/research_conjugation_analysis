@@ -1,0 +1,16 @@
+[Mon Nov 10 08:37:50 AM CET 2025] Task 1 -> eng
+Pair: first singular -> second singular
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language eng:  23896
+Filtering pair: first singular vs second singular  (language=eng)
+
+after filter_conjugations, number of saved verbs: 23896
+[english] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 337/1300
+number of verbs conjugated correctly: 334/1300
+✅ Saved: attn_head_out_all_pos_2sgto1sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_2sgto1sg_english.pt
+✅ Saved: attn_head_out_all_pos_1sgto2sg_english.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto2sg_english.pt

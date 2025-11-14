@@ -1,0 +1,67 @@
+
+================= MODEL: mistralai/Mistral-7B-v0.1 =================
+Looking under PATCHES_ROOT: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-deu/attn_head_out_all_pos_patch_results_1plto2pl_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-eng/attn_head_out_all_pos_patch_results_1plto2pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-fra/attn_head_out_all_pos_patch_results_1plto2pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-por/attn_head_out_all_pos_patch_results_1plto2pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-spa/attn_head_out_all_pos_patch_results_1plto2pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-swe/attn_head_out_all_pos_patch_results_1plto2pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-ita/attn_head_out_all_pos_patch_results_1plto2pl_italian.pt
+↪️  Not enough languages for RSA: pair=1pl-2pl, dir=1plto2pl
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-deu/attn_head_out_all_pos_patch_results_2plto1pl_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-eng/attn_head_out_all_pos_patch_results_2plto1pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-fra/attn_head_out_all_pos_patch_results_2plto1pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-por/attn_head_out_all_pos_patch_results_2plto1pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-spa/attn_head_out_all_pos_patch_results_2plto1pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-swe/attn_head_out_all_pos_patch_results_2plto1pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_plural_to_second_plural-ita/attn_head_out_all_pos_patch_results_2plto1pl_italian.pt
+↪️  Not enough languages for RSA: pair=1pl-2pl, dir=2plto1pl
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-deu/attn_head_out_all_pos_patch_results_1sgto1pl_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-eng/attn_head_out_all_pos_patch_results_1sgto1pl_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-fra/attn_head_out_all_pos_patch_results_1sgto1pl_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-por/attn_head_out_all_pos_patch_results_1sgto1pl_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-spa/attn_head_out_all_pos_patch_results_1sgto1pl_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-swe/attn_head_out_all_pos_patch_results_1sgto1pl_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-ita/attn_head_out_all_pos_patch_results_1sgto1pl_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-1pl, dir=1sgto1pl
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-deu/attn_head_out_all_pos_patch_results_1plto1sg_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-eng/attn_head_out_all_pos_patch_results_1plto1sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-fra/attn_head_out_all_pos_patch_results_1plto1sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-por/attn_head_out_all_pos_patch_results_1plto1sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-spa/attn_head_out_all_pos_patch_results_1plto1sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-swe/attn_head_out_all_pos_patch_results_1plto1sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_first_plural-ita/attn_head_out_all_pos_patch_results_1plto1sg_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-1pl, dir=1plto1sg
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-deu/attn_head_out_all_pos_patch_results_1sgto2sg_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-eng/attn_head_out_all_pos_patch_results_1sgto2sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-fra/attn_head_out_all_pos_patch_results_1sgto2sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-por/attn_head_out_all_pos_patch_results_1sgto2sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-spa/attn_head_out_all_pos_patch_results_1sgto2sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-swe/attn_head_out_all_pos_patch_results_1sgto2sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-ita/attn_head_out_all_pos_patch_results_1sgto2sg_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-2sg, dir=1sgto2sg
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-deu/attn_head_out_all_pos_patch_results_2sgto1sg_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-eng/attn_head_out_all_pos_patch_results_2sgto1sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-fra/attn_head_out_all_pos_patch_results_2sgto1sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-por/attn_head_out_all_pos_patch_results_2sgto1sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-spa/attn_head_out_all_pos_patch_results_2sgto1sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-swe/attn_head_out_all_pos_patch_results_2sgto1sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_second_singular-ita/attn_head_out_all_pos_patch_results_2sgto1sg_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-2sg, dir=2sgto1sg
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-deu/attn_head_out_all_pos_patch_results_1sgto3sg_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-eng/attn_head_out_all_pos_patch_results_1sgto3sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-fra/attn_head_out_all_pos_patch_results_1sgto3sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-por/attn_head_out_all_pos_patch_results_1sgto3sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-spa/attn_head_out_all_pos_patch_results_1sgto3sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-swe/attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-ita/attn_head_out_all_pos_patch_results_1sgto3sg_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-3sg, dir=1sgto3sg
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-deu/attn_head_out_all_pos_patch_results_3sgto1sg_german.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-eng/attn_head_out_all_pos_patch_results_3sgto1sg_english.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-fra/attn_head_out_all_pos_patch_results_3sgto1sg_french.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-por/attn_head_out_all_pos_patch_results_3sgto1sg_portuguese.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-spa/attn_head_out_all_pos_patch_results_3sgto1sg_spanish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-swe/attn_head_out_all_pos_patch_results_3sgto1sg_swedish.pt
+⚠️ Missing: /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/patches/mistralai__Mistral-7B-v0.1-first_singular_to_third_singular-ita/attn_head_out_all_pos_patch_results_3sgto1sg_italian.pt
+↪️  Not enough languages for RSA: pair=1sg-3sg, dir=3sgto1sg

@@ -1,0 +1,10 @@
+{
+  "direction": "portuguese_to_spanish__1sgto3sg__inf2_conj2",
+  "lang_tag": "spanish",
+  "n_examples": 29,
+  "clean_base_logp_on_target_ids": -13.520445823669434,
+  "corrupted_base_logp_on_target_ids": -14.10147476196289,
+  "save_prefix": "xling_attn_head_out_all_pos",
+  "png": "xling_attn_head_out_all_pos_portuguese_to_spanish__1sgto3sg__inf2_conj2_spanish.png",
+  "tensor": "xling_attn_head_out_all_pos_patch_results_portuguese_to_spanish__1sgto3sg__inf2_conj2_spanish.pt"
+}

@@ -8,7 +8,7 @@
 #SBATCH --gres=gpu:a100-80:1
 #SBATCH --time=30:00:00
 #SBATCH --array=0-7%4
-#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/prob_change
+#SBATCH -D /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/incorrect
 # prevent duplicate SLURM-captured files since we manage our own logs:
 #SBATCH --output=/dev/null
 #SBATCH --error=/dev/null
@@ -19,7 +19,7 @@ conda activate jsalt2025
 set -euo pipefail
 set -x
 
-BASEDIR="/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/prob_change" # EDIT HERE (and above) (and below!!)
+BASEDIR="/home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/incorrect" # EDIT HERE (and above) (and below!!)
 cd "$BASEDIR"
 mkdir -p "$BASEDIR/logs"
 
@@ -48,7 +48,7 @@ echo "[$(date)] Task ${SLURM_ARRAY_TASK_ID} -> ${LANG_ISO3}"
 echo "Pair: ${PERSON_A} -> ${PERSON_B}"
 echo "Model: ${MODEL_NAME}"
 
-srun python3 -u mega_automation_prob_change.py \ 
+srun python3 -u mega_automation.py \ 
   --model_name "${MODEL_NAME}" \
   --lang_iso3 "${LANG_ISO3}" \
   --person_a "${PERSON_A}" \

@@ -1,0 +1,16 @@
+[Sat Nov  1 02:15:55 AM CET 2025] Task 2 -> fra
+Pair: first singular -> first plural
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language fra:  6646
+Filtering pair: first singular vs first plural  (language=fra)
+
+after filter_conjugations, number of saved verbs: 1485
+[french] verbs kept for first singular vs first plural: 1300
+number of verbs conjugated correctly: 281/1300
+number of verbs conjugated correctly: 248/1300
+✅ Saved: attn_head_out_all_pos_1plto1sg_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1plto1sg_french.pt
+✅ Saved: attn_head_out_all_pos_1sgto1pl_french.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto1pl_french.pt

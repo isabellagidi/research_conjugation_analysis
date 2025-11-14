@@ -1,0 +1,27 @@
+[Mon Nov 10 10:48:03 AM CET 2025] Task 7 -> swe
+Pair: first singular -> third singular
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language swe:  2526
+Filtering pair: first singular vs third singular  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first singular vs third singular: 1300
+number of verbs conjugated correctly: 287/1300
+[Mon Nov 10 11:07:28 AM CET 2025] Task 7 -> swe
+Pair: first singular -> third singular
+Model: bigscience/bloom-1b1
+Loaded pretrained model bigscience/bloom-1b1 into HookedTransformer
+Moving model to device:  cuda
+total number of verbs for language swe:  2526
+Filtering pair: first singular vs third singular  (language=swe)
+
+after filter_conjugations, number of saved verbs: 2526
+[swedish] verbs kept for first singular vs third singular: 1300
+number of verbs conjugated correctly: 287/1300
+number of verbs conjugated correctly: 265/1300
+✅ Saved: attn_head_out_all_pos_3sgto1sg_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_3sgto1sg_swedish.pt
+✅ Saved: attn_head_out_all_pos_1sgto3sg_swedish.png
+✅ Saved tensor: attn_head_out_all_pos_patch_results_1sgto3sg_swedish.pt

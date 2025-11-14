@@ -1,0 +1,12 @@
+[Thu Nov  6 04:42:23 AM CET 2025] Task 1 -> fra
+PHASE: select
+Pair: first singular -> second singular
+Model: mistralai/Mistral-7B-v0.1
+total number of verbs for language fra:  6646
+Filtering pair: first singular vs second singular  (language=fra)
+
+after filter_conjugations, number of saved verbs: 4552
+[french] verbs kept for first singular vs second singular: 1300
+number of verbs conjugated correctly: 144/1300
+number of verbs conjugated correctly: 140/1300
+✅ Saved 50 selected examples to /home/lis.isabella.gidi/jsalt2025/src/experiments/mega_automation_edited/Mistral/results/selections/mistralai_Mistral-7B-v0.1-first_singular_to_second_singular-fra.json
